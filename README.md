@@ -3,9 +3,7 @@
 This project presents a data analysis and interactive dashboard using Power BI, based on customer purchase data.
 
 ---
-# Dashboard Perview
-[Customer Insights Dashboard](ustomer_Insights_Dashboard.png
-)
+
 # Files Included
 
 | File Name                | Description                                       |
@@ -18,9 +16,13 @@ This project presents a data analysis and interactive dashboard using Power BI, 
 
 # Tools & Technologies Used
  • Power BI – For building the dashboard and creating interactive visualizations.
+ 
  • Jupyter Notebook – For initial data cleaning using Python (Pandas).
+ 
  • Power Query – For additional data transformation inside Power BI.
+ 
  • Tooltips – Used in some visuals to provide extra context on hover.
+ 
  • Git & GitHub – For version control and project sharing.
 
 ---
