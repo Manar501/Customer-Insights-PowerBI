@@ -3,7 +3,8 @@
 This project presents a data analysis and interactive dashboard using Power BI, based on customer purchase data.
 
 ---
-
+# Dashboard Perview
+[Customer Insights Dashboard](CustomerInsightsDashboard.png)
 # Files Included
 
 | File Name                | Description                                       |
