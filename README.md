@@ -1,6 +1,6 @@
 #  Customer Insights Dashboard
 
-This project presents a data analysis and interactive dashboard using Power BI, based on customer purchase data.
+This project showcases a complete data analysis workflow and an interactive dashboard built using Power BI, based on customer purchase behavior. The process includes data cleaning, exploratory analysis, and visual storytelling to uncover key insights about customer demographics, spending habits, and purchasing patterns
 
 ---
 
