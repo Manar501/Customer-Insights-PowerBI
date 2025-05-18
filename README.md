@@ -4,7 +4,8 @@ This project presents a data analysis and interactive dashboard using Power BI, 
 
 ---
 # Dashboard Perview
-[Customer Insights Dashboard](CustomerInsightsDashboard.png)
+[Customer Insights Dashboard](ustomer_Insights_Dashboard.png
+)
 # Files Included
 
 | File Name                | Description                                       |
