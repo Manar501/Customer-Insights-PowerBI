@@ -1,0 +1,1972 @@
+CustomerID,Gender,Age,Items Purchased,Category,Purchase Amount,Shipping Type,Subscription Status,Season,Country,Age Group
+1,Male,18,Blouse,Clothing,50,Express,Yes,Spring,United States,Under 18
+2,Male,20,Sweater,Clothing,25,Free Shipping,No,Summer,United States,18-24
+3,Female,35,Jeans,Clothing,15,Next Day Air,Yes,Fall,United States,25-34
+4,Female,45,Sandals,Footwear,69,2-Day Shipping,No,Winter,United States,35-44
+5,Female,60,Blouse,Clothing,85,2-Day Shipping,Yes,Winter,United States,55-64
+6,Female,22,Sneakers,Footwear,12,2-Day Shipping,No,Winter,United States,25-34
+7,Female,24,Shirt,Clothing,100,2-Day Shipping,Yes,Winter,United States,25-34
+8,Female,68,Shorts,Clothing,23,2-Day Shipping,No,Winter,France,65+
+9,Male,53,Coat,Outerwear,14,2-Day Shipping,Yes,Winter,France,55-64
+10,Female,74,Handbag,Accessories,25,2-Day Shipping,No,Winter,United States,65+
+11,Male,55,Sunglasses,Accessories,41,2-Day Shipping,Yes,Winter,France,55-64
+12,Female,51,Scarf,Accessories,22,2-Day Shipping,No,Winter,France,55-64
+13,Female,42,Blouse,Clothing,63,2-Day Shipping,Yes,Winter,France,35-44
+14,Female,47,Jeans,Clothing,98,2-Day Shipping,Yes,Winter,France,55-64
+15,Male,48,Sandals,Footwear,99,2-Day Shipping,No,Winter,France,55-64
+16,Male,60,Blouse,Clothing,65,2-Day Shipping,Yes,Winter,Algeria,55-64
+17,Female,22,Sneakers,Footwear,35,2-Day Shipping,No,Winter,Algeria,25-34
+18,Male,21,Shirt,Clothing,85,2-Day Shipping,Yes,Winter,Algeria,25-34
+20,Female,23,Coat,Outerwear,74,2-Day Shipping,Yes,Winter,Algeria,25-34
+21,Male,25,Handbag,Accessories,52,Express,No,Winter,France,25-34
+22,Male,25,Sunglasses,Accessories,22,Express,Yes,Winter,United States,25-34
+23,Female,26,Scarf,Accessories,21,Express,No,Winter,United States,25-34
+24,Male,28,Blouse,Clothing,45,Express,Yes,Winter,United States,25-34
+25,Female,27,Sweater,Clothing,77,Express,No,Winter,United States,25-34
+26,Male,29,Jeans,Clothing,50,Express,Yes,Winter,United States,25-34
+27,Female,21,Sandals,Footwear,25,Express,No,Winter,United States,25-34
+28,Male,24,Blouse,Clothing,15,Express,Yes,Winter,United States,25-34
+29,Female,25,Sneakers,Footwear,69,Express,No,Winter,United States,25-34
+30,Female,26,Shirt,Clothing,85,Express,Yes,Winter,United States,25-34
+31,Male,23,Shorts,Clothing,12,Express,No,Winter,United States,25-34
+32,Female,25,Coat,Outerwear,100,Express,Yes,Winter,United States,25-34
+33,Male,33,Handbag,Accessories,23,Next Day Air,No,Winter,United States,25-34
+34,Male,33,Sunglasses,Accessories,14,Next Day Air,Yes,Winter,United States,25-34
+35,Female,36,Scarf,Accessories,25,Next Day Air,No,Winter,United States,35-44
+36,Female,25,Blouse,Clothing,41,Next Day Air,Yes,Winter,United States,25-34
+37,Female,36,Sweater,Clothing,22,Next Day Air,No,Winter,United States,35-44
+38,Female,39,Jeans,Clothing,63,Next Day Air,Yes,Winter,United States,35-44
+39,Female,38,Sandals,Footwear,55,Next Day Air,No,Winter,United States,35-44
+40,Female,22,Blouse,Clothing,98,Next Day Air,Yes,Winter,United States,25-34
+42,Male,22,Shirt,Clothing,65,Next Day Air,Yes,Winter,United States,25-34
+43,Male,22,Shorts,Clothing,35,Next Day Air,No,Winter,United States,25-34
+44,Female,22,Coat,Outerwear,85,Next Day Air,Yes,Winter,United States,25-34
+45,Female,22,Handbag,Accessories,96,Next Day Air,No,Winter,United States,25-34
+46,Female,22,Sunglasses,Accessories,74,Next Day Air,Yes,Winter,United States,25-34
+47,Female,22,Scarf,Accessories,52,Next Day Air,No,Winter,United States,25-34
+48,Female,22,Blouse,Clothing,22,Next Day Air,Yes,Winter,United States,25-34
+49,Female,22,Sweater,Clothing,21,Next Day Air,No,Winter,United States,25-34
+50,Female,22,Jeans,Clothing,45,Next Day Air,Yes,Winter,United States,25-34
+51,Female,22,Sandals,Footwear,77,Next Day Air,No,Winter,United States,25-34
+52,Male,22,Blouse,Clothing,50,Next Day Air,Yes,Winter,United States,25-34
+53,Female,22,Sneakers,Footwear,25,Next Day Air,No,Winter,United States,25-34
+54,Male,22,Shirt,Clothing,15,Next Day Air,Yes,Winter,United States,25-34
+55,Female,22,Shorts,Clothing,69,Next Day Air,No,Winter,United States,25-34
+56,Male,22,Coat,Outerwear,85,Next Day Air,Yes,Winter,United States,25-34
+57,Female,22,Handbag,Accessories,12,Next Day Air,No,Winter,United States,25-34
+58,Male,22,Sunglasses,Accessories,100,Next Day Air,Yes,Winter,United States,25-34
+59,Female,22,Scarf,Accessories,23,Next Day Air,No,Winter,United States,25-34
+60,Male,22,Sweater,Clothing,25,Next Day Air,No,Winter,United States,25-34
+61,Male,22,Jeans,Clothing,41,Next Day Air,Yes,Winter,United States,25-34
+62,Male,22,Sandals,Footwear,22,Next Day Air,No,Winter,United States,25-34
+63,Female,22,Blouse,Clothing,63,Next Day Air,Yes,Winter,United States,25-34
+64,Female,22,Sneakers,Footwear,55,Next Day Air,No,Winter,United States,25-34
+65,Male,22,Shirt,Clothing,98,Next Day Air,Yes,Winter,United States,25-34
+66,Male,22,Shorts,Clothing,99,Next Day Air,No,Winter,United States,25-34
+67,Female,22,Coat,Outerwear,65,Next Day Air,Yes,Winter,United States,25-34
+68,Female,22,Handbag,Accessories,35,Next Day Air,No,Winter,United States,25-34
+69,Male,22,Sunglasses,Accessories,85,Next Day Air,Yes,Winter,United States,25-34
+70,Female,22,Scarf,Accessories,96,Next Day Air,No,Winter,United States,25-34
+71,Male,22,Blouse,Clothing,74,Next Day Air,Yes,Winter,United States,25-34
+72,Female,22,Sweater,Clothing,52,Next Day Air,No,Winter,United States,25-34
+73,Female,22,Jeans,Clothing,22,Next Day Air,Yes,Winter,United States,25-34
+74,Female,22,Sandals,Footwear,21,Next Day Air,No,Winter,United States,25-34
+75,Male,22,Blouse,Clothing,45,Next Day Air,Yes,Winter,United States,25-34
+76,Male,22,Sneakers,Footwear,77,Next Day Air,No,Winter,United States,25-34
+77,Female,22,Shirt,Clothing,50,Next Day Air,Yes,Winter,United States,25-34
+78,Male,22,Shorts,Clothing,25,Next Day Air,No,Winter,United States,25-34
+79,Female,22,Coat,Outerwear,15,Next Day Air,Yes,Winter,United States,25-34
+80,Female,22,Handbag,Accessories,69,Next Day Air,No,Winter,United States,25-34
+81,Male,22,Sunglasses,Accessories,85,Next Day Air,Yes,Winter,United States,25-34
+82,Male,22,Scarf,Accessories,12,Next Day Air,No,Winter,United States,25-34
+83,Male,22,Blouse,Clothing,100,Next Day Air,Yes,Winter,United States,25-34
+84,Female,22,Sweater,Clothing,23,Next Day Air,No,Winter,United States,25-34
+85,Female,22,Jeans,Clothing,14,Next Day Air,Yes,Winter,United States,25-34
+86,Male,22,Sandals,Footwear,25,Next Day Air,No,Winter,United States,25-34
+87,Female,22,Blouse,Clothing,41,Next Day Air,Yes,Winter,United States,25-34
+88,Female,22,Sneakers,Footwear,22,Next Day Air,No,Winter,United States,25-34
+89,Female,22,Shirt,Clothing,63,Next Day Air,Yes,Winter,France,25-34
+98,Female,22,Blouse,Clothing,22,Next Day Air,Yes,Winter,Brazil,25-34
+99,Male,22,Sneakers,Footwear,21,Next Day Air,No,Winter,Brazil,25-34
+100,Male,22,Shirt,Clothing,45,Next Day Air,Yes,Winter,Brazil,25-34
+101,Female,22,Shorts,Clothing,77,Next Day Air,No,Winter,France,25-34
+102,Female,22,Coat,Outerwear,50,Next Day Air,Yes,Winter,France,25-34
+103,Male,22,Handbag,Accessories,25,Next Day Air,No,Winter,France,25-34
+104,Male,22,Sunglasses,Accessories,15,Next Day Air,Yes,Winter,France,25-34
+105,Male,22,Scarf,Accessories,69,Next Day Air,No,Winter,France,25-34
+106,Female,22,Blouse,Clothing,85,Next Day Air,Yes,Winter,France,25-34
+107,Female,22,Sweater,Clothing,12,Next Day Air,No,Winter,France,25-34
+108,Male,22,Jeans,Clothing,100,Next Day Air,Yes,Winter,France,25-34
+109,Male,22,Sandals,Footwear,23,Next Day Air,No,Winter,France,25-34
+110,Male,22,Blouse,Clothing,14,Next Day Air,Yes,Winter,France,25-34
+111,Male,22,Sneakers,Footwear,25,Next Day Air,No,Winter,France,25-34
+112,Female,22,Shirt,Clothing,41,Next Day Air,Yes,Winter,France,25-34
+113,Female,22,Shorts,Clothing,22,Next Day Air,No,Winter,France,25-34
+114,Male,22,Coat,Outerwear,63,Next Day Air,Yes,Winter,France,25-34
+115,Female,22,Handbag,Accessories,55,Next Day Air,No,Winter,France,25-34
+116,Female,22,Sunglasses,Accessories,98,Next Day Air,Yes,Winter,France,25-34
+117,Female,22,Scarf,Accessories,99,Next Day Air,No,Winter,France,25-34
+118,Female,22,Blouse,Clothing,65,Next Day Air,Yes,Winter,Brazil,25-34
+119,Female,22,Sweater,Clothing,35,Next Day Air,No,Winter,Brazil,25-34
+120,Female,22,Jeans,Clothing,85,Next Day Air,Yes,Winter,Brazil,25-34
+121,Male,22,Sandals,Footwear,96,Next Day Air,No,Winter,Brazil,25-34
+122,Female,22,Blouse,Clothing,74,Next Day Air,Yes,Winter,Brazil,25-34
+123,Female,22,Sneakers,Footwear,52,Next Day Air,No,Winter,Brazil,25-34
+124,Male,22,Shirt,Clothing,22,Next Day Air,Yes,Winter,Brazil,25-34
+125,Female,22,Shorts,Clothing,21,Next Day Air,No,Winter,Brazil,25-34
+126,Female,22,Handbag,Accessories,77,Next Day Air,No,Winter,Brazil,25-34
+127,Male,22,Sunglasses,Accessories,50,Next Day Air,Yes,Winter,Brazil,25-34
+129,Male,22,Scarf,Accessories,15,Next Day Air,Yes,Winter,Brazil,25-34
+130,Male,22,Blouse,Clothing,69,Next Day Air,No,Winter,Brazil,25-34
+131,Male,22,Sweater,Footwear,85,Next Day Air,Yes,Winter,Brazil,25-34
+132,Male,22,Jeans,Clothing,12,Next Day Air,No,Winter,Brazil,25-34
+133,Female,22,Sandals,Clothing,100,Next Day Air,Yes,Winter,Brazil,25-34
+134,Female,22,Blouse,Outerwear,23,Next Day Air,No,Winter,Brazil,25-34
+135,Male,22,Shirt,Accessories,25,Next Day Air,No,Winter,Brazil,25-34
+136,Female,22,Shorts,Accessories,41,Next Day Air,Yes,Winter,Brazil,25-34
+137,Female,22,Coat,Outerwear,22,Next Day Air,No,Winter,Brazil,25-34
+138,Male,22,Handbag,Accessories,63,Next Day Air,Yes,Winter,Brazil,25-34
+139,Male,22,Sunglasses,Accessories,55,Free Shipping,No,Winter,Brazil,25-34
+140,Female,22,Scarf,Accessories,98,Free Shipping,Yes,Winter,Brazil,25-34
+141,Female,22,Scarf,Accessories,99,Free Shipping,No,Winter,Brazil,25-34
+142,Male,22,Scarf,Accessories,65,Free Shipping,Yes,Winter,Brazil,25-34
+143,Female,22,Scarf,Accessories,35,Free Shipping,No,Winter,Brazil,25-34
+144,Female,22,Scarf,Accessories,85,Free Shipping,Yes,Winter,Brazil,25-34
+145,Male,22,Scarf,Accessories,96,Free Shipping,No,Winter,United States,25-34
+146,Male,22,Scarf,Accessories,74,Free Shipping,Yes,Winter,United States,25-34
+147,Male,22,Scarf,Accessories,52,Free Shipping,No,Winter,United States,25-34
+148,Female,22,Scarf,Accessories,22,Free Shipping,Yes,Winter,United States,25-34
+149,Female,22,Scarf,Accessories,21,Free Shipping,No,Winter,United States,25-34
+150,Male,22,Scarf,Accessories,45,Free Shipping,Yes,Winter,United States,25-34
+151,Male,22,Scarf,Accessories,77,Free Shipping,No,Winter,United States,25-34
+152,Male,22,Scarf,Accessories,50,Free Shipping,Yes,Winter,United States,25-34
+153,Female,22,Scarf,Accessories,25,Free Shipping,No,Winter,United States,25-34
+154,Female,22,Scarf,Accessories,15,Free Shipping,Yes,Winter,United States,25-34
+155,Female,22,Scarf,Accessories,69,Free Shipping,No,Winter,United States,25-34
+156,Female,22,Scarf,Accessories,85,Free Shipping,Yes,Winter,United States,25-34
+157,Male,22,Sunglasses,Accessories,12,Free Shipping,No,Winter,United States,25-34
+158,Female,22,Sunglasses,Accessories,100,Free Shipping,Yes,Winter,United States,25-34
+159,Male,22,Sunglasses,Accessories,23,Free Shipping,No,Winter,United States,25-34
+160,Female,22,Sunglasses,Accessories,14,Free Shipping,Yes,Winter,United States,25-34
+161,Female,22,Sunglasses,Accessories,25,Free Shipping,No,Winter,United States,25-34
+171,Male,22,Sunglasses,Accessories,96,Free Shipping,No,Winter,United States,25-34
+172,Male,22,Sunglasses,Accessories,74,Free Shipping,Yes,Winter,United States,25-34
+173,Male,22,Sunglasses,Accessories,52,Free Shipping,No,Winter,United States,25-34
+174,Male,22,Sunglasses,Accessories,22,Free Shipping,Yes,Winter,United States,25-34
+175,Female,22,Sunglasses,Accessories,21,Free Shipping,No,Winter,United States,25-34
+176,Female,22,Sunglasses,Accessories,45,Free Shipping,Yes,Winter,United States,25-34
+177,Male,22,Sunglasses,Accessories,77,Free Shipping,No,Winter,United States,25-34
+178,Male,22,Sunglasses,Accessories,50,Free Shipping,Yes,Winter,Turkey,25-34
+179,Male,22,Handbag,Accessories,25,Free Shipping,No,Winter,Turkey,25-34
+180,Male,22,Handbag,Accessories,15,Free Shipping,Yes,Winter,Turkey,25-34
+181,Female,22,Handbag,Accessories,69,Free Shipping,No,Winter,Turkey,25-34
+182,Female,22,Handbag,Accessories,85,Free Shipping,Yes,Winter,Turkey,25-34
+183,Male,22,Handbag,Accessories,12,Free Shipping,No,Winter,Turkey,25-34
+184,Female,22,Handbag,Accessories,100,Free Shipping,Yes,Winter,Turkey,25-34
+185,Female,22,Handbag,Accessories,23,Free Shipping,No,Winter,Turkey,25-34
+186,Male,22,Handbag,Accessories,14,Free Shipping,Yes,Winter,Turkey,25-34
+187,Female,22,Handbag,Accessories,25,Free Shipping,No,Winter,Turkey,25-34
+188,Male,22,Handbag,Accessories,41,Free Shipping,Yes,Winter,Turkey,25-34
+189,Female,22,Handbag,Accessories,22,Free Shipping,No,Winter,Turkey,25-34
+190,Female,22,Handbag,Accessories,63,Free Shipping,Yes,Winter,Turkey,25-34
+191,Female,22,Handbag,Accessories,55,Free Shipping,No,Winter,Brazil,25-34
+192,Female,22,Handbag,Accessories,98,Free Shipping,Yes,Winter,Brazil,25-34
+193,Male,22,Handbag,Accessories,99,Free Shipping,No,Winter,Brazil,25-34
+194,Female,22,Handbag,Accessories,65,Free Shipping,Yes,Winter,Brazil,25-34
+195,Female,22,Handbag,Accessories,35,Free Shipping,No,Winter,Brazil,25-34
+197,Female,22,Handbag,Accessories,96,Free Shipping,No,Winter,Brazil,25-34
+198,Male,22,Coat,Outerwear,74,Free Shipping,Yes,Winter,Brazil,25-34
+200,Male,22,Coat,Outerwear,22,Free Shipping,Yes,Winter,Brazil,25-34
+202,Male,22,Coat,Outerwear,45,Free Shipping,Yes,Winter,Brazil,25-34
+203,Female,22,Coat,Outerwear,77,Free Shipping,No,Winter,Brazil,25-34
+204,Female,22,Coat,Outerwear,50,Free Shipping,Yes,Winter,Brazil,25-34
+205,Female,22,Coat,Outerwear,25,Free Shipping,No,Winter,Brazil,25-34
+207,Female,22,Coat,Outerwear,69,Free Shipping,No,Winter,Brazil,25-34
+208,Male,22,Coat,Outerwear,85,Free Shipping,Yes,Winter,Brazil,25-34
+209,Female,22,Coat,Outerwear,12,Free Shipping,No,Winter,Brazil,25-34
+210,Female,22,Coat,Outerwear,100,Free Shipping,Yes,Winter,Brazil,25-34
+211,Female,22,Coat,Outerwear,23,Free Shipping,No,Winter,Brazil,25-34
+212,Female,22,Coat,Outerwear,14,Free Shipping,Yes,Winter,Brazil,25-34
+213,Male,22,Coat,Outerwear,25,Free Shipping,No,Winter,Brazil,25-34
+216,Female,22,Coat,Outerwear,63,Free Shipping,Yes,Winter,Brazil,25-34
+217,Male,22,Coat,Outerwear,55,Free Shipping,No,Winter,Brazil,25-34
+218,Female,22,Coat,Outerwear,98,Free Shipping,Yes,Winter,Brazil,25-34
+219,Female,22,Coat,Outerwear,99,Free Shipping,No,Winter,Brazil,25-34
+221,Female,22,Coat,Outerwear,35,Free Shipping,No,Winter,Brazil,25-34
+222,Female,22,Coat,Outerwear,85,Free Shipping,Yes,Winter,Brazil,25-34
+223,Male,22,Coat,Outerwear,96,Free Shipping,No,Winter,Brazil,25-34
+224,Female,22,Coat,Outerwear,74,Free Shipping,Yes,Winter,Brazil,25-34
+225,Female,22,Coat,Outerwear,52,Free Shipping,No,Winter,Brazil,25-34
+226,Female,22,Coat,Outerwear,22,Free Shipping,Yes,Winter,Algeria,25-34
+227,Female,22,Coat,Outerwear,21,Free Shipping,No,Winter,Algeria,25-34
+228,Male,22,Coat,Outerwear,45,Free Shipping,Yes,Winter,Algeria,25-34
+229,Male,22,Coat,Outerwear,77,Express,No,Winter,Algeria,25-34
+230,Male,22,Coat,Outerwear,50,Free Shipping,Yes,Winter,Algeria,25-34
+231,Female,22,Coat,Outerwear,25,Next Day Air,No,Winter,Algeria,25-34
+232,Male,22,Coat,Outerwear,15,2-Day Shipping,Yes,Winter,Algeria,25-34
+233,Female,22,Coat,Outerwear,69,2-Day Shipping,No,Winter,Australia,25-34
+234,Female,22,Coat,Outerwear,85,2-Day Shipping,Yes,Winter,Australia,25-34
+235,Female,22,Coat,Outerwear,12,2-Day Shipping,No,Winter,Australia,25-34
+236,Female,22,Coat,Outerwear,100,2-Day Shipping,Yes,Winter,Australia,25-34
+237,Male,22,Coat,Outerwear,23,2-Day Shipping,No,Winter,Australia,25-34
+238,Male,22,Coat,Outerwear,14,2-Day Shipping,Yes,Winter,Australia,25-34
+241,Male,22,Coat,Outerwear,22,2-Day Shipping,No,Winter,Australia,25-34
+242,Female,22,Coat,Outerwear,63,2-Day Shipping,Yes,Winter,Australia,25-34
+243,Female,22,Coat,Outerwear,55,2-Day Shipping,No,Winter,Australia,25-34
+244,Female,22,Coat,Outerwear,98,2-Day Shipping,Yes,Winter,Australia,25-34
+245,Female,22,Coat,Outerwear,99,2-Day Shipping,No,Winter,Australia,25-34
+246,Female,22,Coat,Outerwear,65,2-Day Shipping,Yes,Winter,Australia,25-34
+247,Male,23,Coat,Outerwear,35,2-Day Shipping,No,Winter,Australia,25-34
+248,Female,25,Coat,Outerwear,85,2-Day Shipping,Yes,Winter,Australia,25-34
+249,Female,46,Coat,Outerwear,96,2-Day Shipping,No,Winter,Australia,55-64
+250,Female,28,Coat,Outerwear,74,Express,Yes,Winter,Australia,25-34
+251,Male,24,Coat,Outerwear,52,Express,No,Winter,Australia,25-34
+252,Female,27,Coat,Outerwear,22,Express,Yes,Winter,Afghanistan,25-34
+253,Female,22,Coat,Outerwear,21,Express,No,Winter,Argentina,25-34
+254,Female,22,Coat,Outerwear,45,Express,Yes,Winter,Argentina,25-34
+255,Female,22,Coat,Outerwear,77,Express,No,Winter,Argentina,25-34
+256,Male,22,Coat,Outerwear,50,Express,Yes,Winter,Argentina,25-34
+257,Male,22,Coat,Outerwear,25,Express,No,Winter,Argentina,25-34
+258,Male,22,Coat,Outerwear,15,Express,Yes,Winter,Argentina,25-34
+259,Female,22,Coat,Outerwear,69,Express,No,Winter,Argentina,25-34
+260,Male,22,Coat,Outerwear,85,Express,Yes,Winter,Argentina,25-34
+261,Female,22,Coat,Outerwear,12,Express,No,Winter,Argentina,25-34
+262,Female,22,Coat,Outerwear,100,Next Day Air,Yes,Winter,Argentina,25-34
+263,Female,22,Coat,Outerwear,23,Next Day Air,No,Winter,Argentina,25-34
+264,Female,22,Coat,Outerwear,14,Next Day Air,Yes,Winter,Turkey,25-34
+265,Female,22,Coat,Outerwear,25,Next Day Air,No,Winter,Turkey,25-34
+266,Male,22,Coat,Outerwear,41,Next Day Air,Yes,Winter,Turkey,25-34
+267,Female,22,Coat,Outerwear,22,Next Day Air,No,Winter,Turkey,25-34
+268,Female,22,Coat,Outerwear,63,Next Day Air,Yes,Winter,Turkey,25-34
+269,Female,22,Coat,Outerwear,55,Next Day Air,No,Winter,Turkey,25-34
+270,Female,22,Coat,Outerwear,98,Next Day Air,Yes,Winter,Turkey,25-34
+271,Male,22,Coat,Outerwear,99,Next Day Air,No,Winter,Turkey,25-34
+272,Female,22,Coat,Outerwear,65,Next Day Air,Yes,Winter,Afghanistan,25-34
+273,Female,22,Coat,Outerwear,35,Next Day Air,No,Winter,Afghanistan,25-34
+274,Female,22,Coat,Outerwear,85,Next Day Air,Yes,Winter,Afghanistan,25-34
+275,Female,33,Coat,Outerwear,96,Next Day Air,No,Winter,Afghanistan,25-34
+276,Male,33,Coat,Outerwear,74,Next Day Air,Yes,Winter,Afghanistan,25-34
+277,Male,33,Coat,Outerwear,52,Next Day Air,No,Winter,Afghanistan,25-34
+278,Male,33,Coat,Outerwear,22,Next Day Air,Yes,Winter,Afghanistan,25-34
+279,Female,33,Coat,Outerwear,21,Next Day Air,No,Winter,Pakistan,25-34
+280,Male,33,Coat,Outerwear,45,Next Day Air,Yes,Winter,Pakistan,25-34
+281,Female,33,Coat,Outerwear,77,Next Day Air,No,Winter,Pakistan,25-34
+282,Female,33,Coat,Outerwear,50,Next Day Air,Yes,Winter,Pakistan,25-34
+283,Female,33,Coat,Outerwear,25,Next Day Air,No,Winter,Pakistan,25-34
+284,Female,33,Coat,Outerwear,15,Next Day Air,Yes,Winter,Pakistan,25-34
+285,Female,33,Coat,Outerwear,69,Next Day Air,No,Winter,Pakistan,25-34
+286,Male,33,Coat,Outerwear,85,Next Day Air,Yes,Winter,Pakistan,25-34
+287,Female,33,Coat,Outerwear,12,Next Day Air,No,Winter,Pakistan,25-34
+288,Female,33,Coat,Outerwear,100,Next Day Air,Yes,Winter,Pakistan,25-34
+289,Female,33,Coat,Outerwear,23,Next Day Air,No,Winter,Pakistan,25-34
+290,Female,33,Coat,Outerwear,14,Next Day Air,Yes,Winter,Pakistan,25-34
+291,Male,33,Coat,Outerwear,25,Next Day Air,No,Winter,Pakistan,25-34
+292,Female,33,Coat,Outerwear,41,Next Day Air,Yes,Winter,Pakistan,25-34
+293,Male,33,Coat,Outerwear,22,Next Day Air,No,Winter,Pakistan,25-34
+294,Female,33,Coat,Outerwear,63,Next Day Air,Yes,Winter,Pakistan,25-34
+295,Female,33,Coat,Outerwear,55,Next Day Air,No,Winter,Afghanistan,25-34
+296,Female,60,Coat,Outerwear,98,Next Day Air,Yes,Winter,Afghanistan,55-64
+297,Female,60,Coat,Outerwear,99,Next Day Air,No,Winter,Afghanistan,55-64
+298,Male,60,Coat,Outerwear,65,Next Day Air,Yes,Winter,Afghanistan,55-64
+299,Male,60,Coat,Outerwear,35,Next Day Air,No,Winter,Afghanistan,55-64
+300,Male,60,Coat,Outerwear,85,Next Day Air,Yes,Winter,Afghanistan,55-64
+301,Male,60,Coat,Outerwear,96,Next Day Air,No,Winter,Afghanistan,55-64
+302,Male,60,Coat,Outerwear,74,Next Day Air,Yes,Winter,Afghanistan,55-64
+303,Female,60,Coat,Outerwear,52,Next Day Air,No,Winter,Afghanistan,55-64
+304,Female,60,Coat,Outerwear,22,Next Day Air,Yes,Winter,Afghanistan,55-64
+305,Female,60,Coat,Outerwear,21,Next Day Air,No,Winter,Afghanistan,55-64
+306,Female,60,Coat,Outerwear,45,Next Day Air,Yes,Winter,Afghanistan,55-64
+307,Female,60,Coat,Outerwear,77,Next Day Air,No,Winter,Afghanistan,55-64
+308,Female,60,Coat,Outerwear,50,Next Day Air,Yes,Winter,Afghanistan,55-64
+309,Male,60,Coat,Outerwear,25,Next Day Air,No,Winter,Afghanistan,55-64
+310,Female,55,Coat,Outerwear,15,Next Day Air,Yes,Winter,Afghanistan,55-64
+311,Male,55,Coat,Outerwear,69,Next Day Air,No,Winter,Afghanistan,55-64
+312,Female,55,Coat,Outerwear,85,Next Day Air,Yes,Winter,Afghanistan,55-64
+313,Female,55,Coat,Outerwear,12,Next Day Air,No,Winter,Afghanistan,55-64
+314,Female,55,Coat,Outerwear,100,Next Day Air,Yes,Winter,Afghanistan,55-64
+315,Male,55,Coat,Outerwear,23,Next Day Air,No,Winter,Afghanistan,55-64
+316,Male,55,Coat,Outerwear,14,Next Day Air,Yes,Winter,Afghanistan,55-64
+317,Female,55,Coat,Outerwear,25,Next Day Air,No,Winter,Afghanistan,55-64
+318,Male,55,Coat,Outerwear,41,Next Day Air,Yes,Winter,Afghanistan,55-64
+319,Male,55,Coat,Outerwear,22,Next Day Air,No,Winter,Afghanistan,55-64
+320,Female,55,Coat,Outerwear,63,Next Day Air,Yes,Winter,Afghanistan,55-64
+321,Male,55,Coat,Outerwear,55,Next Day Air,No,Winter,Afghanistan,55-64
+322,Male,55,Coat,Outerwear,98,Next Day Air,Yes,Winter,Afghanistan,55-64
+323,Female,55,Coat,Outerwear,99,Next Day Air,No,Winter,Afghanistan,55-64
+324,Male,55,Coat,Outerwear,65,Next Day Air,Yes,Winter,Afghanistan,55-64
+325,Female,55,Coat,Outerwear,35,Next Day Air,No,Winter,Afghanistan,55-64
+326,Male,55,Coat,Outerwear,85,Next Day Air,Yes,Winter,Afghanistan,55-64
+327,Female,55,Coat,Outerwear,96,Next Day Air,No,Winter,Afghanistan,55-64
+328,Male,18,Coat,Outerwear,74,Next Day Air,Yes,Winter,Afghanistan,Under 18
+329,Female,20,Coat,Outerwear,52,Next Day Air,No,Winter,Afghanistan,18-24
+330,Female,35,Coat,Outerwear,22,Next Day Air,Yes,Winter,Afghanistan,25-34
+331,Male,45,Coat,Outerwear,21,Next Day Air,No,Winter,Afghanistan,35-44
+332,Female,60,Coat,Outerwear,45,Next Day Air,Yes,Winter,Afghanistan,55-64
+333,Male,22,Coat,Outerwear,77,Next Day Air,No,Winter,Afghanistan,25-34
+334,Male,24,Coat,Outerwear,50,Next Day Air,Yes,Winter,Afghanistan,25-34
+335,Female,68,Coat,Outerwear,25,Next Day Air,No,Winter,Afghanistan,65+
+336,Female,53,Coat,Outerwear,15,Next Day Air,Yes,Winter,Afghanistan,55-64
+337,Female,74,Coat,Outerwear,69,Next Day Air,No,Winter,Afghanistan,65+
+338,Female,55,Coat,Outerwear,85,Next Day Air,Yes,Winter,Afghanistan,55-64
+339,Female,51,Coat,Outerwear,12,Next Day Air,No,Winter,Afghanistan,55-64
+340,Female,42,Coat,Outerwear,100,Next Day Air,Yes,Winter,Afghanistan,35-44
+341,Female,43,Coat,Outerwear,23,Next Day Air,No,Winter,Afghanistan,35-44
+342,Male,47,Coat,Outerwear,14,Next Day Air,Yes,Winter,Afghanistan,55-64
+343,Male,48,Coat,Outerwear,25,Next Day Air,No,Winter,Afghanistan,55-64
+344,Female,60,Coat,Outerwear,41,Next Day Air,Yes,Winter,Afghanistan,55-64
+345,Female,22,Coat,Outerwear,22,Next Day Air,No,Winter,Afghanistan,25-34
+346,Female,21,Coat,Outerwear,63,Next Day Air,Yes,Winter,Afghanistan,25-34
+347,Female,19,Coat,Outerwear,55,Next Day Air,No,Winter,Afghanistan,18-24
+348,Female,23,Coat,Outerwear,98,Next Day Air,Yes,Winter,Afghanistan,25-34
+349,Female,25,Coat,Outerwear,99,Next Day Air,No,Winter,Afghanistan,25-34
+350,Female,25,Coat,Outerwear,65,Next Day Air,Yes,Winter,Afghanistan,25-34
+351,Female,26,Coat,Outerwear,35,Next Day Air,No,Winter,Afghanistan,25-34
+352,Male,28,Coat,Outerwear,85,Next Day Air,Yes,Winter,Afghanistan,25-34
+353,Female,27,Coat,Outerwear,96,Next Day Air,No,Winter,Afghanistan,25-34
+354,Male,29,Coat,Outerwear,74,Next Day Air,Yes,Winter,Afghanistan,25-34
+355,Female,21,Coat,Outerwear,52,Next Day Air,No,Winter,Afghanistan,25-34
+356,Male,24,Coat,Outerwear,22,Next Day Air,Yes,Winter,Afghanistan,25-34
+357,Female,25,Coat,Outerwear,21,Next Day Air,No,Winter,Afghanistan,25-34
+358,Male,26,Coat,Outerwear,45,Next Day Air,Yes,Winter,Afghanistan,25-34
+359,Female,23,Coat,Outerwear,77,Next Day Air,No,Winter,Afghanistan,25-34
+360,Male,25,Coat,Outerwear,50,Next Day Air,Yes,Winter,Afghanistan,25-34
+361,Male,33,Coat,Outerwear,25,Next Day Air,No,Winter,Afghanistan,25-34
+362,Male,33,Coat,Outerwear,15,Next Day Air,Yes,Winter,Afghanistan,25-34
+363,Female,36,Coat,Outerwear,69,Next Day Air,No,Winter,Afghanistan,35-44
+364,Female,25,Coat,Outerwear,85,Next Day Air,Yes,Winter,Afghanistan,25-34
+365,Male,36,Coat,Outerwear,12,Next Day Air,No,Winter,Afghanistan,35-44
+366,Male,39,Coat,Outerwear,100,Next Day Air,Yes,Winter,Afghanistan,35-44
+367,Female,38,Coat,Outerwear,23,Next Day Air,No,Winter,Afghanistan,35-44
+368,Female,22,Coat,Outerwear,14,Next Day Air,Yes,Winter,Afghanistan,25-34
+369,Male,22,Coat,Outerwear,25,Next Day Air,No,Winter,Afghanistan,25-34
+370,Female,22,Coat,Outerwear,41,Next Day Air,Yes,Winter,Afghanistan,25-34
+371,Male,22,Coat,Outerwear,22,Next Day Air,No,Winter,Afghanistan,25-34
+372,Female,22,Coat,Outerwear,63,Free Shipping,Yes,Winter,Afghanistan,25-34
+373,Female,22,Coat,Outerwear,55,Free Shipping,No,Winter,Afghanistan,25-34
+374,Female,22,Coat,Outerwear,98,Free Shipping,Yes,Winter,Afghanistan,25-34
+375,Male,22,Coat,Outerwear,99,Free Shipping,No,Winter,Afghanistan,25-34
+376,Male,22,Coat,Outerwear,65,Free Shipping,Yes,Winter,Afghanistan,25-34
+377,Female,22,Coat,Outerwear,35,Free Shipping,No,Winter,Afghanistan,25-34
+378,Male,22,Coat,Outerwear,85,Free Shipping,Yes,Winter,Afghanistan,25-34
+379,Female,22,Coat,Outerwear,96,Free Shipping,No,Winter,Afghanistan,25-34
+380,Female,22,Coat,Outerwear,74,Free Shipping,Yes,Winter,Afghanistan,25-34
+381,Male,22,Sneakers,Footwear,52,Free Shipping,No,Winter,Afghanistan,25-34
+382,Male,22,Shirt,Clothing,22,Free Shipping,Yes,Winter,Afghanistan,25-34
+383,Male,22,Shirt,Clothing,21,Free Shipping,No,Winter,Afghanistan,25-34
+384,Female,22,Shirt,Clothing,45,Free Shipping,Yes,Winter,Afghanistan,25-34
+385,Female,22,Shirt,Clothing,77,Free Shipping,No,Winter,Afghanistan,25-34
+386,Male,22,Shirt,Clothing,50,Free Shipping,Yes,Winter,Afghanistan,25-34
+387,Female,22,Shirt,Clothing,25,Free Shipping,No,Winter,Afghanistan,25-34
+388,Female,22,Shirt,Clothing,15,Free Shipping,Yes,Winter,Afghanistan,25-34
+389,Female,22,Shirt,Clothing,69,Free Shipping,No,Winter,Afghanistan,25-34
+390,Female,22,Shirt,Clothing,85,Free Shipping,Yes,Winter,Afghanistan,25-34
+391,Female,22,Shirt,Clothing,12,Free Shipping,No,Winter,Afghanistan,25-34
+392,Male,22,Shirt,Clothing,100,Free Shipping,Yes,Winter,Afghanistan,25-34
+393,Male,22,Shirt,Clothing,23,Free Shipping,No,Winter,Afghanistan,25-34
+394,Female,22,Sneakers,Footwear,14,Free Shipping,Yes,Winter,Afghanistan,25-34
+395,Female,22,Sneakers,Footwear,25,Free Shipping,No,Winter,Afghanistan,25-34
+396,Male,22,Sneakers,Footwear,41,Free Shipping,Yes,Winter,Afghanistan,25-34
+397,Female,22,Sneakers,Footwear,22,Free Shipping,No,Winter,Afghanistan,25-34
+398,Female,22,Sneakers,Footwear,63,Free Shipping,Yes,Winter,Afghanistan,25-34
+399,Male,22,Sneakers,Footwear,55,Free Shipping,No,Winter,Afghanistan,25-34
+400,Male,22,Sneakers,Footwear,98,Free Shipping,Yes,Winter,Afghanistan,25-34
+401,Female,22,Sneakers,Footwear,99,Free Shipping,No,Winter,Afghanistan,25-34
+402,Female,22,Sneakers,Footwear,65,Free Shipping,Yes,Winter,Afghanistan,25-34
+403,Male,22,Sneakers,Footwear,35,Free Shipping,No,Winter,Afghanistan,25-34
+404,Male,22,Sneakers,Footwear,85,Free Shipping,Yes,Winter,Afghanistan,25-34
+405,Male,22,Sneakers,Footwear,96,Free Shipping,No,Winter,Afghanistan,25-34
+406,Female,22,Sneakers,Footwear,74,Free Shipping,Yes,Winter,Afghanistan,25-34
+407,Female,22,Sneakers,Footwear,52,Free Shipping,No,Winter,Afghanistan,25-34
+408,Male,22,Sneakers,Footwear,22,Free Shipping,Yes,Winter,Afghanistan,25-34
+409,Male,22,Sneakers,Footwear,21,Free Shipping,No,Winter,Afghanistan,25-34
+410,Male,22,Sneakers,Footwear,45,Free Shipping,Yes,Winter,Afghanistan,25-34
+411,Male,22,Sneakers,Footwear,77,Free Shipping,No,Winter,Afghanistan,25-34
+412,Female,22,Sneakers,Footwear,50,Free Shipping,Yes,Winter,Afghanistan,25-34
+413,Female,22,Sneakers,Footwear,25,Free Shipping,No,Winter,Afghanistan,25-34
+414,Male,22,Sneakers,Footwear,15,Free Shipping,Yes,Winter,Afghanistan,25-34
+415,Female,22,Sneakers,Footwear,69,Free Shipping,No,Winter,Afghanistan,25-34
+416,Female,22,Sneakers,Footwear,85,Free Shipping,Yes,Winter,Afghanistan,25-34
+417,Female,22,Sneakers,Footwear,12,Free Shipping,No,Winter,Afghanistan,25-34
+418,Female,22,Sneakers,Footwear,100,Free Shipping,Yes,Winter,Afghanistan,25-34
+419,Female,22,Sneakers,Footwear,23,Free Shipping,No,Winter,Afghanistan,25-34
+420,Female,22,Sneakers,Footwear,14,Free Shipping,Yes,Winter,Afghanistan,25-34
+421,Male,22,Sneakers,Footwear,25,Free Shipping,No,Winter,Afghanistan,25-34
+422,Female,22,Sneakers,Footwear,41,Free Shipping,Yes,Winter,Afghanistan,25-34
+423,Female,22,Sneakers,Footwear,22,Free Shipping,No,Winter,Afghanistan,25-34
+424,Male,22,Sneakers,Footwear,63,Free Shipping,Yes,Winter,Afghanistan,25-34
+425,Female,22,Sneakers,Footwear,55,Free Shipping,No,Winter,Afghanistan,25-34
+426,Female,22,Sneakers,Footwear,98,Free Shipping,Yes,Winter,Afghanistan,25-34
+427,Male,22,Sneakers,Footwear,99,Free Shipping,No,Winter,Afghanistan,25-34
+428,Male,22,Sneakers,Footwear,65,Free Shipping,Yes,Winter,Afghanistan,25-34
+429,Male,22,Sneakers,Footwear,35,Free Shipping,No,Winter,Afghanistan,25-34
+430,Male,22,Sneakers,Footwear,85,Free Shipping,Yes,Winter,Afghanistan,25-34
+431,Male,22,Sneakers,Footwear,96,Free Shipping,No,Winter,Afghanistan,25-34
+432,Male,22,Sneakers,Footwear,74,Free Shipping,Yes,Winter,Afghanistan,25-34
+433,Female,22,Sneakers,Footwear,52,Free Shipping,No,Winter,Afghanistan,25-34
+434,Female,22,Sneakers,Footwear,22,Free Shipping,Yes,Winter,Afghanistan,25-34
+435,Male,22,Sneakers,Footwear,21,Free Shipping,No,Winter,Afghanistan,25-34
+436,Female,22,Sneakers,Footwear,45,Free Shipping,Yes,Winter,Afghanistan,25-34
+437,Female,22,Sneakers,Footwear,77,Free Shipping,No,Winter,Afghanistan,25-34
+438,Male,22,Sneakers,Footwear,50,Free Shipping,Yes,Winter,Afghanistan,25-34
+439,Male,22,Sneakers,Footwear,25,Free Shipping,No,Winter,Afghanistan,25-34
+440,Female,22,Sneakers,Footwear,15,Free Shipping,Yes,Winter,Afghanistan,25-34
+441,Female,22,Sneakers,Footwear,69,Free Shipping,No,Winter,Afghanistan,25-34
+442,Male,22,Sneakers,Footwear,85,Free Shipping,Yes,Winter,Afghanistan,25-34
+443,Female,22,Sneakers,Footwear,12,Free Shipping,No,Winter,Afghanistan,25-34
+444,Female,22,Sneakers,Footwear,100,Free Shipping,Yes,Winter,Afghanistan,25-34
+445,Male,22,Sneakers,Footwear,23,Free Shipping,No,Winter,Afghanistan,25-34
+446,Male,22,Sneakers,Footwear,14,Free Shipping,Yes,Winter,Afghanistan,25-34
+447,Male,22,Sneakers,Footwear,25,Free Shipping,No,Winter,Afghanistan,25-34
+448,Female,22,Sneakers,Footwear,41,Free Shipping,Yes,Winter,Afghanistan,25-34
+449,Female,22,Sneakers,Footwear,22,Free Shipping,No,Winter,Afghanistan,25-34
+450,Male,22,Sneakers,Footwear,63,Free Shipping,Yes,Winter,Afghanistan,25-34
+451,Male,22,Sneakers,Footwear,55,Free Shipping,No,Winter,Afghanistan,25-34
+452,Male,22,Sneakers,Footwear,98,Free Shipping,Yes,Winter,Afghanistan,25-34
+453,Female,22,Sneakers,Footwear,99,Free Shipping,No,Winter,Afghanistan,25-34
+454,Female,22,Sneakers,Footwear,65,Free Shipping,Yes,Winter,Afghanistan,25-34
+455,Female,22,Sneakers,Footwear,35,Free Shipping,No,Winter,Afghanistan,25-34
+456,Female,22,Sneakers,Footwear,85,Free Shipping,Yes,Winter,Afghanistan,25-34
+457,Male,22,Blouse,Clothing,96,Free Shipping,No,Winter,Afghanistan,25-34
+458,Female,22,Sweater,Clothing,74,Free Shipping,Yes,Winter,Afghanistan,25-34
+459,Male,22,Jeans,Clothing,52,Free Shipping,No,Winter,Afghanistan,25-34
+460,Female,22,Sandals,Footwear,22,Free Shipping,Yes,Winter,Afghanistan,25-34
+461,Female,22,Blouse,Clothing,21,Free Shipping,No,Winter,Afghanistan,25-34
+462,Female,22,Sneakers,Footwear,45,Express,Yes,Winter,Afghanistan,25-34
+463,Male,22,Shirt,Clothing,77,Free Shipping,No,Winter,Afghanistan,25-34
+464,Female,22,Shorts,Clothing,50,Next Day Air,Yes,Winter,Afghanistan,25-34
+465,Male,22,Coat,Outerwear,25,2-Day Shipping,No,Winter,Afghanistan,25-34
+466,Female,22,Handbag,Accessories,15,2-Day Shipping,Yes,Winter,Afghanistan,25-34
+467,Male,22,Sunglasses,Accessories,69,2-Day Shipping,No,Winter,Afghanistan,25-34
+468,Female,22,Scarf,Accessories,85,2-Day Shipping,Yes,Winter,Afghanistan,25-34
+469,Female,22,Blouse,Clothing,12,2-Day Shipping,No,Winter,Afghanistan,25-34
+470,Male,22,Sweater,Clothing,100,2-Day Shipping,Yes,Winter,Afghanistan,25-34
+471,Male,22,Jeans,Clothing,23,2-Day Shipping,No,Winter,Afghanistan,25-34
+472,Male,22,Sandals,Footwear,14,2-Day Shipping,Yes,Winter,Afghanistan,25-34
+473,Male,22,Blouse,Clothing,25,2-Day Shipping,No,Winter,Afghanistan,25-34
+474,Male,22,Sneakers,Footwear,41,2-Day Shipping,Yes,Winter,Afghanistan,25-34
+475,Female,22,Shirt,Clothing,22,2-Day Shipping,No,Winter,Afghanistan,25-34
+476,Female,22,Shorts,Clothing,63,2-Day Shipping,Yes,Winter,Afghanistan,25-34
+477,Male,22,Coat,Outerwear,55,2-Day Shipping,No,Winter,Afghanistan,25-34
+478,Male,22,Handbag,Accessories,98,2-Day Shipping,Yes,Winter,Afghanistan,25-34
+479,Male,22,Sunglasses,Accessories,99,2-Day Shipping,No,Winter,Afghanistan,25-34
+480,Male,22,Scarf,Accessories,65,2-Day Shipping,Yes,Winter,Afghanistan,25-34
+481,Female,22,Blouse,Clothing,35,2-Day Shipping,No,Winter,Afghanistan,25-34
+482,Female,22,Sweater,Clothing,85,2-Day Shipping,Yes,Winter,Afghanistan,25-34
+483,Male,22,Jeans,Clothing,96,Express,No,Winter,Afghanistan,25-34
+484,Female,22,Sandals,Footwear,74,Express,Yes,Winter,Afghanistan,25-34
+485,Female,22,Blouse,Clothing,52,Express,No,Winter,Afghanistan,25-34
+486,Male,22,Sneakers,Footwear,22,Express,Yes,Winter,Afghanistan,25-34
+487,Female,22,Shirt,Clothing,21,Express,No,Winter,Afghanistan,25-34
+488,Male,22,Shorts,Clothing,45,Express,Yes,Winter,Afghanistan,25-34
+489,Female,22,Coat,Outerwear,77,Express,No,Winter,Afghanistan,25-34
+490,Female,22,Handbag,Accessories,50,Express,Yes,Winter,Afghanistan,25-34
+491,Female,22,Sunglasses,Accessories,25,Express,No,Winter,Afghanistan,25-34
+492,Female,22,Scarf,Accessories,15,Express,Yes,Winter,Afghanistan,25-34
+493,Male,22,Blouse,Clothing,69,Express,No,Winter,Afghanistan,25-34
+494,Female,22,Sweater,Clothing,85,Express,Yes,Winter,Afghanistan,25-34
+495,Female,22,Jeans,Clothing,12,Next Day Air,No,Winter,Afghanistan,25-34
+496,Female,22,Sandals,Footwear,100,Next Day Air,Yes,Winter,Afghanistan,25-34
+497,Female,22,Blouse,Clothing,23,Next Day Air,No,Winter,Afghanistan,25-34
+498,Male,22,Sneakers,Footwear,14,Next Day Air,Yes,Winter,Afghanistan,25-34
+499,Male,22,Shirt,Clothing,25,Next Day Air,No,Winter,Afghanistan,25-34
+500,Male,22,Shorts,Clothing,41,Next Day Air,Yes,Winter,Afghanistan,25-34
+501,Female,22,Coat,Outerwear,22,Next Day Air,No,Winter,Afghanistan,25-34
+502,Male,22,Handbag,Accessories,63,Next Day Air,Yes,Winter,Afghanistan,25-34
+503,Female,22,Sunglasses,Accessories,55,Next Day Air,No,Winter,Afghanistan,25-34
+504,Female,22,Scarf,Accessories,98,Next Day Air,Yes,Winter,Afghanistan,25-34
+505,Female,22,Blouse,Clothing,99,Next Day Air,No,Winter,Afghanistan,25-34
+506,Female,22,Sweater,Clothing,65,Next Day Air,Yes,Winter,Afghanistan,25-34
+507,Female,22,Jeans,Clothing,35,Next Day Air,No,Winter,Afghanistan,25-34
+508,Male,22,Blouse,Clothing,85,Next Day Air,Yes,Winter,Afghanistan,25-34
+509,Female,22,Sweater,Clothing,96,Next Day Air,No,Winter,Afghanistan,25-34
+510,Female,22,Jeans,Clothing,74,Next Day Air,Yes,Winter,Afghanistan,25-34
+511,Female,22,Sandals,Footwear,52,Next Day Air,No,Winter,Afghanistan,25-34
+512,Female,22,Blouse,Clothing,22,Next Day Air,Yes,Winter,Afghanistan,25-34
+513,Male,22,Sneakers,Footwear,21,Next Day Air,No,Winter,Afghanistan,25-34
+514,Male,22,Shirt,Clothing,45,Next Day Air,Yes,Winter,Afghanistan,25-34
+515,Male,22,Shorts,Clothing,77,Next Day Air,No,Winter,Afghanistan,25-34
+516,Female,22,Coat,Outerwear,50,Next Day Air,Yes,Winter,Afghanistan,25-34
+517,Male,22,Handbag,Accessories,25,Next Day Air,No,Winter,Afghanistan,25-34
+518,Female,22,Sunglasses,Accessories,15,Next Day Air,Yes,Winter,Afghanistan,25-34
+519,Female,22,Scarf,Accessories,69,Next Day Air,No,Winter,Afghanistan,25-34
+520,Female,22,Blouse,Clothing,85,Next Day Air,Yes,Winter,Afghanistan,25-34
+521,Female,22,Sweater,Clothing,12,Next Day Air,No,Winter,Afghanistan,25-34
+522,Female,22,Jeans,Clothing,100,Next Day Air,Yes,Winter,Afghanistan,25-34
+523,Male,22,Sandals,Footwear,23,Next Day Air,No,Winter,Afghanistan,25-34
+524,Female,22,Blouse,Clothing,14,Next Day Air,Yes,Winter,Afghanistan,25-34
+525,Female,22,Sneakers,Footwear,25,Next Day Air,No,Winter,Afghanistan,25-34
+526,Female,22,Shirt,Clothing,41,Next Day Air,Yes,Winter,Afghanistan,25-34
+527,Female,22,Shorts,Clothing,22,Next Day Air,No,Winter,Afghanistan,25-34
+528,Male,22,Coat,Outerwear,63,Next Day Air,Yes,Winter,Afghanistan,25-34
+529,Male,22,Handbag,Accessories,55,Next Day Air,No,Winter,Afghanistan,25-34
+530,Male,22,Sunglasses,Accessories,98,Next Day Air,Yes,Winter,Afghanistan,25-34
+531,Female,22,Scarf,Accessories,99,Next Day Air,No,Winter,Afghanistan,25-34
+532,Male,22,Blouse,Clothing,65,Next Day Air,Yes,Winter,Afghanistan,25-34
+533,Female,22,Sweater,Clothing,35,Next Day Air,No,Winter,Afghanistan,25-34
+534,Female,22,Jeans,Clothing,85,Next Day Air,Yes,Winter,Afghanistan,25-34
+535,Female,22,Sandals,Footwear,96,Next Day Air,No,Winter,Afghanistan,25-34
+536,Female,22,Blouse,Clothing,74,Next Day Air,Yes,Winter,Afghanistan,25-34
+537,Male,22,Sneakers,Footwear,52,Next Day Air,No,Winter,Afghanistan,25-34
+538,Male,22,Shirt,Clothing,22,Next Day Air,Yes,Winter,Afghanistan,25-34
+539,Male,22,Shorts,Clothing,21,Next Day Air,No,Winter,Afghanistan,25-34
+540,Female,22,Coat,Outerwear,45,Next Day Air,Yes,Winter,Afghanistan,25-34
+541,Male,22,Handbag,Accessories,77,Next Day Air,No,Winter,Afghanistan,25-34
+542,Female,22,Sunglasses,Accessories,50,Next Day Air,Yes,Winter,Afghanistan,25-34
+543,Female,22,Scarf,Accessories,25,Next Day Air,No,Winter,Afghanistan,25-34
+544,Female,22,Blouse,Clothing,15,Next Day Air,Yes,Winter,Afghanistan,25-34
+545,Female,22,Sweater,Clothing,69,Next Day Air,No,Winter,Afghanistan,25-34
+546,Female,22,Jeans,Clothing,85,Next Day Air,Yes,Winter,Afghanistan,25-34
+547,Male,22,Sandals,Footwear,12,Next Day Air,No,Winter,Afghanistan,25-34
+548,Female,22,Blouse,Clothing,100,Next Day Air,Yes,Winter,Afghanistan,25-34
+549,Female,22,Sneakers,Footwear,23,Next Day Air,No,Winter,Afghanistan,25-34
+550,Female,22,Shirt,Clothing,14,Next Day Air,Yes,Winter,Afghanistan,25-34
+551,Male,22,Shorts,Clothing,25,Next Day Air,No,Winter,Afghanistan,25-34
+552,Female,22,Coat,Outerwear,41,Next Day Air,Yes,Winter,Afghanistan,25-34
+553,Female,22,Handbag,Accessories,22,Next Day Air,No,Winter,Afghanistan,25-34
+554,Female,22,Sunglasses,Accessories,63,Next Day Air,Yes,Winter,Afghanistan,25-34
+555,Female,22,Scarf,Accessories,55,Next Day Air,No,Winter,Afghanistan,25-34
+556,Male,22,Blouse,Clothing,98,Next Day Air,Yes,Winter,Afghanistan,25-34
+557,Male,22,Sweater,Clothing,99,Next Day Air,No,Winter,Afghanistan,25-34
+558,Male,22,Jeans,Clothing,65,Next Day Air,Yes,Winter,Afghanistan,25-34
+559,Female,22,Blouse,Clothing,35,Next Day Air,No,Winter,Afghanistan,25-34
+560,Male,22,Sweater,Clothing,85,Next Day Air,Yes,Winter,Afghanistan,25-34
+561,Female,22,Jeans,Clothing,96,Next Day Air,No,Winter,Afghanistan,25-34
+562,Female,22,Sandals,Footwear,74,Next Day Air,Yes,Winter,Afghanistan,25-34
+563,Female,22,Blouse,Clothing,52,Next Day Air,No,Winter,Afghanistan,25-34
+564,Female,22,Sneakers,Footwear,22,Next Day Air,Yes,Winter,Afghanistan,25-34
+565,Female,22,Shirt,Clothing,21,Next Day Air,No,Winter,Afghanistan,25-34
+566,Male,22,Shorts,Clothing,45,Next Day Air,Yes,Winter,Afghanistan,25-34
+567,Female,22,Coat,Outerwear,77,Next Day Air,No,Winter,Afghanistan,25-34
+568,Female,22,Handbag,Accessories,50,Next Day Air,Yes,Winter,Afghanistan,25-34
+569,Female,22,Sunglasses,Accessories,25,Next Day Air,No,Winter,Albania,25-34
+570,Female,22,Scarf,Accessories,15,Next Day Air,Yes,Winter,Albania,25-34
+571,Male,22,Blouse,Clothing,69,Next Day Air,No,Winter,Albania,25-34
+572,Female,22,Sweater,Clothing,85,Next Day Air,Yes,Winter,Albania,25-34
+573,Female,22,Jeans,Clothing,12,Next Day Air,No,Winter,Albania,25-34
+574,Female,22,Sandals,Footwear,100,Next Day Air,Yes,Winter,Albania,25-34
+575,Female,22,Blouse,Clothing,23,Next Day Air,No,Winter,Albania,25-34
+576,Male,22,Sneakers,Footwear,14,Next Day Air,Yes,Winter,Albania,25-34
+577,Male,22,Shirt,Clothing,25,Next Day Air,No,Winter,Albania,25-34
+578,Male,22,Shorts,Clothing,41,Next Day Air,Yes,Winter,Albania,25-34
+579,Female,23,Coat,Outerwear,22,Next Day Air,No,Winter,Albania,25-34
+580,Male,25,Handbag,Accessories,63,Next Day Air,Yes,Winter,Albania,25-34
+581,Female,46,Sunglasses,Accessories,55,Next Day Air,No,Winter,Albania,55-64
+582,Female,28,Scarf,Accessories,98,Next Day Air,Yes,Winter,Albania,25-34
+583,Female,24,Blouse,Clothing,99,Next Day Air,No,Winter,Albania,25-34
+584,Female,27,Sweater,Clothing,65,Next Day Air,Yes,Winter,Albania,25-34
+585,Female,22,Jeans,Clothing,35,Next Day Air,No,Winter,Albania,25-34
+586,Male,22,Sandals,Footwear,85,Next Day Air,Yes,Winter,Albania,25-34
+587,Female,22,Blouse,Clothing,96,Next Day Air,No,Winter,Albania,25-34
+588,Female,22,Sneakers,Footwear,74,Next Day Air,Yes,Winter,Albania,25-34
+589,Female,22,Shirt,Clothing,52,Next Day Air,No,Winter,Albania,25-34
+590,Female,22,Shorts,Clothing,22,Next Day Air,Yes,Winter,Albania,25-34
+591,Male,22,Coat,Outerwear,21,Next Day Air,No,Winter,Albania,25-34
+592,Female,22,Handbag,Accessories,45,Next Day Air,Yes,Winter,Albania,25-34
+593,Male,22,Sunglasses,Accessories,77,Next Day Air,No,Winter,Albania,25-34
+594,Female,22,Scarf,Accessories,50,Next Day Air,Yes,Winter,Albania,25-34
+595,Female,22,Blouse,Clothing,25,Next Day Air,No,Winter,Albania,25-34
+596,Female,22,Sweater,Clothing,15,Next Day Air,Yes,Winter,Albania,25-34
+597,Female,22,Jeans,Clothing,69,Next Day Air,No,Winter,Albania,25-34
+598,Male,22,Sandals,Footwear,85,Next Day Air,Yes,Winter,Albania,25-34
+599,Male,22,Blouse,Clothing,12,Next Day Air,No,Winter,Albania,25-34
+600,Male,22,Sneakers,Footwear,100,Next Day Air,Yes,Winter,Albania,25-34
+601,Male,22,Shirt,Clothing,23,Next Day Air,No,Winter,Albania,25-34
+602,Male,22,Shorts,Clothing,14,Next Day Air,Yes,Winter,Albania,25-34
+603,Female,22,Coat,Outerwear,25,Next Day Air,No,Winter,Albania,25-34
+604,Female,22,Handbag,Accessories,41,Next Day Air,Yes,Winter,Albania,25-34
+605,Female,22,Sunglasses,Accessories,22,Free Shipping,No,Winter,Albania,25-34
+606,Female,22,Scarf,Accessories,63,Free Shipping,Yes,Winter,Albania,25-34
+607,Female,33,Blouse,Clothing,55,Free Shipping,No,Winter,Albania,25-34
+608,Female,33,Sweater,Clothing,98,Free Shipping,Yes,Winter,Albania,25-34
+609,Male,33,Jeans,Clothing,99,Free Shipping,No,Winter,Albania,25-34
+610,Female,33,Blouse,Clothing,65,Free Shipping,Yes,Winter,Albania,25-34
+611,Male,33,Sweater,Clothing,35,Free Shipping,No,Winter,Albania,25-34
+612,Female,33,Jeans,Clothing,85,Free Shipping,Yes,Winter,Albania,25-34
+613,Female,33,Sandals,Footwear,96,Free Shipping,No,Winter,Albania,25-34
+614,Female,33,Blouse,Clothing,74,Free Shipping,Yes,Winter,Albania,25-34
+615,Male,33,Sneakers,Footwear,52,Free Shipping,No,Winter,Albania,25-34
+616,Male,33,Shirt,Clothing,22,Free Shipping,Yes,Winter,Albania,25-34
+617,Female,33,Shorts,Clothing,21,Free Shipping,No,Winter,Albania,25-34
+618,Male,33,Coat,Outerwear,45,Free Shipping,Yes,Winter,Albania,25-34
+619,Male,33,Handbag,Accessories,77,Free Shipping,No,Winter,Albania,25-34
+620,Female,33,Sunglasses,Accessories,50,Free Shipping,Yes,Winter,Albania,25-34
+621,Male,33,Scarf,Accessories,25,Free Shipping,No,Winter,Albania,25-34
+622,Male,33,Blouse,Clothing,15,Free Shipping,Yes,Winter,Albania,25-34
+623,Female,33,Sweater,Clothing,69,Free Shipping,No,Winter,Albania,25-34
+624,Male,33,Jeans,Clothing,85,Free Shipping,Yes,Winter,Albania,25-34
+625,Female,33,Sandals,Footwear,12,Free Shipping,No,Winter,Albania,25-34
+626,Male,33,Blouse,Clothing,100,Free Shipping,Yes,Winter,Albania,25-34
+627,Female,33,Sneakers,Footwear,23,Free Shipping,No,Winter,Albania,25-34
+628,Male,60,Shirt,Clothing,14,Free Shipping,Yes,Winter,Albania,55-64
+629,Female,60,Shorts,Clothing,25,Free Shipping,No,Winter,Albania,55-64
+630,Female,60,Coat,Outerwear,41,Free Shipping,Yes,Winter,Albania,55-64
+631,Male,60,Handbag,Accessories,22,Free Shipping,No,Winter,Albania,55-64
+632,Female,60,Sunglasses,Accessories,63,Free Shipping,Yes,Winter,Albania,55-64
+633,Male,60,Scarf,Accessories,55,Free Shipping,No,Winter,Albania,55-64
+634,Male,60,Blouse,Clothing,98,Free Shipping,Yes,Winter,Albania,55-64
+635,Female,60,Sweater,Clothing,99,Free Shipping,No,Winter,Albania,55-64
+636,Female,60,Jeans,Clothing,65,Free Shipping,Yes,Winter,Albania,55-64
+637,Female,60,Sandals,Footwear,35,Free Shipping,No,Winter,Albania,55-64
+638,Female,60,Blouse,Clothing,85,Free Shipping,Yes,Winter,Albania,55-64
+639,Female,60,Sneakers,Footwear,96,Free Shipping,No,Winter,Albania,55-64
+640,Female,60,Shirt,Clothing,74,Free Shipping,Yes,Winter,Albania,55-64
+641,Female,60,Shorts,Clothing,52,Free Shipping,No,Winter,Albania,55-64
+642,Male,55,Coat,Outerwear,22,Free Shipping,Yes,Winter,Albania,55-64
+643,Male,55,Handbag,Accessories,21,Free Shipping,No,Winter,Albania,55-64
+644,Female,55,Sunglasses,Accessories,45,Free Shipping,Yes,Winter,Albania,55-64
+645,Female,55,Scarf,Accessories,77,Free Shipping,No,Winter,Albania,55-64
+646,Female,55,Blouse,Clothing,50,Free Shipping,Yes,Winter,Albania,55-64
+647,Female,55,Sweater,Clothing,25,Free Shipping,No,Winter,Albania,55-64
+648,Female,55,Jeans,Clothing,15,Free Shipping,Yes,Winter,Albania,55-64
+649,Female,55,Sandals,Footwear,69,Free Shipping,No,Winter,Albania,55-64
+650,Female,55,Blouse,Clothing,85,Free Shipping,Yes,Winter,Albania,55-64
+651,Female,55,Sneakers,Footwear,12,Free Shipping,No,Winter,Albania,55-64
+652,Male,55,Shirt,Clothing,100,Free Shipping,Yes,Winter,Albania,55-64
+653,Female,55,Shorts,Clothing,23,Free Shipping,No,Winter,Albania,55-64
+654,Male,55,Coat,Outerwear,14,Free Shipping,Yes,Winter,Albania,55-64
+655,Female,55,Handbag,Accessories,25,Free Shipping,No,Winter,Albania,55-64
+656,Male,55,Sunglasses,Accessories,41,Free Shipping,Yes,Winter,Albania,55-64
+657,Female,55,Scarf,Accessories,22,Free Shipping,No,Winter,Albania,55-64
+658,Male,55,Blouse,Clothing,63,Free Shipping,Yes,Winter,Albania,55-64
+659,Female,55,Sweater,Clothing,55,Free Shipping,No,Winter,Albania,55-64
+660,Male,55,Jeans,Clothing,98,Free Shipping,Yes,Winter,Albania,55-64
+661,Male,55,Blouse,Clothing,99,Free Shipping,No,Winter,Albania,55-64
+662,Male,55,Sweater,Clothing,65,Free Shipping,Yes,Winter,Albania,55-64
+663,Female,55,Jeans,Clothing,35,Free Shipping,No,Winter,Albania,55-64
+664,Female,55,Sandals,Footwear,85,Free Shipping,Yes,Winter,Albania,55-64
+665,Male,55,Blouse,Clothing,96,Free Shipping,No,Winter,Albania,55-64
+666,Male,55,Sneakers,Footwear,74,Free Shipping,Yes,Winter,Albania,55-64
+667,Female,55,Shirt,Clothing,52,Free Shipping,No,Winter,Albania,55-64
+668,Female,55,Shorts,Clothing,22,Free Shipping,Yes,Winter,Albania,55-64
+669,Male,55,Coat,Outerwear,21,Free Shipping,No,Winter,Albania,55-64
+670,Female,55,Handbag,Accessories,45,Free Shipping,Yes,Winter,Albania,55-64
+671,Male,55,Sunglasses,Accessories,77,Free Shipping,No,Winter,Albania,55-64
+672,Female,55,Scarf,Accessories,50,Free Shipping,Yes,Winter,Albania,55-64
+673,Female,55,Blouse,Clothing,25,Free Shipping,No,Winter,Albania,55-64
+674,Female,55,Sweater,Clothing,15,Free Shipping,Yes,Winter,Albania,55-64
+675,Male,55,Jeans,Clothing,69,Free Shipping,No,Winter,Albania,55-64
+676,Male,55,Sandals,Footwear,85,Free Shipping,Yes,Winter,Albania,55-64
+677,Female,55,Blouse,Clothing,12,Free Shipping,No,Winter,Albania,55-64
+678,Male,55,Sneakers,Footwear,100,Free Shipping,Yes,Winter,Albania,55-64
+679,Female,55,Shirt,Clothing,23,Free Shipping,No,Winter,Albania,55-64
+680,Female,55,Shorts,Clothing,14,Free Shipping,Yes,Winter,Albania,55-64
+681,Male,55,Coat,Outerwear,25,Free Shipping,No,Winter,Albania,55-64
+682,Male,55,Handbag,Accessories,41,Free Shipping,Yes,Winter,Albania,55-64
+683,Male,55,Sunglasses,Accessories,22,Free Shipping,No,Winter,Albania,55-64
+684,Female,55,Scarf,Accessories,63,Free Shipping,Yes,Winter,Albania,55-64
+685,Female,55,Blouse,Clothing,55,Free Shipping,No,Winter,Albania,55-64
+686,Male,55,Sweater,Clothing,98,Free Shipping,Yes,Winter,Albania,55-64
+687,Female,55,Jeans,Clothing,99,Free Shipping,No,Winter,Albania,55-64
+688,Female,55,Sandals,Footwear,65,Free Shipping,Yes,Winter,Albania,55-64
+689,Female,55,Blouse,Clothing,35,Free Shipping,No,Winter,Albania,55-64
+690,Female,55,Sneakers,Footwear,85,Free Shipping,Yes,Winter,Albania,55-64
+691,Female,55,Shirt,Clothing,96,Free Shipping,No,Winter,Albania,55-64
+692,Male,55,Shorts,Clothing,74,Free Shipping,Yes,Winter,Albania,55-64
+693,Male,55,Coat,Outerwear,52,Free Shipping,No,Winter,Albania,55-64
+694,Female,55,Handbag,Accessories,22,Free Shipping,Yes,Winter,Albania,55-64
+695,Female,55,Sunglasses,Accessories,21,Express,No,Winter,Albania,55-64
+696,Male,55,Scarf,Accessories,45,Free Shipping,Yes,Winter,Albania,55-64
+697,Female,55,Blouse,Clothing,77,Next Day Air,No,Winter,Albania,55-64
+698,Female,55,Sweater,Clothing,50,2-Day Shipping,Yes,Winter,Albania,55-64
+699,Male,55,Jeans,Clothing,25,2-Day Shipping,No,Winter,Albania,55-64
+700,Male,55,Sandals,Footwear,15,2-Day Shipping,Yes,Winter,Albania,55-64
+701,Female,55,Blouse,Clothing,69,2-Day Shipping,No,Winter,Albania,55-64
+702,Female,55,Sneakers,Footwear,85,2-Day Shipping,Yes,Winter,Albania,55-64
+703,Male,55,Shirt,Clothing,12,2-Day Shipping,No,Winter,Albania,55-64
+704,Male,55,Shorts,Clothing,100,2-Day Shipping,Yes,Winter,Albania,55-64
+705,Male,55,Coat,Outerwear,23,2-Day Shipping,No,Winter,Albania,55-64
+706,Female,55,Handbag,Accessories,14,2-Day Shipping,Yes,Winter,Albania,55-64
+707,Female,55,Sunglasses,Accessories,25,2-Day Shipping,No,Winter,Albania,55-64
+708,Male,55,Scarf,Accessories,41,2-Day Shipping,Yes,Winter,Albania,55-64
+709,Male,55,Blouse,Clothing,22,2-Day Shipping,No,Winter,Albania,55-64
+710,Male,55,Sweater,Clothing,63,2-Day Shipping,Yes,Winter,Albania,55-64
+711,Male,55,Jeans,Clothing,55,2-Day Shipping,No,Winter,Albania,55-64
+712,Female,55,Blouse,Clothing,98,2-Day Shipping,Yes,Winter,Albania,55-64
+713,Female,55,Sweater,Clothing,99,2-Day Shipping,No,Winter,Albania,55-64
+714,Male,55,Jeans,Clothing,65,2-Day Shipping,Yes,Winter,Albania,55-64
+715,Female,55,Sandals,Footwear,35,2-Day Shipping,No,Winter,Albania,55-64
+716,Female,55,Blouse,Clothing,85,Express,Yes,Winter,Albania,55-64
+717,Female,55,Sneakers,Footwear,96,Express,No,Winter,Albania,55-64
+718,Female,55,Shirt,Clothing,74,Express,Yes,Winter,Albania,55-64
+719,Female,55,Shorts,Clothing,52,Express,No,Winter,Albania,55-64
+720,Female,55,Coat,Outerwear,22,Express,Yes,Winter,Albania,55-64
+721,Male,55,Handbag,Accessories,21,Express,No,Winter,Albania,55-64
+722,Female,22,Sunglasses,Accessories,45,Express,Yes,Winter,Albania,25-34
+723,Female,25,Scarf,Accessories,77,Express,No,Winter,Albania,25-34
+724,Male,32,Blouse,Clothing,50,Express,Yes,Winter,Albania,25-34
+725,Female,35,Sweater,Clothing,25,Express,No,Winter,Albania,25-34
+726,Female,36,Jeans,Clothing,15,Express,Yes,Winter,Albania,35-44
+727,Male,39,Sandals,Footwear,69,Express,No,Winter,Albania,35-44
+728,Male,38,Blouse,Clothing,85,Next Day Air,Yes,Winter,Albania,35-44
+729,Male,37,Sneakers,Footwear,12,Next Day Air,No,Winter,Albania,35-44
+730,Male,34,Shirt,Clothing,100,Next Day Air,Yes,Winter,Albania,25-34
+731,Male,34,Shorts,Clothing,23,Next Day Air,No,Winter,Albania,25-34
+732,Male,32,Coat,Outerwear,14,Next Day Air,Yes,Winter,Albania,25-34
+733,Female,19,Handbag,Accessories,25,Next Day Air,No,Winter,Albania,18-24
+734,Female,18,Sunglasses,Accessories,41,Next Day Air,Yes,Winter,Albania,Under 18
+735,Male,19,Scarf,Accessories,22,Next Day Air,No,Winter,Albania,18-24
+736,Female,18,Blouse,Clothing,63,Next Day Air,Yes,Winter,Albania,Under 18
+737,Female,19,Sweater,Clothing,55,Next Day Air,No,Winter,Albania,18-24
+738,Male,18,Jeans,Clothing,98,Next Day Air,Yes,Winter,Albania,Under 18
+739,Male,19,Sandals,Footwear,99,Next Day Air,No,Winter,Albania,18-24
+740,Female,22,Blouse,Clothing,65,Next Day Air,Yes,Winter,Albania,25-34
+741,Female,25,Sneakers,Footwear,35,Next Day Air,No,Winter,Albania,25-34
+742,Male,26,Shirt,Clothing,85,Next Day Air,Yes,Winter,Albania,25-34
+743,Female,28,Shorts,Clothing,96,Next Day Air,No,Winter,Albania,25-34
+744,Female,28,Coat,Outerwear,74,Next Day Air,Yes,Winter,Albania,25-34
+745,Male,27,Handbag,Accessories,52,Next Day Air,No,Winter,Albania,25-34
+746,Male,23,Sunglasses,Accessories,22,Next Day Air,Yes,Winter,Albania,25-34
+747,Male,30,Scarf,Accessories,21,Next Day Air,No,Winter,Albania,25-34
+748,Female,33,Blouse,Clothing,45,Next Day Air,Yes,Winter,Albania,25-34
+749,Female,31,Sweater,Clothing,77,Next Day Air,No,Fall,Albania,25-34
+750,Male,32,Jeans,Clothing,50,Next Day Air,Yes,Fall,Albania,25-34
+751,Male,32,Sandals,Footwear,25,Next Day Air,No,Fall,Albania,25-34
+752,Male,32,Blouse,Clothing,15,Next Day Air,Yes,Fall,Albania,25-34
+753,Female,32,Sneakers,Footwear,69,Next Day Air,No,Fall,Albania,25-34
+754,Female,32,Shirt,Clothing,85,Next Day Air,Yes,Fall,Albania,25-34
+755,Female,32,Shorts,Clothing,12,Next Day Air,No,Fall,Albania,25-34
+756,Female,32,Coat,Outerwear,100,Next Day Air,Yes,Fall,Albania,25-34
+757,Male,32,Handbag,Accessories,23,Next Day Air,No,Fall,Albania,25-34
+758,Female,32,Sunglasses,Accessories,14,Next Day Air,Yes,Fall,Albania,25-34
+759,Male,32,Scarf,Accessories,25,Next Day Air,No,Fall,Albania,25-34
+760,Female,55,Blouse,Clothing,41,Next Day Air,Yes,Fall,Albania,55-64
+761,Female,33,Sweater,Clothing,22,Next Day Air,No,Fall,Albania,25-34
+762,Female,36,Jeans,Clothing,63,Next Day Air,Yes,Fall,Albania,35-44
+763,Male,39,Blouse,Clothing,55,Next Day Air,No,Fall,Albania,35-44
+764,Female,38,Sweater,Clothing,98,Next Day Air,Yes,Fall,Albania,35-44
+765,Male,34,Jeans,Clothing,99,Next Day Air,No,Fall,Albania,25-34
+766,Female,35,Sandals,Footwear,65,Next Day Air,Yes,Fall,Albania,25-34
+767,Male,36,Blouse,Clothing,35,Next Day Air,No,Fall,Albania,35-44
+768,Female,36,Sneakers,Footwear,85,Next Day Air,Yes,Fall,Albania,35-44
+769,Female,36,Shirt,Clothing,96,Next Day Air,No,Fall,Albania,35-44
+770,Male,38,Shorts,Clothing,74,Next Day Air,Yes,Fall,Albania,35-44
+771,Male,18,Coat,Outerwear,52,Next Day Air,No,Fall,Albania,Under 18
+772,Male,19,Handbag,Accessories,22,Next Day Air,Yes,Fall,Albania,18-24
+773,Male,19,Sunglasses,Accessories,21,Next Day Air,No,Fall,Albania,18-24
+774,Male,19,Scarf,Accessories,45,Next Day Air,Yes,Fall,Albania,18-24
+775,Female,19,Blouse,Clothing,77,Next Day Air,No,Fall,Albania,18-24
+776,Female,19,Sweater,Clothing,50,Next Day Air,Yes,Fall,Albania,18-24
+777,Male,18,Jeans,Clothing,25,Next Day Air,No,Fall,Albania,Under 18
+778,Male,18,Sandals,Footwear,15,Next Day Air,Yes,Fall,Albania,Under 18
+779,Male,18,Blouse,Clothing,69,Next Day Air,No,Fall,Albania,Under 18
+780,Male,18,Sneakers,Footwear,85,Next Day Air,Yes,Fall,Albania,Under 18
+781,Female,18,Shirt,Clothing,12,Next Day Air,No,Fall,Albania,Under 18
+782,Female,18,Shorts,Clothing,100,Next Day Air,Yes,Fall,Albania,Under 18
+783,Male,18,Coat,Outerwear,23,Next Day Air,No,Fall,Albania,Under 18
+784,Female,18,Handbag,Accessories,14,Next Day Air,Yes,Fall,Albania,Under 18
+785,Female,19,Sunglasses,Accessories,25,Next Day Air,No,Fall,Albania,18-24
+786,Male,19,Scarf,Accessories,41,Next Day Air,Yes,Fall,Albania,18-24
+787,Female,19,Blouse,Clothing,22,Next Day Air,No,Fall,Albania,18-24
+788,Male,18,Sweater,Clothing,63,Next Day Air,Yes,Fall,Albania,Under 18
+789,Female,20,Jeans,Clothing,55,Next Day Air,No,Fall,Albania,18-24
+790,Female,35,Sandals,Footwear,98,Next Day Air,Yes,Fall,Albania,25-34
+791,Female,45,Blouse,Clothing,99,Next Day Air,No,Fall,Albania,35-44
+792,Female,60,Sneakers,Footwear,65,Next Day Air,Yes,Fall,Albania,55-64
+793,Male,22,Shirt,Clothing,35,Next Day Air,No,Fall,Albania,25-34
+794,Female,24,Shorts,Clothing,85,Next Day Air,Yes,Fall,Albania,25-34
+795,Female,68,Coat,Outerwear,96,Next Day Air,No,Fall,Albania,65+
+796,Female,53,Handbag,Accessories,74,Next Day Air,Yes,Fall,Albania,55-64
+797,Female,74,Sunglasses,Accessories,52,Next Day Air,No,Fall,Albania,65+
+798,Male,55,Scarf,Accessories,22,Next Day Air,Yes,Fall,Albania,55-64
+799,Male,51,Blouse,Clothing,21,Next Day Air,No,Fall,Albania,55-64
+800,Male,42,Sweater,Clothing,45,Next Day Air,Yes,Fall,Albania,35-44
+801,Female,43,Jeans,Clothing,77,Next Day Air,No,Fall,Albania,35-44
+802,Male,47,Sandals,Footwear,50,Next Day Air,Yes,Fall,Albania,55-64
+803,Female,48,Blouse,Clothing,25,Next Day Air,No,Fall,Albania,55-64
+804,Female,60,Sneakers,Footwear,15,Next Day Air,Yes,Fall,Albania,55-64
+805,Female,22,Shirt,Clothing,69,Next Day Air,No,Fall,Albania,25-34
+806,Female,21,Shorts,Clothing,85,Next Day Air,Yes,Fall,Albania,25-34
+807,Female,19,Coat,Outerwear,12,Next Day Air,No,Fall,Albania,18-24
+808,Male,23,Handbag,Accessories,100,Next Day Air,Yes,Fall,Albania,25-34
+809,Female,25,Sunglasses,Accessories,23,Next Day Air,No,Fall,Albania,25-34
+810,Female,25,Scarf,Accessories,14,Next Day Air,Yes,Fall,Albania,25-34
+811,Female,26,Blouse,Clothing,25,Next Day Air,No,Fall,Albania,25-34
+812,Female,28,Sweater,Clothing,41,Next Day Air,Yes,Fall,Albania,25-34
+813,Male,27,Jeans,Clothing,22,Next Day Air,No,Fall,Albania,25-34
+814,Male,29,Blouse,Clothing,63,Next Day Air,Yes,Fall,Albania,25-34
+815,Male,21,Sweater,Clothing,55,Next Day Air,No,Fall,Albania,25-34
+816,Female,24,Jeans,Clothing,98,Next Day Air,Yes,Fall,Albania,25-34
+817,Male,25,Sandals,Footwear,99,Next Day Air,No,Fall,Albania,25-34
+818,Female,26,Blouse,Clothing,65,Next Day Air,Yes,Fall,Albania,25-34
+819,Female,23,Sneakers,Footwear,35,Next Day Air,No,Fall,Albania,25-34
+820,Female,25,Shirt,Clothing,85,Next Day Air,Yes,Fall,Albania,25-34
+821,Female,33,Shorts,Clothing,96,Next Day Air,No,Fall,Albania,25-34
+822,Female,33,Coat,Outerwear,74,Next Day Air,Yes,Fall,Albania,25-34
+823,Male,36,Handbag,Accessories,52,Next Day Air,No,Spring,Albania,35-44
+824,Female,25,Sunglasses,Accessories,22,Next Day Air,Yes,Spring,Albania,25-34
+825,Female,36,Scarf,Accessories,21,Next Day Air,No,Spring,Albania,35-44
+826,Female,39,Blouse,Clothing,45,Next Day Air,Yes,Spring,Albania,35-44
+827,Female,38,Sweater,Clothing,77,Next Day Air,No,Spring,Albania,35-44
+828,Male,22,Jeans,Clothing,50,Next Day Air,Yes,Spring,Albania,25-34
+829,Male,22,Sandals,Footwear,25,Next Day Air,No,Spring,Albania,25-34
+830,Male,22,Blouse,Clothing,15,Next Day Air,Yes,Spring,Albania,25-34
+831,Female,22,Sneakers,Footwear,69,Next Day Air,No,Spring,Albania,25-34
+832,Male,22,Shirt,Clothing,85,Next Day Air,Yes,Spring,Albania,25-34
+833,Female,22,Shorts,Clothing,12,Next Day Air,No,Spring,Albania,25-34
+834,Female,22,Coat,Outerwear,100,Next Day Air,Yes,Spring,Albania,25-34
+835,Female,22,Handbag,Accessories,23,Next Day Air,No,Spring,Albania,25-34
+836,Female,22,Sunglasses,Accessories,14,Next Day Air,Yes,Spring,Albania,25-34
+837,Male,22,Scarf,Accessories,25,Next Day Air,No,Spring,Albania,25-34
+838,Male,22,Blouse,Clothing,41,Free Shipping,Yes,Spring,Albania,25-34
+839,Male,22,Sweater,Clothing,22,Free Shipping,No,Spring,Albania,25-34
+840,Female,22,Jeans,Clothing,63,Free Shipping,Yes,Spring,Albania,25-34
+841,Male,22,Sandals,Footwear,55,Free Shipping,No,Spring,Albania,25-34
+842,Female,22,Blouse,Clothing,98,Free Shipping,Yes,Spring,Albania,25-34
+843,Female,22,Sneakers,Footwear,99,Free Shipping,No,Spring,Albania,25-34
+844,Female,22,Shirt,Clothing,65,Free Shipping,Yes,Spring,Albania,25-34
+845,Female,22,Shorts,Clothing,35,Free Shipping,No,Spring,Albania,25-34
+846,Female,22,Coat,Outerwear,85,Free Shipping,Yes,Spring,Albania,25-34
+847,Male,22,Handbag,Accessories,96,Free Shipping,No,Spring,Albania,25-34
+848,Female,22,Sunglasses,Accessories,74,Free Shipping,Yes,Spring,Albania,25-34
+849,Female,22,Scarf,Accessories,52,Free Shipping,No,Spring,Albania,25-34
+850,Female,22,Blouse,Clothing,22,Free Shipping,Yes,Spring,Albania,25-34
+851,Male,22,Sweater,Clothing,21,Free Shipping,No,Spring,Albania,25-34
+852,Female,22,Jeans,Clothing,45,Free Shipping,Yes,Spring,Albania,25-34
+853,Female,22,Sandals,Footwear,77,Free Shipping,No,Spring,Albania,25-34
+854,Female,22,Blouse,Clothing,50,Free Shipping,Yes,Spring,Albania,25-34
+855,Female,22,Sneakers,Footwear,25,Free Shipping,No,Spring,Albania,25-34
+856,Male,22,Shirt,Clothing,15,Free Shipping,Yes,Spring,Albania,25-34
+857,Male,22,Shorts,Clothing,69,Free Shipping,No,Spring,Albania,25-34
+858,Male,22,Coat,Outerwear,85,Free Shipping,Yes,Spring,Albania,25-34
+859,Female,22,Handbag,Accessories,12,Free Shipping,No,Spring,Albania,25-34
+860,Male,22,Sunglasses,Accessories,100,Free Shipping,Yes,Spring,Albania,25-34
+861,Female,22,Scarf,Accessories,23,Free Shipping,No,Spring,Albania,25-34
+862,Female,22,Blouse,Clothing,14,Free Shipping,Yes,Spring,Albania,25-34
+863,Female,22,Sweater,Clothing,25,Free Shipping,No,Spring,Albania,25-34
+864,Female,22,Jeans,Clothing,41,Free Shipping,Yes,Spring,Albania,25-34
+865,Female,22,Blouse,Clothing,22,Free Shipping,No,Spring,Albania,25-34
+866,Male,22,Sweater,Clothing,63,Free Shipping,Yes,Spring,Albania,25-34
+867,Female,22,Jeans,Clothing,55,Free Shipping,No,Spring,Albania,25-34
+868,Female,22,Sandals,Footwear,98,Free Shipping,Yes,Spring,Albania,25-34
+869,Female,22,Blouse,Clothing,99,Free Shipping,No,Spring,Albania,25-34
+870,Female,22,Sneakers,Footwear,65,Free Shipping,Yes,Spring,Albania,25-34
+871,Male,22,Shirt,Clothing,35,Free Shipping,No,Spring,Albania,25-34
+872,Female,22,Shorts,Clothing,85,Free Shipping,Yes,Spring,Albania,25-34
+873,Female,22,Coat,Outerwear,96,Free Shipping,No,Spring,Albania,25-34
+874,Female,22,Handbag,Accessories,74,Free Shipping,Yes,Spring,Albania,25-34
+875,Female,22,Sunglasses,Accessories,52,Free Shipping,No,Spring,Albania,25-34
+876,Male,22,Scarf,Accessories,22,Free Shipping,Yes,Spring,Albania,25-34
+877,Male,22,Blouse,Clothing,21,Free Shipping,No,Spring,Albania,25-34
+878,Male,22,Sweater,Clothing,45,Free Shipping,Yes,Spring,Albania,25-34
+879,Female,22,Jeans,Clothing,77,Free Shipping,No,Spring,Albania,25-34
+880,Male,22,Sandals,Footwear,50,Free Shipping,Yes,Spring,Albania,25-34
+881,Female,22,Blouse,Clothing,25,Free Shipping,No,Spring,Albania,25-34
+882,Female,22,Sneakers,Footwear,15,Free Shipping,Yes,Spring,Albania,25-34
+883,Female,22,Shirt,Clothing,69,Free Shipping,No,Spring,Albania,25-34
+884,Female,22,Shorts,Clothing,85,Free Shipping,Yes,Spring,Albania,25-34
+885,Female,22,Coat,Outerwear,12,Free Shipping,No,Spring,Albania,25-34
+886,Male,22,Handbag,Accessories,100,Free Shipping,Yes,Spring,Albania,25-34
+887,Female,22,Sunglasses,Accessories,23,Free Shipping,No,Spring,Albania,25-34
+888,Female,22,Scarf,Accessories,14,Free Shipping,Yes,Spring,Albania,25-34
+889,Female,22,Blouse,Clothing,25,Free Shipping,No,Spring,Albania,25-34
+890,Female,22,Sweater,Clothing,41,Free Shipping,Yes,Spring,Albania,25-34
+891,Male,22,Jeans,Clothing,22,Free Shipping,No,Spring,Albania,25-34
+892,Female,22,Sandals,Footwear,63,Free Shipping,Yes,Spring,Albania,25-34
+893,Male,22,Blouse,Clothing,55,Free Shipping,Yes,Spring,Albania,25-34
+894,Female,22,Sneakers,Footwear,98,Free Shipping,Yes,Spring,Albania,25-34
+895,Female,22,Shirt,Clothing,99,Free Shipping,Yes,Spring,Albania,25-34
+896,Female,22,Shorts,Clothing,65,Free Shipping,Yes,Spring,Albania,25-34
+897,Female,22,Coat,Outerwear,35,Free Shipping,Yes,Spring,Albania,25-34
+898,Male,22,Handbag,Accessories,85,Free Shipping,Yes,Spring,Albania,25-34
+899,Male,22,Sunglasses,Accessories,96,Free Shipping,Yes,Spring,Albania,25-34
+900,Male,22,Scarf,Accessories,74,Free Shipping,Yes,Spring,Albania,25-34
+901,Male,22,Blouse,Clothing,52,Free Shipping,Yes,Spring,Albania,25-34
+902,Male,22,Sweater,Clothing,22,Free Shipping,Yes,Spring,Albania,25-34
+903,Female,22,Jeans,Clothing,21,Free Shipping,Yes,Spring,Albania,25-34
+904,Female,22,Sandals,Footwear,45,Free Shipping,Yes,Spring,Albania,25-34
+905,Female,22,Blouse,Clothing,77,Free Shipping,Yes,Spring,Albania,25-34
+906,Female,22,Sneakers,Footwear,50,Free Shipping,Yes,Spring,Albania,25-34
+907,Female,22,Shirt,Clothing,25,Free Shipping,Yes,Spring,Albania,25-34
+908,Female,22,Shorts,Clothing,15,Free Shipping,Yes,Spring,Albania,25-34
+909,Male,22,Coat,Outerwear,69,Free Shipping,Yes,Spring,Albania,25-34
+910,Female,22,Handbag,Accessories,85,Free Shipping,Yes,Spring,Albania,25-34
+911,Male,22,Sunglasses,Accessories,12,Free Shipping,Yes,Spring,Albania,25-34
+912,Female,22,Scarf,Accessories,100,Free Shipping,Yes,Spring,Albania,25-34
+913,Female,22,Blouse,Clothing,23,Free Shipping,Yes,Spring,Albania,25-34
+914,Female,22,Sweater,Clothing,14,Free Shipping,Yes,Spring,Albania,25-34
+915,Male,22,Jeans,Clothing,25,Free Shipping,Yes,Spring,Albania,25-34
+916,Male,22,Blouse,Clothing,41,Free Shipping,Yes,Spring,Albania,25-34
+917,Female,22,Sweater,Clothing,22,Free Shipping,Yes,Spring,Albania,25-34
+918,Male,22,Jeans,Clothing,63,Free Shipping,Yes,Spring,Albania,25-34
+919,Male,22,Sandals,Footwear,55,Free Shipping,Yes,Spring,Albania,25-34
+920,Female,22,Blouse,Clothing,98,Free Shipping,Yes,Spring,Albania,25-34
+921,Male,22,Sneakers,Footwear,99,Free Shipping,Yes,Spring,Albania,25-34
+922,Male,22,Shirt,Clothing,65,Free Shipping,Yes,Spring,Albania,25-34
+923,Female,22,Shorts,Clothing,35,Free Shipping,Yes,Spring,Albania,25-34
+924,Male,22,Coat,Outerwear,85,Free Shipping,Yes,Spring,Albania,25-34
+925,Female,22,Handbag,Accessories,96,Free Shipping,Yes,Spring,Albania,25-34
+926,Male,22,Sunglasses,Accessories,74,Free Shipping,Yes,Spring,Albania,25-34
+927,Female,22,Scarf,Accessories,52,Free Shipping,Yes,Spring,Albania,25-34
+928,Male,22,Blouse,Clothing,22,Express,Yes,Spring,Albania,25-34
+929,Female,22,Sweater,Clothing,21,Express,Yes,Spring,Albania,25-34
+930,Female,22,Jeans,Clothing,45,Express,Yes,Spring,Albania,25-34
+931,Male,22,Sandals,Footwear,77,Express,Yes,Spring,Albania,25-34
+932,Female,22,Blouse,Clothing,50,Express,Yes,Spring,Albania,25-34
+933,Male,22,Sneakers,Footwear,25,Express,Yes,Spring,Albania,25-34
+934,Male,22,Shirt,Clothing,15,Express,Yes,Spring,Albania,25-34
+935,Female,22,Shorts,Clothing,69,Express,Yes,Spring,Albania,25-34
+936,Female,22,Coat,Outerwear,85,Express,Yes,Spring,Albania,25-34
+937,Female,22,Handbag,Accessories,12,Express,Yes,Spring,Albania,25-34
+938,Female,22,Sunglasses,Accessories,100,Express,Yes,Spring,Albania,25-34
+939,Female,22,Scarf,Accessories,23,Express,Yes,Spring,Albania,25-34
+940,Female,22,Blouse,Clothing,14,Express,Yes,Spring,Albania,25-34
+941,Female,22,Sweater,Clothing,25,Express,Yes,Spring,Albania,25-34
+942,Male,22,Jeans,Clothing,41,Express,Yes,Spring,Albania,25-34
+943,Male,22,Sandals,Footwear,22,Express,Yes,Spring,Albania,25-34
+944,Female,22,Blouse,Clothing,63,Express,Yes,Spring,Albania,25-34
+945,Female,22,Sneakers,Footwear,55,Express,Yes,Spring,Albania,25-34
+946,Female,22,Shirt,Clothing,98,Express,Yes,Spring,Albania,25-34
+947,Female,22,Shorts,Clothing,99,Express,Yes,Spring,Albania,25-34
+948,Female,22,Coat,Outerwear,65,Express,Yes,Spring,Albania,25-34
+949,Female,22,Handbag,Accessories,35,Express,Yes,Spring,Albania,25-34
+950,Female,22,Sunglasses,Accessories,85,Express,Yes,Spring,Albania,25-34
+951,Female,22,Scarf,Accessories,96,Express,Yes,Spring,Albania,25-34
+952,Male,22,Blouse,Clothing,74,Express,Yes,Spring,Albania,25-34
+953,Female,22,Sweater,Clothing,52,Express,Yes,Spring,Albania,25-34
+954,Male,22,Jeans,Clothing,22,Express,Yes,Spring,Albania,25-34
+955,Female,22,Sandals,Footwear,21,Express,Yes,Spring,Albania,25-34
+956,Male,22,Blouse,Clothing,45,Express,Yes,Spring,Albania,25-34
+957,Female,22,Sneakers,Footwear,77,Express,Yes,Spring,Albania,25-34
+958,Male,22,Shirt,Clothing,50,Express,Yes,Spring,Albania,25-34
+959,Female,22,Shorts,Clothing,25,Express,Yes,Spring,Albania,25-34
+960,Male,22,Coat,Outerwear,15,Express,Yes,Spring,Albania,25-34
+961,Male,22,Handbag,Accessories,69,Next Day Air,Yes,Spring,Albania,25-34
+962,Male,22,Sunglasses,Accessories,85,Next Day Air,Yes,Spring,Albania,25-34
+963,Female,22,Scarf,Accessories,12,Next Day Air,Yes,Spring,Albania,25-34
+964,Female,22,Blouse,Clothing,100,Next Day Air,Yes,Spring,Albania,25-34
+965,Male,22,Sweater,Clothing,23,Next Day Air,Yes,Spring,Albania,25-34
+966,Male,22,Jeans,Clothing,14,Next Day Air,Yes,Spring,Albania,25-34
+967,Female,22,Jeans,Clothing,25,Next Day Air,Yes,Spring,Albania,25-34
+968,Female,22,Jeans,Clothing,41,Next Day Air,Yes,Spring,Albania,25-34
+969,Male,22,Jeans,Clothing,22,Next Day Air,Yes,Spring,Albania,25-34
+970,Female,22,Jeans,Clothing,63,Next Day Air,Yes,Spring,Albania,25-34
+971,Male,22,Jeans,Clothing,55,Next Day Air,Yes,Spring,Albania,25-34
+972,Female,22,Jeans,Clothing,98,Next Day Air,Yes,Spring,Albania,25-34
+973,Female,22,Jeans,Clothing,99,Next Day Air,Yes,Spring,Albania,25-34
+974,Female,22,Jeans,Clothing,65,Next Day Air,Yes,Spring,Albania,25-34
+975,Male,22,Jeans,Clothing,35,Next Day Air,Yes,Spring,Albania,25-34
+976,Male,22,Jeans,Clothing,85,Next Day Air,Yes,Spring,Albania,25-34
+977,Female,22,Jeans,Clothing,96,Next Day Air,Yes,Spring,Albania,25-34
+978,Male,22,Jeans,Clothing,74,Next Day Air,Yes,Spring,Albania,25-34
+979,Female,22,Jeans,Clothing,52,Next Day Air,Yes,Spring,Albania,25-34
+980,Female,22,Jeans,Clothing,22,Next Day Air,Yes,Spring,Albania,25-34
+981,Male,22,Jeans,Clothing,21,Next Day Air,Yes,Spring,Albania,25-34
+982,Male,22,Jeans,Clothing,45,Next Day Air,Yes,Spring,Albania,25-34
+983,Male,22,Jeans,Clothing,77,Next Day Air,Yes,Spring,Albania,25-34
+984,Female,22,Jeans,Clothing,50,Next Day Air,Yes,Spring,Albania,25-34
+985,Female,22,Jeans,Clothing,25,Next Day Air,Yes,Spring,Albania,25-34
+986,Male,22,Jeans,Clothing,15,Next Day Air,Yes,Spring,Albania,25-34
+987,Female,22,Jeans,Clothing,69,Next Day Air,Yes,Spring,Albania,25-34
+988,Female,22,Jeans,Clothing,85,Next Day Air,Yes,Spring,Albania,25-34
+989,Female,22,Jeans,Clothing,12,Next Day Air,Yes,Spring,Albania,25-34
+990,Female,22,Jeans,Clothing,100,Next Day Air,Yes,Spring,Albania,25-34
+991,Female,22,Jeans,Clothing,23,Next Day Air,Yes,Spring,Albania,25-34
+992,Male,22,Jeans,Clothing,14,Next Day Air,Yes,Spring,Albania,25-34
+993,Male,22,Jeans,Clothing,25,Next Day Air,Yes,Spring,Albania,25-34
+994,Female,22,Jeans,Clothing,41,Next Day Air,Yes,Spring,Albania,25-34
+995,Female,22,Jeans,Clothing,22,Next Day Air,Yes,Spring,Albania,25-34
+996,Male,22,Jeans,Clothing,63,Next Day Air,Yes,Spring,Albania,25-34
+997,Female,22,Jeans,Clothing,55,Next Day Air,Yes,Spring,Albania,25-34
+998,Female,22,Jeans,Clothing,98,Next Day Air,Yes,Spring,Albania,25-34
+999,Male,22,Jeans,Clothing,99,Next Day Air,Yes,Spring,Albania,25-34
+1000,Male,22,Jeans,Clothing,65,Next Day Air,Yes,Spring,Albania,25-34
+1001,Female,22,Jeans,Clothing,35,Next Day Air,Yes,Spring,Albania,25-34
+1002,Female,22,Jeans,Clothing,85,Next Day Air,Yes,Spring,Albania,25-34
+1003,Male,22,Jeans,Clothing,96,Next Day Air,Yes,Spring,Albania,25-34
+1004,Male,22,Jeans,Clothing,74,Next Day Air,Yes,Spring,Albania,25-34
+1005,Male,22,Jeans,Clothing,52,Next Day Air,Yes,Spring,Albania,25-34
+1006,Female,22,Jeans,Clothing,22,Next Day Air,Yes,Spring,Albania,25-34
+1007,Female,22,Jeans,Clothing,21,Next Day Air,Yes,Spring,Albania,25-34
+1008,Male,22,Jeans,Clothing,45,Next Day Air,Yes,Spring,Albania,25-34
+1009,Male,22,Jeans,Clothing,77,Next Day Air,Yes,Spring,Albania,25-34
+1010,Male,22,Jeans,Clothing,50,Next Day Air,Yes,Spring,Albania,25-34
+1011,Male,22,Jeans,Clothing,25,Next Day Air,Yes,Spring,Albania,25-34
+1012,Female,22,Jeans,Clothing,15,Next Day Air,Yes,Spring,Albania,25-34
+1013,Female,22,Jeans,Clothing,69,Next Day Air,Yes,Spring,Albania,25-34
+1014,Male,22,Jeans,Clothing,85,Next Day Air,Yes,Spring,Albania,25-34
+1015,Female,22,Jeans,Clothing,12,Next Day Air,Yes,Spring,Albania,25-34
+1016,Female,22,Jeans,Clothing,100,Next Day Air,Yes,Spring,Albania,25-34
+1017,Female,22,Jeans,Clothing,23,Next Day Air,Yes,Spring,Albania,25-34
+1018,Female,22,Jeans,Clothing,14,Next Day Air,Yes,Spring,Albania,25-34
+1019,Female,22,Jeans,Clothing,25,Next Day Air,Yes,Spring,Albania,25-34
+1020,Female,22,Jeans,Clothing,41,Next Day Air,Yes,Spring,Albania,25-34
+1021,Male,22,Jeans,Clothing,22,Next Day Air,Yes,Spring,Albania,25-34
+1022,Female,22,Jeans,Clothing,63,Next Day Air,Yes,Spring,Albania,25-34
+1023,Female,22,Jeans,Clothing,55,Next Day Air,Yes,Spring,Albania,25-34
+1024,Male,22,Jeans,Clothing,98,Next Day Air,Yes,Spring,Albania,25-34
+1025,Female,22,Jeans,Clothing,99,Next Day Air,Yes,Spring,Albania,25-34
+1026,Female,22,Jeans,Clothing,65,Next Day Air,Yes,Spring,Albania,25-34
+1027,Male,22,Jeans,Clothing,35,Next Day Air,Yes,Spring,Albania,25-34
+1028,Male,22,Jeans,Clothing,85,Next Day Air,Yes,Spring,Albania,25-34
+1029,Male,22,Jeans,Clothing,96,Next Day Air,Yes,Spring,Albania,25-34
+1030,Male,22,Jeans,Clothing,74,Next Day Air,Yes,Spring,Albania,25-34
+1031,Male,22,Jeans,Clothing,52,Next Day Air,Yes,Spring,Albania,25-34
+1032,Male,22,Jeans,Clothing,22,Next Day Air,Yes,Spring,Albania,25-34
+1033,Female,22,Jeans,Clothing,21,Next Day Air,Yes,Spring,Albania,25-34
+1034,Female,22,Jeans,Clothing,45,Next Day Air,Yes,Spring,Albania,25-34
+1035,Male,22,Jeans,Clothing,77,Next Day Air,Yes,Spring,Albania,25-34
+1036,Female,22,Jeans,Clothing,50,Next Day Air,Yes,Spring,Albania,25-34
+1037,Female,22,Jeans,Clothing,25,Next Day Air,Yes,Spring,Albania,25-34
+1038,Male,22,Jeans,Clothing,15,Next Day Air,Yes,Spring,Albania,25-34
+1039,Male,23,Jeans,Clothing,69,Next Day Air,Yes,Spring,Albania,25-34
+1040,Female,25,Jeans,Clothing,85,Next Day Air,Yes,Spring,Albania,25-34
+1041,Female,46,Jeans,Clothing,12,Next Day Air,Yes,Spring,Albania,55-64
+1042,Male,28,Jeans,Clothing,100,Next Day Air,Yes,Spring,Albania,25-34
+1043,Female,24,Jeans,Clothing,23,Next Day Air,Yes,Spring,Albania,25-34
+1044,Female,27,Jeans,Clothing,14,Next Day Air,Yes,Spring,Albania,25-34
+1045,Male,22,Jeans,Clothing,25,Next Day Air,Yes,Spring,Albania,25-34
+1046,Male,22,Jeans,Clothing,41,Next Day Air,Yes,Spring,Albania,25-34
+1047,Male,22,Jeans,Clothing,22,Next Day Air,Yes,Spring,Albania,25-34
+1048,Female,22,Jeans,Clothing,63,Next Day Air,Yes,Spring,Albania,25-34
+1049,Female,22,Jeans,Clothing,55,Next Day Air,Yes,Spring,Albania,25-34
+1050,Male,22,Jeans,Clothing,98,Next Day Air,Yes,Spring,Albania,25-34
+1051,Male,22,Jeans,Clothing,99,Next Day Air,Yes,Spring,Albania,25-34
+1052,Male,22,Jeans,Clothing,65,Next Day Air,Yes,Spring,Albania,25-34
+1053,Female,22,Jeans,Clothing,35,Next Day Air,Yes,Spring,Albania,25-34
+1054,Female,22,Jeans,Clothing,85,Next Day Air,Yes,Spring,Albania,25-34
+1055,Female,22,Jeans,Clothing,96,Next Day Air,Yes,Spring,Albania,25-34
+1056,Female,22,Jeans,Clothing,74,Next Day Air,Yes,Spring,Albania,25-34
+1057,Male,22,Jeans,Clothing,52,Next Day Air,Yes,Spring,Albania,25-34
+1058,Female,22,Jeans,Clothing,22,Next Day Air,Yes,Spring,Albania,25-34
+1059,Male,22,Jeans,Clothing,21,Next Day Air,Yes,Spring,Albania,25-34
+1060,Female,22,Jeans,Clothing,45,Next Day Air,Yes,Spring,Albania,25-34
+1061,Female,22,Jeans,Clothing,77,Next Day Air,Yes,Spring,Albania,25-34
+1062,Female,22,Jeans,Clothing,50,Next Day Air,Yes,Spring,Albania,25-34
+1063,Male,22,Jeans,Clothing,25,Next Day Air,Yes,Spring,Albania,25-34
+1064,Female,22,Jeans,Clothing,15,Next Day Air,Yes,Spring,Albania,25-34
+1065,Male,22,Jeans,Clothing,69,Next Day Air,Yes,Spring,Albania,25-34
+1066,Female,22,Jeans,Clothing,85,Next Day Air,Yes,Spring,Albania,25-34
+1067,Male,33,Jeans,Clothing,12,Next Day Air,Yes,Spring,Albania,25-34
+1068,Female,33,Jeans,Clothing,100,Next Day Air,Yes,Spring,Albania,25-34
+1069,Female,33,Jeans,Clothing,23,Next Day Air,Yes,Spring,Albania,25-34
+1070,Male,33,Jeans,Clothing,14,Next Day Air,Yes,Spring,Albania,25-34
+1071,Male,33,Jeans,Clothing,25,Free Shipping,Yes,Spring,Albania,25-34
+1072,Male,33,Jeans,Clothing,41,Free Shipping,Yes,Spring,Albania,25-34
+1073,Male,33,Jeans,Clothing,22,Free Shipping,Yes,Spring,Albania,25-34
+1074,Male,33,Jeans,Clothing,63,Free Shipping,Yes,Spring,Albania,25-34
+1075,Female,33,Jeans,Clothing,55,Free Shipping,Yes,Spring,Albania,25-34
+1076,Female,33,Jeans,Clothing,98,Free Shipping,Yes,Spring,Albania,25-34
+1077,Male,33,Jeans,Clothing,99,Free Shipping,Yes,Spring,Albania,25-34
+1078,Male,33,Jeans,Clothing,65,Free Shipping,Yes,Spring,Albania,25-34
+1079,Male,33,Jeans,Clothing,35,Free Shipping,Yes,Spring,Albania,25-34
+1080,Male,33,Jeans,Clothing,85,Free Shipping,Yes,Spring,Albania,25-34
+1081,Female,33,Jeans,Clothing,96,Free Shipping,Yes,Spring,Albania,25-34
+1082,Female,33,Jeans,Clothing,74,Free Shipping,Yes,Spring,Albania,25-34
+1083,Male,33,Jeans,Clothing,52,Free Shipping,Yes,Spring,Albania,25-34
+1084,Female,33,Jeans,Clothing,22,Free Shipping,Yes,Spring,Albania,25-34
+1085,Female,33,Jeans,Clothing,21,Free Shipping,Yes,Spring,Albania,25-34
+1086,Male,33,Jeans,Clothing,45,Free Shipping,Yes,Spring,Albania,25-34
+1087,Female,33,Jeans,Clothing,77,Free Shipping,Yes,Spring,Albania,25-34
+1088,Male,60,Jeans,Clothing,50,Free Shipping,Yes,Spring,Albania,55-64
+1089,Female,60,Jeans,Clothing,25,Free Shipping,Yes,Spring,Albania,55-64
+1090,Female,60,Jeans,Clothing,15,Free Shipping,Yes,Spring,Albania,55-64
+1091,Female,60,Jeans,Clothing,69,Free Shipping,Yes,Spring,Albania,55-64
+1092,Female,60,Jeans,Clothing,85,Free Shipping,Yes,Spring,Albania,55-64
+1093,Male,60,Jeans,Clothing,12,Free Shipping,Yes,Spring,Albania,55-64
+1094,Female,60,Jeans,Clothing,100,Free Shipping,Yes,Spring,Albania,55-64
+1095,Female,60,Jeans,Clothing,23,Free Shipping,Yes,Spring,Albania,55-64
+1096,Female,60,Jeans,Clothing,14,Free Shipping,Yes,Spring,Albania,55-64
+1097,Female,60,Jeans,Clothing,25,Free Shipping,Yes,Spring,Albania,55-64
+1098,Male,60,Jeans,Clothing,41,Free Shipping,Yes,Spring,Albania,55-64
+1099,Male,60,Jeans,Clothing,22,Free Shipping,Yes,Spring,Albania,55-64
+1100,Male,60,Jeans,Clothing,63,Free Shipping,Yes,Spring,Albania,55-64
+1101,Female,60,Jeans,Clothing,55,Free Shipping,Yes,Spring,Albania,55-64
+1102,Male,55,Jeans,Clothing,98,Free Shipping,Yes,Spring,Albania,55-64
+1103,Female,55,Jeans,Clothing,99,Free Shipping,Yes,Spring,Albania,55-64
+1104,Female,55,Jeans,Clothing,65,Free Shipping,Yes,Spring,Albania,55-64
+1105,Female,55,Jeans,Clothing,35,Free Shipping,Yes,Spring,Albania,55-64
+1106,Female,55,Jeans,Clothing,85,Free Shipping,Yes,Spring,Albania,55-64
+1107,Female,55,Jeans,Clothing,96,Free Shipping,Yes,Spring,Albania,55-64
+1108,Male,55,Jeans,Clothing,74,Free Shipping,Yes,Spring,United states,55-64
+1109,Female,55,Jeans,Clothing,52,Free Shipping,Yes,Spring,Afghanistan,55-64
+1110,Female,55,Jeans,Clothing,22,Free Shipping,Yes,Spring,Afghanistan,55-64
+1111,Female,55,Jeans,Clothing,21,Free Shipping,Yes,Spring,Afghanistan,55-64
+1112,Female,55,Jeans,Clothing,45,Free Shipping,Yes,Spring,Afghanistan,55-64
+1113,Male,55,Jeans,Clothing,77,Free Shipping,Yes,Spring,Afghanistan,55-64
+1114,Male,55,Jeans,Clothing,50,Free Shipping,Yes,Spring,Afghanistan,55-64
+1115,Male,55,Jeans,Clothing,25,Free Shipping,Yes,Spring,Afghanistan,55-64
+1116,Female,55,Jeans,Clothing,15,Free Shipping,Yes,Spring,Afghanistan,55-64
+1117,Male,55,Jeans,Clothing,69,Free Shipping,Yes,Spring,Afghanistan,55-64
+1118,Female,55,Jeans,Clothing,85,Free Shipping,Yes,Spring,Afghanistan,55-64
+1119,Female,55,Jeans,Clothing,12,Free Shipping,Yes,Spring,Afghanistan,55-64
+1120,Female,18,Jeans,Clothing,100,Free Shipping,Yes,Spring,Afghanistan,Under 18
+1121,Female,20,Jeans,Clothing,23,Free Shipping,Yes,Spring,Afghanistan,18-24
+1122,Female,35,Jeans,Clothing,14,Free Shipping,Yes,Spring,Afghanistan,25-34
+1123,Male,45,Jeans,Clothing,25,Free Shipping,Yes,Spring,Afghanistan,35-44
+1124,Female,60,Jeans,Clothing,41,Free Shipping,Yes,Spring,Afghanistan,55-64
+1125,Female,22,Jeans,Clothing,22,Free Shipping,Yes,Spring,Afghanistan,25-34
+1126,Female,24,Jeans,Clothing,63,Free Shipping,Yes,Spring,Afghanistan,25-34
+1127,Female,68,Jeans,Clothing,55,Free Shipping,Yes,Spring,Afghanistan,65+
+1128,Male,53,Jeans,Clothing,98,Free Shipping,Yes,Spring,Afghanistan,55-64
+1129,Male,74,Jeans,Clothing,99,Free Shipping,Yes,Spring,Afghanistan,65+
+1130,Male,55,Jeans,Clothing,65,Free Shipping,Yes,Spring,Afghanistan,55-64
+1131,Female,51,Jeans,Clothing,35,Free Shipping,Yes,Spring,Afghanistan,55-64
+1132,Male,42,Jeans,Clothing,85,Free Shipping,Yes,Spring,Afghanistan,35-44
+1133,Female,43,Jeans,Clothing,96,Free Shipping,Yes,Spring,Afghanistan,35-44
+1134,Female,47,Jeans,Clothing,74,Free Shipping,Yes,Spring,Afghanistan,55-64
+1135,Female,48,Jeans,Clothing,52,Free Shipping,Yes,Spring,Afghanistan,55-64
+1136,Female,60,Jeans,Clothing,22,Free Shipping,Yes,Spring,Afghanistan,55-64
+1137,Male,22,Jeans,Clothing,21,Free Shipping,Yes,Spring,Afghanistan,25-34
+1138,Male,21,Jeans,Clothing,45,Free Shipping,Yes,Spring,Afghanistan,25-34
+1139,Male,19,Jeans,Clothing,77,Free Shipping,Yes,Spring,Afghanistan,18-24
+1140,Female,23,Jeans,Clothing,50,Free Shipping,Yes,Spring,Afghanistan,25-34
+1141,Male,25,Jeans,Clothing,25,Free Shipping,Yes,Spring,Afghanistan,25-34
+1142,Female,25,Jeans,Clothing,15,Free Shipping,Yes,Spring,Afghanistan,25-34
+1143,Female,26,Jeans,Clothing,69,Free Shipping,Yes,Spring,Afghanistan,25-34
+1144,Female,28,Jeans,Clothing,85,Free Shipping,Yes,Spring,Afghanistan,25-34
+1145,Female,27,Jeans,Clothing,12,Free Shipping,Yes,Spring,Afghanistan,25-34
+1146,Female,29,Jeans,Clothing,100,Free Shipping,Yes,Spring,Afghanistan,25-34
+1147,Male,21,Jeans,Clothing,23,Free Shipping,Yes,Spring,Afghanistan,25-34
+1148,Female,24,Jeans,Clothing,14,Free Shipping,Yes,Spring,Afghanistan,25-34
+1149,Female,25,Jeans,Clothing,25,Free Shipping,Yes,Spring,Afghanistan,25-34
+1150,Female,26,Jeans,Clothing,41,Free Shipping,Yes,Spring,Afghanistan,25-34
+1151,Male,23,Jeans,Clothing,22,Free Shipping,Yes,Spring,Afghanistan,25-34
+1152,Female,25,Jeans,Clothing,63,Free Shipping,Yes,Spring,Afghanistan,25-34
+1153,Female,33,Jeans,Clothing,55,Free Shipping,Yes,Spring,Afghanistan,25-34
+1154,Female,33,Jeans,Clothing,98,Free Shipping,Yes,Spring,Afghanistan,25-34
+1155,Female,36,Jeans,Clothing,99,Free Shipping,Yes,Spring,Afghanistan,35-44
+1156,Male,25,Jeans,Clothing,65,Free Shipping,Yes,Spring,Afghanistan,25-34
+1157,Male,36,Jeans,Clothing,35,Free Shipping,Yes,Spring,Afghanistan,35-44
+1158,Male,39,Jeans,Clothing,85,Free Shipping,Yes,Spring,Afghanistan,35-44
+1159,Female,38,Jeans,Clothing,96,Free Shipping,Yes,Spring,Afghanistan,35-44
+1160,Male,22,Jeans,Clothing,74,Free Shipping,Yes,Spring,Afghanistan,25-34
+1161,Female,22,Jeans,Clothing,52,Express,Yes,Spring,Afghanistan,25-34
+1162,Female,22,Jeans,Clothing,22,Free Shipping,Yes,Spring,Afghanistan,25-34
+1163,Female,22,Jeans,Clothing,21,Next Day Air,Yes,Spring,Afghanistan,25-34
+1164,Female,22,Jeans,Clothing,45,Express,Yes,Spring,Afghanistan,25-34
+1165,Female,22,Jeans,Clothing,77,Free Shipping,Yes,Spring,Afghanistan,25-34
+1166,Male,22,Jeans,Clothing,50,Next Day Air,Yes,Spring,Afghanistan,25-34
+1167,Female,22,Jeans,Clothing,25,Express,Yes,Spring,Afghanistan,25-34
+1168,Female,22,Jeans,Clothing,15,Free Shipping,Yes,Spring,Afghanistan,25-34
+1169,Female,22,Jeans,Clothing,69,Next Day Air,Yes,Spring,Afghanistan,25-34
+1170,Female,22,Jeans,Clothing,85,Express,Yes,Spring,Afghanistan,25-34
+1171,Male,22,Jeans,Clothing,12,Free Shipping,Yes,Spring,Afghanistan,25-34
+1172,Female,22,Jeans,Clothing,100,Next Day Air,Yes,Spring,Afghanistan,25-34
+1173,Female,22,Jeans,Clothing,23,Express,Yes,Spring,Afghanistan,25-34
+1174,Female,22,Jeans,Clothing,14,Free Shipping,Yes,Spring,Afghanistan,25-34
+1175,Female,22,Jeans,Clothing,25,Next Day Air,Yes,Spring,Afghanistan,25-34
+1176,Male,22,Jeans,Clothing,41,Express,Yes,Spring,Afghanistan,25-34
+1177,Male,22,Jeans,Clothing,22,Free Shipping,Yes,Spring,Afghanistan,25-34
+1178,Male,22,Jeans,Clothing,63,Next Day Air,Yes,Spring,Afghanistan,25-34
+1179,Female,22,Jeans,Clothing,55,Express,Yes,Spring,Afghanistan,25-34
+1180,Male,22,Jeans,Clothing,98,Free Shipping,Yes,Spring,Afghanistan,25-34
+1181,Female,22,Jeans,Clothing,99,Next Day Air,Yes,Spring,Afghanistan,25-34
+1182,Female,22,Jeans,Clothing,65,Express,Yes,Spring,Afghanistan,25-34
+1183,Female,22,Jeans,Clothing,35,Free Shipping,Yes,Spring,Afghanistan,25-34
+1184,Female,22,Jeans,Clothing,85,Next Day Air,Yes,Spring,Afghanistan,25-34
+1185,Female,22,Jeans,Clothing,96,Express,Yes,Spring,Afghanistan,25-34
+1186,Male,22,Jeans,Clothing,74,Free Shipping,Yes,Spring,Afghanistan,25-34
+1187,Female,22,Jeans,Clothing,52,Next Day Air,Yes,Spring,Afghanistan,25-34
+1188,Female,22,Jeans,Clothing,22,Express,Yes,Spring,Afghanistan,25-34
+1189,Female,22,Jeans,Clothing,21,Free Shipping,Yes,Spring,Afghanistan,25-34
+1190,Female,22,Jeans,Clothing,45,Next Day Air,Yes,Spring,Afghanistan,25-34
+1191,Male,22,Jeans,Clothing,77,Express,Yes,Spring,Afghanistan,25-34
+1192,Female,22,Jeans,Clothing,50,Free Shipping,Yes,Spring,Afghanistan,25-34
+1193,Male,22,Jeans,Clothing,25,Next Day Air,Yes,Spring,Afghanistan,25-34
+1194,Female,22,Jeans,Clothing,15,Express,Yes,Spring,Afghanistan,25-34
+1195,Female,22,Jeans,Clothing,69,Free Shipping,Yes,Spring,Afghanistan,25-34
+1196,Female,22,Jeans,Clothing,85,Next Day Air,Yes,Spring,Australia,25-34
+1197,Female,22,Jeans,Clothing,12,Express,Yes,Spring,Australia,25-34
+1198,Male,22,Jeans,Clothing,100,Free Shipping,Yes,Spring,Australia,25-34
+1199,Male,22,Jeans,Clothing,23,Next Day Air,Yes,Spring,Australia,25-34
+1200,Male,22,Jeans,Clothing,14,Express,Yes,Spring,Australia,25-34
+1201,Male,22,Jeans,Clothing,25,Free Shipping,Yes,Spring,Australia,25-34
+1202,Male,22,Jeans,Clothing,41,Next Day Air,Yes,Spring,Australia,25-34
+1203,Female,22,Jeans,Clothing,22,Express,Yes,Spring,Australia,25-34
+1204,Female,22,Jeans,Clothing,63,Free Shipping,Yes,Spring,Australia,25-34
+1205,Female,22,Jeans,Clothing,55,Next Day Air,Yes,Spring,Australia,25-34
+1206,Female,22,Jeans,Clothing,98,Express,Yes,Spring,Australia,25-34
+1207,Female,22,Jeans,Clothing,99,Free Shipping,Yes,Spring,Australia,25-34
+1208,Female,22,Jeans,Clothing,65,Next Day Air,Yes,Spring,Australia,25-34
+1209,Male,22,Jeans,Clothing,35,Express,Yes,Spring,Australia,25-34
+1210,Female,22,Jeans,Clothing,85,Free Shipping,Yes,Spring,Australia,25-34
+1211,Male,22,Jeans,Clothing,96,Next Day Air,Yes,Spring,Australia,25-34
+1212,Female,22,Jeans,Clothing,74,Express,Yes,Spring,Australia,25-34
+1213,Female,22,Jeans,Clothing,52,Free Shipping,Yes,Spring,Australia,25-34
+1214,Female,22,Jeans,Clothing,22,Next Day Air,Yes,Spring,Australia,25-34
+1215,Male,22,Jeans,Clothing,21,Express,Yes,Spring,Australia,25-34
+1216,Male,22,Jeans,Clothing,45,Free Shipping,Yes,Spring,Australia,25-34
+1217,Female,22,Jeans,Clothing,77,Next Day Air,Yes,Spring,Australia,25-34
+1218,Male,22,Jeans,Clothing,50,Express,Yes,Spring,Australia,25-34
+1219,Male,22,Jeans,Clothing,25,Free Shipping,Yes,Spring,Australia,25-34
+1220,Female,22,Jeans,Clothing,15,Next Day Air,Yes,Spring,Australia,25-34
+1221,Male,22,Jeans,Clothing,69,Express,Yes,Spring,Australia,25-34
+1222,Male,22,Jeans,Clothing,85,Free Shipping,Yes,Spring,Australia,25-34
+1223,Female,22,Jeans,Clothing,12,Next Day Air,Yes,Spring,Australia,25-34
+1224,Male,22,Jeans,Clothing,100,Express,Yes,Spring,Australia,25-34
+1225,Female,22,Jeans,Clothing,23,Free Shipping,Yes,Spring,Australia,25-34
+1226,Male,22,Jeans,Clothing,14,Next Day Air,Yes,Spring,Australia,25-34
+1227,Female,22,Jeans,Clothing,25,Express,Yes,Spring,Australia,25-34
+1228,Male,22,Jeans,Clothing,41,Free Shipping,Yes,Spring,Australia,25-34
+1229,Female,22,Jeans,Clothing,22,Next Day Air,Yes,Spring,Australia,25-34
+1230,Female,22,Jeans,Clothing,63,Express,Yes,Spring,Australia,25-34
+1231,Male,22,Jeans,Clothing,55,Free Shipping,Yes,Spring,Australia,25-34
+1232,Female,22,Jeans,Clothing,98,Next Day Air,Yes,Spring,Australia,25-34
+1233,Male,22,Jeans,Clothing,99,Express,Yes,Spring,Australia,25-34
+1234,Male,22,Jeans,Clothing,65,Free Shipping,Yes,Spring,Australia,25-34
+1235,Female,22,Jeans,Clothing,35,Next Day Air,Yes,Spring,Australia,25-34
+1236,Female,22,Jeans,Clothing,85,Express,Yes,Spring,Australia,25-34
+1237,Female,22,Jeans,Clothing,96,Free Shipping,Yes,Spring,Australia,25-34
+1238,Female,22,Jeans,Clothing,74,Next Day Air,Yes,Spring,Australia,25-34
+1239,Female,22,Jeans,Clothing,52,Express,Yes,Spring,Australia,25-34
+1240,Female,22,Jeans,Clothing,22,Free Shipping,Yes,Spring,Australia,25-34
+1241,Female,22,Jeans,Clothing,21,Next Day Air,Yes,Spring,Australia,25-34
+1242,Male,22,Jeans,Clothing,45,Express,Yes,Spring,Australia,25-34
+1243,Male,22,Jeans,Clothing,77,Free Shipping,Yes,Spring,Australia,25-34
+1244,Female,22,Jeans,Clothing,50,Next Day Air,Yes,Spring,Australia,25-34
+1245,Female,22,Jeans,Clothing,25,Express,Yes,Spring,Australia,25-34
+1246,Female,22,Jeans,Clothing,15,Free Shipping,Yes,Spring,Australia,25-34
+1247,Female,22,Jeans,Clothing,69,Next Day Air,Yes,Spring,Australia,25-34
+1248,Female,22,Jeans,Clothing,85,Express,Yes,Spring,Australia,25-34
+1249,Female,22,Jeans,Clothing,12,Free Shipping,Yes,Spring,Australia,25-34
+1250,Female,22,Jeans,Clothing,100,Next Day Air,Yes,Spring,Australia,25-34
+1251,Female,22,Jeans,Clothing,23,Express,Yes,Spring,Australia,25-34
+1252,Male,22,Jeans,Clothing,14,Free Shipping,Yes,Spring,Australia,25-34
+1253,Female,22,Jeans,Clothing,25,Next Day Air,Yes,Spring,Australia,25-34
+1254,Male,22,Jeans,Clothing,41,Express,Yes,Spring,Australia,25-34
+1255,Female,22,Jeans,Clothing,22,Free Shipping,Yes,Spring,Australia,25-34
+1256,Male,22,Jeans,Clothing,63,Next Day Air,Yes,Spring,Australia,25-34
+1257,Female,22,Jeans,Clothing,55,Express,Yes,Spring,Australia,25-34
+1258,Male,22,Jeans,Clothing,98,Free Shipping,Yes,Spring,Australia,25-34
+1259,Female,22,Jeans,Clothing,99,Next Day Air,Yes,Spring,Australia,25-34
+1260,Male,22,Jeans,Clothing,65,Express,Yes,Spring,Australia,25-34
+1261,Male,22,Jeans,Clothing,35,Free Shipping,Yes,Spring,Australia,25-34
+1262,Male,22,Jeans,Clothing,85,Next Day Air,Yes,Spring,Australia,25-34
+1263,Female,22,Jeans,Clothing,96,Express,Yes,Spring,Australia,25-34
+1264,Female,22,Jeans,Clothing,74,Free Shipping,Yes,Spring,Australia,25-34
+1265,Male,22,Jeans,Clothing,52,Next Day Air,Yes,Spring,Australia,25-34
+1266,Male,22,Jeans,Clothing,22,Express,Yes,Spring,Australia,25-34
+1267,Female,22,Jeans,Clothing,21,Free Shipping,Yes,Spring,Australia,25-34
+1268,Female,22,Jeans,Clothing,45,Next Day Air,Yes,Spring,Australia,25-34
+1269,Male,22,Jeans,Clothing,77,Express,Yes,Spring,Australia,25-34
+1270,Female,22,Jeans,Clothing,50,Free Shipping,Yes,Spring,Australia,25-34
+1271,Male,22,Jeans,Clothing,25,Next Day Air,Yes,Spring,Australia,25-34
+1272,Female,22,Jeans,Clothing,15,Express,Yes,Spring,Australia,25-34
+1273,Female,22,Jeans,Clothing,69,Free Shipping,Yes,Spring,Australia,25-34
+1274,Female,22,Jeans,Clothing,85,Next Day Air,Yes,Spring,Australia,25-34
+1275,Male,22,Jeans,Clothing,12,Express,Yes,Spring,Australia,25-34
+1276,Male,22,Jeans,Clothing,100,Free Shipping,Yes,Spring,Australia,25-34
+1277,Female,22,Jeans,Clothing,23,Next Day Air,Yes,Spring,Australia,25-34
+1278,Male,22,Jeans,Clothing,14,Express,Yes,Spring,Australia,25-34
+1279,Female,22,Jeans,Clothing,25,Free Shipping,Yes,Spring,Australia,25-34
+1280,Female,22,Jeans,Clothing,41,Next Day Air,Yes,Spring,Australia,25-34
+1281,Male,22,Jeans,Clothing,22,Express,Yes,Spring,Australia,25-34
+1282,Male,22,Jeans,Clothing,63,Free Shipping,Yes,Spring,Australia,25-34
+1283,Male,22,Jeans,Clothing,55,Next Day Air,Yes,Spring,Australia,25-34
+1284,Female,22,Jeans,Clothing,98,Express,Yes,Spring,Australia,25-34
+1285,Female,22,Jeans,Clothing,99,Free Shipping,Yes,Spring,Australia,25-34
+1286,Male,22,Jeans,Clothing,65,Next Day Air,Yes,Spring,Australia,25-34
+1287,Female,22,Jeans,Clothing,35,Express,Yes,Spring,Australia,25-34
+1288,Female,22,Jeans,Clothing,85,Free Shipping,Yes,Spring,Australia,25-34
+1289,Female,22,Jeans,Clothing,96,Next Day Air,Yes,Spring,Australia,25-34
+1290,Female,22,Jeans,Clothing,74,Express,Yes,Spring,Australia,25-34
+1291,Female,22,Jeans,Clothing,52,Free Shipping,Yes,Spring,Australia,25-34
+1292,Male,22,Jeans,Clothing,22,Next Day Air,Yes,Spring,Australia,25-34
+1293,Male,22,Jeans,Clothing,21,Express,Yes,Spring,Australia,25-34
+1294,Female,22,Jeans,Clothing,45,Free Shipping,Yes,Spring,Australia,25-34
+1295,Female,22,Jeans,Clothing,77,Next Day Air,Yes,Spring,Australia,25-34
+1296,Male,22,Jeans,Clothing,50,Express,Yes,Spring,Australia,25-34
+1297,Female,22,Jeans,Clothing,25,Free Shipping,Yes,Spring,Australia,25-34
+1298,Female,22,Jeans,Clothing,15,Next Day Air,Yes,Spring,Australia,25-34
+1299,Male,22,Jeans,Clothing,69,Express,Yes,Spring,Australia,25-34
+1300,Male,22,Jeans,Clothing,85,Free Shipping,Yes,Spring,Australia,25-34
+1301,Female,22,Jeans,Clothing,12,Next Day Air,Yes,Spring,Australia,25-34
+1302,Female,22,Jeans,Clothing,100,Express,Yes,Spring,Australia,25-34
+1303,Male,22,Jeans,Clothing,23,Free Shipping,Yes,Spring,Australia,25-34
+1304,Male,22,Jeans,Clothing,14,Next Day Air,Yes,Spring,Australia,25-34
+1305,Male,22,Jeans,Clothing,25,Express,Yes,Spring,Australia,25-34
+1306,Female,22,Jeans,Clothing,41,Free Shipping,Yes,Spring,Australia,25-34
+1307,Female,22,Jeans,Clothing,22,Next Day Air,Yes,Spring,Australia,25-34
+1308,Male,22,Jeans,Clothing,63,Express,Yes,Spring,Australia,25-34
+1309,Male,22,Jeans,Clothing,55,Free Shipping,Yes,Spring,Australia,25-34
+1310,Male,22,Jeans,Clothing,98,Next Day Air,Yes,Spring,Australia,25-34
+1311,Male,22,Jeans,Clothing,99,Express,Yes,Spring,Australia,25-34
+1312,Female,22,Jeans,Clothing,65,Free Shipping,Yes,Spring,Australia,25-34
+1313,Female,22,Jeans,Clothing,35,Next Day Air,Yes,Spring,Australia,25-34
+1314,Male,22,Jeans,Clothing,85,Express,Yes,Spring,Australia,25-34
+1315,Female,22,Jeans,Clothing,96,Free Shipping,Yes,Spring,Australia,25-34
+1316,Female,22,Jeans,Clothing,74,Next Day Air,Yes,Spring,Australia,25-34
+1317,Female,22,Jeans,Clothing,52,Express,Yes,Spring,Australia,25-34
+1318,Female,22,Jeans,Clothing,22,Free Shipping,Yes,Spring,Australia,25-34
+1319,Female,22,Jeans,Clothing,21,Next Day Air,Yes,Spring,Australia,25-34
+1320,Female,22,Jeans,Clothing,45,Express,Yes,Spring,Australia,25-34
+1321,Male,22,Jeans,Clothing,77,Free Shipping,Yes,Spring,Australia,25-34
+1322,Female,22,Jeans,Clothing,50,Next Day Air,Yes,Spring,Australia,25-34
+1323,Female,22,Blouse,Clothing,25,Express,Yes,Spring,Australia,25-34
+1324,Male,22,Blouse,Clothing,15,Free Shipping,Yes,Spring,Australia,25-34
+1325,Female,22,Blouse,Clothing,69,Next Day Air,Yes,Spring,Australia,25-34
+1326,Female,22,Blouse,Clothing,85,Express,Yes,Spring,Australia,25-34
+1327,Male,22,Blouse,Clothing,12,Free Shipping,Yes,Spring,Australia,25-34
+1328,Male,22,Blouse,Clothing,100,Next Day Air,Yes,Spring,Australia,25-34
+1329,Male,22,Blouse,Clothing,23,Express,Yes,Spring,Australia,25-34
+1330,Male,22,Blouse,Clothing,14,Free Shipping,Yes,Spring,Australia,25-34
+1331,Male,22,Blouse,Clothing,25,Next Day Air,Yes,Spring,Australia,25-34
+1332,Male,22,Blouse,Clothing,41,Express,Yes,Spring,Australia,25-34
+1333,Female,22,Blouse,Clothing,22,Free Shipping,Yes,Spring,Australia,25-34
+1334,Female,22,Blouse,Clothing,63,Next Day Air,Yes,Spring,United States,25-34
+1335,Male,22,Blouse,Clothing,55,Express,Yes,Spring,United States,25-34
+1336,Female,22,Blouse,Clothing,98,Free Shipping,Yes,Spring,United States,25-34
+1337,Female,22,Blouse,Clothing,99,Next Day Air,Yes,Spring,United States,25-34
+1338,Male,22,Blouse,Clothing,65,Express,Yes,Spring,United States,25-34
+1339,Male,22,Blouse,Clothing,35,Free Shipping,Yes,Spring,United States,25-34
+1340,Female,22,Blouse,Clothing,85,Next Day Air,Yes,Spring,United States,25-34
+1341,Female,22,Blouse,Clothing,96,Express,Yes,Spring,United States,25-34
+1342,Male,22,Blouse,Clothing,74,Free Shipping,Yes,Spring,United States,25-34
+1343,Female,22,Blouse,Clothing,52,Next Day Air,Yes,Spring,United States,25-34
+1344,Female,22,Blouse,Clothing,22,Express,Yes,Spring,United States,25-34
+1345,Male,22,Blouse,Clothing,21,Free Shipping,Yes,Spring,United States,25-34
+1346,Male,22,Blouse,Clothing,45,Next Day Air,Yes,Spring,United States,25-34
+1347,Male,22,Blouse,Clothing,77,Express,Yes,Spring,United States,25-34
+1348,Female,22,Blouse,Clothing,50,Free Shipping,Yes,Spring,United States,25-34
+1349,Female,22,Blouse,Clothing,25,Next Day Air,Yes,Spring,United States,25-34
+1350,Male,22,Blouse,Clothing,15,Express,Yes,Spring,Australia,25-34
+1351,Male,22,Blouse,Clothing,69,Free Shipping,Yes,Spring,Australia,25-34
+1352,Male,22,Blouse,Clothing,85,Next Day Air,Yes,Spring,Australia,25-34
+1353,Female,22,Blouse,Clothing,12,Express,Yes,Spring,Australia,25-34
+1354,Female,22,Blouse,Clothing,100,Free Shipping,Yes,Spring,Australia,25-34
+1355,Female,22,Blouse,Clothing,23,Next Day Air,Yes,Spring,Australia,25-34
+1356,Female,22,Blouse,Clothing,14,Express,Yes,Spring,Australia,25-34
+1357,Male,22,Blouse,Clothing,25,Free Shipping,Yes,Spring,Australia,25-34
+1358,Female,22,Blouse,Clothing,41,Next Day Air,Yes,Spring,Australia,25-34
+1359,Male,22,Blouse,Clothing,22,Express,Yes,Spring,Australia,25-34
+1360,Female,22,Blouse,Clothing,63,Free Shipping,Yes,Spring,Australia,25-34
+1361,Female,22,Blouse,Clothing,55,Next Day Air,Yes,Spring,Australia,25-34
+1362,Female,22,Blouse,Clothing,98,Express,Yes,Spring,Australia,25-34
+1363,Male,22,Blouse,Clothing,99,Free Shipping,Yes,Spring,Australia,25-34
+1364,Female,22,Blouse,Clothing,65,Next Day Air,Yes,Spring,Australia,25-34
+1365,Male,22,Blouse,Clothing,35,Express,Yes,Summer,Australia,25-34
+1366,Female,22,Blouse,Clothing,85,Free Shipping,Yes,Summer,Australia,25-34
+1367,Male,22,Blouse,Clothing,96,Next Day Air,Yes,Summer,Australia,25-34
+1368,Female,22,Blouse,Clothing,74,Express,Yes,Summer,Australia,25-34
+1369,Female,22,Blouse,Clothing,52,Free Shipping,Yes,Summer,Australia,25-34
+1370,Male,22,Blouse,Clothing,22,Next Day Air,Yes,Summer,Australia,25-34
+1371,Male,23,Blouse,Clothing,21,Express,Yes,Summer,Australia,25-34
+1372,Male,25,Blouse,Clothing,45,Free Shipping,Yes,Summer,Australia,25-34
+1373,Male,46,Blouse,Clothing,77,Next Day Air,Yes,Summer,Australia,55-64
+1374,Male,28,Blouse,Clothing,50,Express,Yes,Summer,Australia,25-34
+1375,Female,24,Blouse,Clothing,25,Free Shipping,Yes,Summer,Australia,25-34
+1376,Female,27,Blouse,Clothing,15,Next Day Air,Yes,Summer,Australia,25-34
+1377,Male,22,Blouse,Clothing,69,Express,Yes,Summer,Australia,25-34
+1378,Male,22,Blouse,Clothing,85,Free Shipping,Yes,Summer,Australia,25-34
+1379,Male,22,Blouse,Clothing,12,Next Day Air,Yes,Summer,Australia,25-34
+1380,Male,22,Blouse,Clothing,100,Express,Yes,Summer,Australia,25-34
+1381,Female,22,Blouse,Clothing,23,Free Shipping,Yes,Summer,Australia,25-34
+1382,Female,22,Blouse,Clothing,14,Next Day Air,Yes,Summer,Australia,25-34
+1383,Male,22,Blouse,Clothing,25,Express,Yes,Summer,Australia,25-34
+1384,Female,22,Blouse,Clothing,41,Free Shipping,Yes,Summer,Australia,25-34
+1385,Female,22,Blouse,Clothing,22,Next Day Air,Yes,Summer,Australia,25-34
+1386,Male,22,Blouse,Clothing,63,Express,Yes,Summer,Australia,25-34
+1387,Female,22,Blouse,Clothing,55,Free Shipping,Yes,Summer,Australia,25-34
+1388,Male,22,Blouse,Clothing,98,Next Day Air,Yes,Summer,Australia,25-34
+1389,Female,22,Blouse,Clothing,99,Express,Yes,Summer,Australia,25-34
+1390,Female,22,Blouse,Clothing,65,Free Shipping,Yes,Summer,Australia,25-34
+1391,Female,22,Blouse,Clothing,35,Next Day Air,Yes,Summer,Australia,25-34
+1392,Female,22,Blouse,Clothing,85,Express,Yes,Summer,Australia,25-34
+1393,Male,22,Blouse,Clothing,96,Free Shipping,Yes,Summer,Australia,25-34
+1394,Female,22,Blouse,Clothing,74,Next Day Air,Yes,Summer,Australia,25-34
+1395,Female,22,Blouse,Clothing,52,Express,Yes,Summer,Australia,25-34
+1396,Female,22,Blouse,Clothing,22,Free Shipping,Yes,Summer,Australia,25-34
+1397,Female,22,Blouse,Clothing,21,Next Day Air,Yes,Summer,Australia,25-34
+1398,Male,22,Blouse,Clothing,45,Express,Yes,Summer,Australia,25-34
+1399,Male,33,Blouse,Clothing,77,Free Shipping,Yes,Summer,Australia,25-34
+1400,Male,33,Blouse,Clothing,50,Next Day Air,Yes,Summer,Australia,25-34
+1401,Female,33,Blouse,Clothing,25,Express,Yes,Summer,Australia,25-34
+1402,Male,33,Blouse,Clothing,15,Free Shipping,Yes,Summer,Australia,25-34
+1403,Female,33,Blouse,Clothing,69,Next Day Air,Yes,Summer,Australia,25-34
+1404,Female,33,Blouse,Clothing,85,Express,Yes,Summer,Australia,25-34
+1405,Female,33,Blouse,Clothing,12,Free Shipping,Yes,Summer,Australia,25-34
+1406,Female,33,Blouse,Clothing,100,Next Day Air,Yes,Summer,Australia,25-34
+1407,Female,33,Blouse,Clothing,23,Express,Yes,Summer,Australia,25-34
+1408,Male,33,Blouse,Clothing,14,Free Shipping,Yes,Summer,Australia,25-34
+1409,Female,33,Blouse,Clothing,25,Next Day Air,Yes,Summer,Australia,25-34
+1410,Female,33,Blouse,Clothing,41,Express,Yes,Summer,Australia,25-34
+1411,Female,33,Blouse,Clothing,22,Free Shipping,Yes,Summer,Australia,25-34
+1412,Female,33,Blouse,Clothing,63,Next Day Air,Yes,Summer,Australia,25-34
+1413,Male,33,Blouse,Clothing,55,Express,Yes,Summer,Australia,25-34
+1414,Male,33,Blouse,Clothing,98,Free Shipping,Yes,Summer,Australia,25-34
+1415,Male,33,Blouse,Clothing,99,Next Day Air,Yes,Summer,Australia,25-34
+1416,Female,33,Blouse,Clothing,65,Express,Yes,Summer,Australia,25-34
+1417,Male,33,Blouse,Clothing,35,Free Shipping,Yes,Summer,Australia,25-34
+1418,Female,33,Blouse,Clothing,85,Next Day Air,Yes,Summer,Australia,25-34
+1419,Female,33,Blouse,Clothing,96,Express,Yes,Summer,Australia,25-34
+1420,Female,60,Blouse,Clothing,74,Free Shipping,Yes,Summer,Australia,55-64
+1421,Female,60,Blouse,Clothing,52,Next Day Air,Yes,Summer,Australia,55-64
+1422,Female,60,Blouse,Clothing,22,Express,Yes,Summer,United States,55-64
+1423,Male,60,Blouse,Clothing,21,Free Shipping,Yes,Summer,United States,55-64
+1424,Female,60,Blouse,Clothing,45,Next Day Air,Yes,Summer,United States,55-64
+1425,Female,60,Blouse,Clothing,77,Express,Yes,Summer,United States,55-64
+1426,Female,60,Blouse,Clothing,50,Free Shipping,Yes,Summer,United States,55-64
+1427,Female,60,Blouse,Clothing,25,Next Day Air,Yes,Summer,United States,55-64
+1428,Male,60,Blouse,Clothing,15,Express,Yes,Summer,United States,55-64
+1429,Male,60,Blouse,Clothing,69,Free Shipping,Yes,Summer,United States,55-64
+1430,Male,60,Blouse,Clothing,85,Next Day Air,Yes,Summer,United States,55-64
+1431,Female,60,Blouse,Clothing,12,Express,Yes,Summer,United States,55-64
+1432,Male,60,Blouse,Clothing,100,Free Shipping,Yes,Summer,United States,55-64
+1433,Female,60,Blouse,Clothing,23,Next Day Air,Yes,Summer,United States,55-64
+1434,Female,55,Blouse,Clothing,14,Express,Yes,Summer,United States,55-64
+1435,Female,55,Blouse,Clothing,25,Free Shipping,Yes,Summer,United States,55-64
+1436,Female,55,Blouse,Clothing,41,Next Day Air,Yes,Summer,Australia,55-64
+1437,Male,55,Blouse,Clothing,22,Express,Yes,Summer,Australia,55-64
+1438,Male,55,Blouse,Clothing,63,Free Shipping,Yes,Summer,Australia,55-64
+1439,Male,55,Blouse,Clothing,55,Next Day Air,Yes,Summer,Australia,55-64
+1440,Female,55,Blouse,Clothing,98,Express,Yes,Summer,Australia,55-64
+1441,Male,55,Blouse,Clothing,99,Free Shipping,Yes,Summer,Australia,55-64
+1442,Female,55,Blouse,Clothing,65,Next Day Air,Yes,Summer,Australia,55-64
+1443,Female,55,Blouse,Clothing,35,Express,Yes,Summer,Australia,55-64
+1444,Female,55,Blouse,Clothing,85,Free Shipping,Yes,Summer,Australia,55-64
+1445,Female,55,Blouse,Clothing,96,Next Day Air,Yes,Summer,Australia,55-64
+1446,Female,55,Blouse,Clothing,74,Express,Yes,Summer,Australia,55-64
+1447,Male,55,Blouse,Clothing,52,Free Shipping,Yes,Summer,Australia,55-64
+1448,Female,55,Blouse,Clothing,22,Next Day Air,Yes,Summer,Australia,55-64
+1449,Female,55,Blouse,Clothing,21,Express,Yes,Summer,Australia,55-64
+1450,Female,55,Blouse,Clothing,45,Free Shipping,Yes,Summer,Australia,55-64
+1451,Male,55,Blouse,Clothing,77,Next Day Air,Yes,Summer,Australia,55-64
+1452,Female,55,Blouse,Clothing,50,Express,Yes,Summer,Australia,55-64
+1453,Female,55,Blouse,Clothing,25,Free Shipping,Yes,Summer,Australia,55-64
+1454,Female,55,Blouse,Clothing,15,Next Day Air,Yes,Summer,Australia,55-64
+1455,Female,55,Blouse,Clothing,69,Express,Yes,Summer,Australia,55-64
+1456,Male,55,Blouse,Clothing,85,Free Shipping,Yes,Summer,Australia,55-64
+1457,Male,55,Blouse,Clothing,12,Next Day Air,Yes,Summer,Australia,55-64
+1458,Male,55,Blouse,Clothing,100,Express,Yes,Summer,Australia,55-64
+1459,Female,55,Blouse,Clothing,23,Free Shipping,Yes,Summer,Australia,55-64
+1460,Male,55,Blouse,Clothing,14,Next Day Air,Yes,Summer,Australia,55-64
+1461,Female,55,Blouse,Clothing,25,Express,Yes,Summer,Australia,55-64
+1462,Female,55,Blouse,Clothing,41,Free Shipping,Yes,Summer,Australia,55-64
+1463,Female,55,Blouse,Clothing,22,Next Day Air,Yes,Summer,Australia,55-64
+1464,Female,55,Blouse,Clothing,63,Express,Yes,Summer,Australia,55-64
+1465,Female,55,Blouse,Clothing,55,Free Shipping,Yes,Summer,Australia,55-64
+1466,Male,55,Blouse,Clothing,98,Next Day Air,Yes,Summer,Australia,55-64
+1467,Female,55,Blouse,Clothing,99,Express,Yes,Summer,Australia,55-64
+1468,Female,55,Blouse,Clothing,65,Free Shipping,Yes,Summer,Australia,55-64
+1469,Female,55,Blouse,Clothing,35,Next Day Air,Yes,Summer,Australia,55-64
+1470,Female,55,Blouse,Clothing,85,Express,Yes,Summer,Australia,55-64
+1471,Male,55,Blouse,Clothing,96,Free Shipping,Yes,Summer,Australia,55-64
+1472,Female,55,Blouse,Clothing,74,Next Day Air,Yes,Summer,Australia,55-64
+1473,Female,55,Blouse,Clothing,52,Express,Yes,Summer,Australia,55-64
+1474,Female,55,Blouse,Clothing,22,Free Shipping,Yes,Summer,Australia,55-64
+1475,Female,55,Blouse,Clothing,21,Next Day Air,Yes,Summer,Australia,55-64
+1476,Male,55,Blouse,Clothing,45,Express,Yes,Summer,Australia,55-64
+1477,Male,55,Blouse,Clothing,77,Free Shipping,Yes,Summer,Australia,55-64
+1478,Male,55,Blouse,Clothing,50,Next Day Air,Yes,Summer,Australia,55-64
+1479,Female,55,Blouse,Clothing,25,Express,Yes,Summer,Australia,55-64
+1480,Male,55,Blouse,Clothing,15,Free Shipping,Yes,Summer,Australia,55-64
+1481,Female,55,Blouse,Clothing,69,Next Day Air,Yes,Summer,Australia,55-64
+1482,Female,55,Blouse,Clothing,85,Express,Yes,Summer,Australia,55-64
+1483,Female,55,Blouse,Clothing,12,Free Shipping,Yes,Summer,Australia,55-64
+1484,Female,55,Blouse,Clothing,100,Next Day Air,Yes,Summer,Australia,55-64
+1485,Female,55,Blouse,Clothing,23,Express,Yes,Summer,Australia,55-64
+1486,Male,55,Blouse,Clothing,14,Free Shipping,Yes,Summer,Australia,55-64
+1487,Female,55,Blouse,Clothing,25,Next Day Air,Yes,Summer,Australia,55-64
+1488,Female,55,Blouse,Clothing,41,Express,Yes,Summer,Australia,55-64
+1489,Female,55,Blouse,Clothing,22,Free Shipping,Yes,Summer,Australia,55-64
+1490,Female,55,Blouse,Clothing,63,Next Day Air,Yes,Summer,Australia,55-64
+1491,Male,55,Blouse,Clothing,55,Express,Yes,Summer,Australia,55-64
+1492,Female,55,Blouse,Clothing,98,Free Shipping,Yes,Summer,Australia,55-64
+1493,Male,55,Blouse,Clothing,99,Next Day Air,Yes,Summer,Australia,55-64
+1494,Female,55,Blouse,Clothing,65,Express,Yes,Summer,Australia,55-64
+1495,Female,55,Blouse,Clothing,35,Free Shipping,Yes,Summer,Australia,55-64
+1496,Female,55,Blouse,Clothing,85,Next Day Air,Yes,Summer,Australia,55-64
+1497,Female,55,Blouse,Clothing,96,Express,Yes,Summer,Australia,55-64
+1498,Male,55,Blouse,Clothing,74,Free Shipping,Yes,Summer,Australia,55-64
+1499,Male,55,Blouse,Clothing,52,Next Day Air,Yes,Summer,Australia,55-64
+1500,Male,55,Blouse,Clothing,22,Express,Yes,Summer,Australia,55-64
+1501,Male,55,Blouse,Clothing,21,Free Shipping,Yes,Summer,Australia,55-64
+1502,Male,55,Blouse,Clothing,45,Next Day Air,Yes,Summer,Australia,55-64
+1503,Female,55,Blouse,Clothing,77,Express,Yes,Summer,Australia,55-64
+1504,Female,55,Blouse,Clothing,50,Free Shipping,Yes,Summer,Australia,55-64
+1505,Female,55,Blouse,Clothing,25,Next Day Air,Yes,Summer,Australia,55-64
+1506,Female,55,Blouse,Clothing,15,Express,Yes,Summer,Australia,55-64
+1507,Female,55,Blouse,Clothing,69,Free Shipping,Yes,Summer,Australia,55-64
+1508,Female,55,Blouse,Clothing,85,Next Day Air,Yes,Summer,Australia,55-64
+1509,Male,55,Blouse,Clothing,12,Express,Yes,Summer,Australia,55-64
+1510,Female,55,Blouse,Clothing,100,Free Shipping,Yes,Summer,Australia,55-64
+1511,Male,55,Blouse,Clothing,23,Next Day Air,Yes,Summer,Australia,55-64
+1512,Female,55,Blouse,Clothing,14,Express,Yes,Summer,Australia,55-64
+1513,Female,55,Blouse,Clothing,25,Free Shipping,Yes,Summer,Australia,55-64
+1514,Female,22,Blouse,Clothing,41,Next Day Air,Yes,Summer,Australia,25-34
+1515,Male,25,Blouse,Clothing,22,Express,Yes,Summer,Australia,25-34
+1516,Male,32,Blouse,Clothing,63,Free Shipping,Yes,Summer,Australia,25-34
+1517,Female,35,Blouse,Clothing,55,Next Day Air,Yes,Summer,Australia,25-34
+1518,Male,36,Blouse,Clothing,98,Express,Yes,Summer,Australia,35-44
+1519,Male,39,Blouse,Clothing,99,Free Shipping,Yes,Summer,Australia,35-44
+1520,Female,38,Blouse,Clothing,65,Next Day Air,Yes,Summer,Australia,35-44
+1521,Male,37,Blouse,Clothing,35,Express,Yes,Summer,Australia,35-44
+1522,Male,34,Blouse,Clothing,85,Free Shipping,Yes,Summer,Australia,25-34
+1523,Female,34,Blouse,Clothing,96,Next Day Air,Yes,Summer,Australia,25-34
+1524,Male,32,Blouse,Clothing,74,Express,Yes,Summer,Australia,25-34
+1525,Female,19,Blouse,Clothing,52,Free Shipping,Yes,Summer,Australia,18-24
+1526,Male,18,Blouse,Clothing,22,Next Day Air,Yes,Summer,Australia,Under 18
+1527,Female,19,Blouse,Clothing,21,Express,Yes,Summer,Australia,18-24
+1528,Male,18,Blouse,Clothing,45,Free Shipping,Yes,Summer,Australia,Under 18
+1529,Female,19,Blouse,Clothing,77,Next Day Air,Yes,Summer,Australia,18-24
+1530,Female,18,Blouse,Clothing,50,Express,Yes,Summer,Australia,Under 18
+1531,Male,19,Blouse,Clothing,25,Free Shipping,Yes,Summer,Australia,18-24
+1532,Female,22,Blouse,Clothing,15,Next Day Air,Yes,Summer,Australia,25-34
+1533,Male,25,Blouse,Clothing,69,Express,Yes,Summer,Australia,25-34
+1534,Male,26,Blouse,Clothing,85,Free Shipping,Yes,Summer,Australia,25-34
+1535,Female,28,Blouse,Clothing,12,Next Day Air,Yes,Summer,Australia,25-34
+1536,Female,28,Blouse,Clothing,100,Express,Yes,Summer,Australia,25-34
+1537,Female,27,Blouse,Clothing,23,Free Shipping,Yes,Summer,Australia,25-34
+1538,Female,23,Blouse,Clothing,14,Next Day Air,Yes,Summer,Australia,25-34
+1539,Female,30,Blouse,Clothing,25,Express,Yes,Summer,Australia,25-34
+1540,Female,33,Blouse,Clothing,41,Free Shipping,Yes,Summer,Australia,25-34
+1541,Female,31,Blouse,Clothing,22,Next Day Air,Yes,Summer,Australia,25-34
+1542,Male,32,Blouse,Clothing,63,Express,Yes,Summer,Australia,25-34
+1543,Male,32,Blouse,Clothing,55,Free Shipping,Yes,Summer,Australia,25-34
+1544,Female,32,Blouse,Clothing,98,Next Day Air,Yes,Summer,Australia,25-34
+1545,Female,32,Blouse,Clothing,99,Express,Yes,Summer,Australia,25-34
+1546,Female,32,Blouse,Clothing,65,Free Shipping,Yes,Summer,Australia,25-34
+1547,Female,32,Blouse,Clothing,35,Next Day Air,Yes,Summer,Australia,25-34
+1548,Female,32,Blouse,Clothing,85,Express,Yes,Summer,Australia,25-34
+1549,Female,32,Blouse,Clothing,96,Free Shipping,Yes,Summer,Australia,25-34
+1550,Female,32,Blouse,Clothing,74,Next Day Air,Yes,Summer,Australia,25-34
+1551,Female,32,Blouse,Clothing,52,Express,Yes,Summer,Australia,25-34
+1552,Male,55,Blouse,Clothing,22,Free Shipping,Yes,Summer,Australia,55-64
+1553,Female,33,Blouse,Clothing,21,Next Day Air,Yes,Summer,Australia,25-34
+1554,Male,36,Blouse,Clothing,45,Express,Yes,Summer,Australia,35-44
+1555,Female,39,Blouse,Clothing,77,Free Shipping,Yes,Summer,Australia,35-44
+1556,Male,38,Blouse,Clothing,50,Next Day Air,Yes,Summer,Australia,35-44
+1557,Female,34,Blouse,Clothing,25,Express,Yes,Summer,Australia,25-34
+1558,Male,35,Blouse,Clothing,15,Free Shipping,Yes,Summer,Australia,25-34
+1559,Female,36,Blouse,Clothing,69,Next Day Air,Yes,Summer,Australia,35-44
+1560,Male,36,Blouse,Clothing,85,Express,Yes,Summer,Australia,35-44
+1561,Male,36,Blouse,Clothing,12,Free Shipping,Yes,Summer,Australia,35-44
+1562,Male,38,Blouse,Clothing,100,Next Day Air,Yes,Summer,Australia,35-44
+1563,Female,18,Blouse,Clothing,23,Express,Yes,Summer,Australia,Under 18
+1564,Female,19,Blouse,Clothing,14,Free Shipping,Yes,Summer,Australia,18-24
+1565,Male,19,Blouse,Clothing,25,Next Day Air,Yes,Summer,Australia,18-24
+1566,Male,19,Blouse,Clothing,41,Express,Yes,Summer,Australia,18-24
+1567,Female,19,Blouse,Clothing,22,Free Shipping,Yes,Summer,Australia,18-24
+1568,Female,19,Blouse,Clothing,63,Next Day Air,Yes,Summer,Australia,18-24
+1569,Male,18,Blouse,Clothing,55,Express,Yes,Summer,Australia,Under 18
+1570,Female,18,Blouse,Clothing,98,Free Shipping,Yes,Summer,Australia,Under 18
+1571,Male,18,Blouse,Clothing,99,Next Day Air,Yes,Summer,Australia,Under 18
+1572,Female,18,Blouse,Clothing,65,Express,Yes,Summer,Australia,Under 18
+1573,Female,18,Blouse,Clothing,35,Free Shipping,Yes,Summer,Australia,Under 18
+1574,Female,18,Blouse,Clothing,85,Next Day Air,Yes,Summer,Australia,Under 18
+1575,Male,18,Blouse,Clothing,96,Express,Yes,Summer,Australia,Under 18
+1576,Male,18,Blouse,Clothing,74,Free Shipping,Yes,Summer,Australia,Under 18
+1577,Female,19,Blouse,Clothing,52,Next Day Air,Yes,Summer,Australia,18-24
+1578,Male,19,Blouse,Clothing,22,Express,Yes,Summer,Australia,18-24
+1579,Female,19,Blouse,Clothing,21,Free Shipping,Yes,Summer,Australia,18-24
+1580,Female,18,Blouse,Clothing,45,Next Day Air,Yes,Summer,Australia,Under 18
+1581,Male,20,Blouse,Clothing,77,Express,Yes,Summer,Australia,18-24
+1582,Male,35,Blouse,Clothing,50,Free Shipping,Yes,Summer,Australia,25-34
+1583,Male,45,Blouse,Clothing,25,Next Day Air,Yes,Summer,Australia,35-44
+1584,Female,60,Blouse,Clothing,15,Express,Yes,Summer,Australia,55-64
+1585,Female,22,Blouse,Clothing,69,Free Shipping,Yes,Summer,Australia,25-34
+1586,Male,24,Blouse,Clothing,85,Next Day Air,Yes,Summer,Australia,25-34
+1587,Female,68,Blouse,Clothing,12,Express,Yes,Summer,Australia,65+
+1588,Female,53,Blouse,Clothing,100,Free Shipping,Yes,Summer,Australia,55-64
+1589,Female,74,Blouse,Clothing,23,Next Day Air,Yes,Summer,Australia,65+
+1590,Female,55,Blouse,Clothing,14,Express,Yes,Summer,Australia,55-64
+1591,Female,51,Blouse,Clothing,25,Free Shipping,Yes,Summer,Australia,55-64
+1592,Male,42,Blouse,Clothing,41,Next Day Air,Yes,Summer,Australia,35-44
+1593,Male,43,Blouse,Clothing,22,Express,Yes,Summer,Australia,35-44
+1594,Female,47,Blouse,Clothing,63,Free Shipping,Yes,Summer,Australia,55-64
+1595,Female,48,Blouse,Clothing,55,Next Day Air,Yes,Summer,Australia,55-64
+1596,Male,60,Blouse,Clothing,98,Express,Yes,Summer,Australia,55-64
+1597,Female,22,Blouse,Clothing,99,Free Shipping,Yes,Summer,Australia,25-34
+1598,Female,21,Blouse,Clothing,65,Next Day Air,Yes,Summer,Australia,25-34
+1599,Male,19,Blouse,Clothing,35,Express,Yes,Summer,Australia,18-24
+1600,Male,23,Blouse,Clothing,85,Free Shipping,Yes,Summer,Australia,25-34
+1601,Female,25,Blouse,Clothing,96,Next Day Air,Yes,Summer,Australia,25-34
+1602,Female,25,Blouse,Clothing,74,Express,Yes,Summer,Australia,25-34
+1603,Male,26,Blouse,Clothing,52,Free Shipping,Yes,Summer,Australia,25-34
+1604,Male,28,Blouse,Clothing,22,Next Day Air,Yes,Summer,Australia,25-34
+1605,Male,27,Blouse,Clothing,21,Express,Yes,Summer,Australia,25-34
+1606,Female,29,Blouse,Clothing,45,Free Shipping,Yes,Summer,Australia,25-34
+1607,Female,21,Blouse,Clothing,77,Next Day Air,Yes,Summer,Australia,25-34
+1608,Male,24,Blouse,Clothing,50,Express,Yes,Summer,Australia,25-34
+1609,Male,25,Blouse,Clothing,25,Free Shipping,Yes,Summer,Australia,25-34
+1610,Male,26,Blouse,Clothing,15,Next Day Air,Yes,Summer,Australia,25-34
+1611,Male,23,Blouse,Clothing,69,Express,Yes,Summer,Australia,25-34
+1612,Female,25,Blouse,Clothing,85,Free Shipping,Yes,Summer,Australia,25-34
+1613,Female,33,Blouse,Clothing,12,Next Day Air,Yes,Summer,Australia,25-34
+1614,Male,33,Blouse,Clothing,100,Express,Yes,Summer,Australia,25-34
+1615,Female,36,Blouse,Clothing,23,Free Shipping,Yes,Summer,Australia,35-44
+1616,Female,25,Blouse,Clothing,14,Next Day Air,Yes,Summer,Australia,25-34
+1617,Female,36,Blouse,Clothing,25,Express,Yes,Summer,Australia,35-44
+1618,Female,39,Blouse,Clothing,41,Free Shipping,Yes,Summer,Australia,35-44
+1619,Female,38,Blouse,Clothing,22,Next Day Air,Yes,Summer,Australia,35-44
+1620,Female,22,Blouse,Clothing,63,Express,Yes,Summer,Australia,25-34
+1621,Male,22,Blouse,Clothing,55,Free Shipping,Yes,Summer,Australia,25-34
+1622,Female,22,Blouse,Clothing,98,Next Day Air,Yes,Summer,Australia,25-34
+1623,Female,22,Blouse,Clothing,99,Express,Yes,Summer,Australia,25-34
+1624,Male,22,Blouse,Clothing,65,Free Shipping,Yes,Summer,Australia,25-34
+1625,Female,22,Blouse,Clothing,35,Next Day Air,Yes,Summer,Australia,25-34
+1626,Female,22,Blouse,Clothing,85,Express,Yes,Summer,Australia,25-34
+1627,Male,22,Blouse,Clothing,96,Free Shipping,Yes,Summer,Australia,25-34
+1628,Male,22,Blouse,Clothing,74,Next Day Air,Yes,Summer,Australia,25-34
+1629,Male,22,Blouse,Clothing,52,Express,Yes,Summer,Australia,25-34
+1630,Male,22,Blouse,Clothing,22,Free Shipping,Yes,Summer,Australia,25-34
+1631,Male,22,Blouse,Clothing,21,Next Day Air,Yes,Summer,Australia,25-34
+1632,Male,22,Blouse,Clothing,45,Express,Yes,Summer,Australia,25-34
+1633,Female,22,Blouse,Clothing,77,Free Shipping,Yes,Summer,Australia,25-34
+1634,Female,22,Blouse,Clothing,50,Next Day Air,Yes,Summer,Australia,25-34
+1635,Male,22,Blouse,Clothing,25,Express,Yes,Summer,Australia,25-34
+1636,Female,22,Blouse,Clothing,15,Free Shipping,Yes,Summer,Australia,25-34
+1637,Female,22,Blouse,Clothing,69,Next Day Air,Yes,Summer,Australia,25-34
+1638,Male,22,Blouse,Clothing,85,Express,Yes,Summer,Australia,25-34
+1639,Male,22,Blouse,Clothing,12,Free Shipping,Yes,Summer,Australia,25-34
+1640,Female,22,Blouse,Clothing,100,Next Day Air,Yes,Summer,Australia,25-34
+1641,Female,22,Blouse,Clothing,23,Express,Yes,Summer,Australia,25-34
+1642,Male,22,Blouse,Clothing,14,Free Shipping,Yes,Summer,Australia,25-34
+1643,Female,22,Blouse,Clothing,25,Next Day Air,Yes,Summer,Australia,25-34
+1644,Female,22,Blouse,Clothing,41,Express,Yes,Summer,Australia,25-34
+1645,Male,22,Blouse,Clothing,22,Free Shipping,Yes,Summer,Australia,25-34
+1646,Male,22,Blouse,Clothing,63,Next Day Air,Yes,Summer,Australia,25-34
+1647,Male,22,Blouse,Clothing,55,Express,Yes,Summer,Australia,25-34
+1648,Female,22,Blouse,Clothing,98,Free Shipping,Yes,Summer,Australia,25-34
+1649,Female,22,Blouse,Clothing,99,Next Day Air,Yes,Summer,Australia,25-34
+1650,Male,22,Blouse,Clothing,65,Express,Yes,Summer,Australia,25-34
+1651,Male,22,Blouse,Clothing,35,Free Shipping,Yes,Summer,Australia,25-34
+1652,Male,22,Blouse,Clothing,85,Next Day Air,Yes,Summer,Australia,25-34
+1653,Female,22,Blouse,Clothing,96,Express,Yes,Summer,Australia,25-34
+1654,Female,22,Blouse,Clothing,74,Free Shipping,Yes,Summer,Australia,25-34
+1655,Female,22,Blouse,Clothing,52,Next Day Air,Yes,Summer,Australia,25-34
+1656,Female,22,Blouse,Clothing,22,Express,Yes,Summer,Australia,25-34
+1657,Male,22,Blouse,Clothing,21,Free Shipping,Yes,Summer,Australia,25-34
+1658,Female,22,Blouse,Clothing,45,Next Day Air,Yes,Summer,Australia,25-34
+1659,Male,22,Blouse,Clothing,77,Express,Yes,Summer,Australia,25-34
+1660,Female,22,Blouse,Clothing,50,Free Shipping,Yes,Summer,Australia,25-34
+1661,Female,22,Blouse,Clothing,25,Next Day Air,Yes,Summer,Australia,25-34
+1662,Female,22,Blouse,Clothing,15,Express,Yes,Summer,Australia,25-34
+1663,Male,22,Blouse,Clothing,69,Free Shipping,Yes,Summer,Australia,25-34
+1664,Female,22,Blouse,Clothing,85,Next Day Air,Yes,Summer,Australia,25-34
+1665,Male,22,Blouse,Clothing,12,Express,Yes,Summer,Australia,25-34
+1666,Female,22,Blouse,Clothing,100,Free Shipping,Yes,Summer,Australia,25-34
+1667,Male,22,Blouse,Clothing,23,Next Day Air,Yes,Summer,Australia,25-34
+1668,Female,22,Blouse,Clothing,14,Express,Yes,Summer,Australia,25-34
+1669,Female,22,Blouse,Clothing,25,Free Shipping,Yes,Summer,Australia,25-34
+1670,Male,22,Blouse,Clothing,41,Next Day Air,Yes,Summer,Australia,25-34
+1671,Male,22,Blouse,Clothing,22,Express,Yes,Summer,Australia,25-34
+1672,Male,22,Blouse,Clothing,63,Free Shipping,Yes,Summer,Australia,25-34
+1673,Male,22,Blouse,Clothing,55,Next Day Air,Yes,Summer,Australia,25-34
+1674,Male,22,Blouse,Clothing,98,Express,Yes,Summer,Australia,25-34
+1675,Female,22,Blouse,Clothing,99,Free Shipping,Yes,Summer,Australia,25-34
+1676,Female,22,Blouse,Clothing,65,Next Day Air,Yes,Summer,Australia,25-34
+1677,Male,22,Blouse,Clothing,35,Express,Yes,Summer,Australia,25-34
+1678,Male,22,Blouse,Clothing,85,Free Shipping,Yes,Summer,Australia,25-34
+1679,Male,22,Blouse,Clothing,96,Next Day Air,Yes,Summer,Australia,25-34
+1680,Male,22,Blouse,Clothing,74,Express,Yes,Summer,Australia,25-34
+1681,Female,22,Blouse,Clothing,52,Free Shipping,Yes,Summer,Australia,25-34
+1682,Female,22,Blouse,Clothing,22,Next Day Air,Yes,Summer,Australia,25-34
+1683,Male,22,Blouse,Clothing,21,Express,Yes,Summer,Australia,25-34
+1684,Female,22,Blouse,Clothing,45,Free Shipping,Yes,Summer,Australia,25-34
+1685,Female,22,Blouse,Clothing,77,Next Day Air,Yes,Summer,Australia,25-34
+1686,Male,22,Blouse,Clothing,50,Express,Yes,Summer,Australia,25-34
+1687,Female,22,Blouse,Clothing,25,Free Shipping,Yes,Summer,Australia,25-34
+1688,Male,22,Blouse,Clothing,15,Next Day Air,Yes,Summer,Australia,25-34
+1689,Female,22,Blouse,Clothing,69,Express,Yes,Summer,Australia,25-34
+1690,Female,22,Blouse,Clothing,85,Free Shipping,Yes,Summer,Australia,25-34
+1691,Female,22,Blouse,Clothing,12,Next Day Air,Yes,Summer,Australia,25-34
+1692,Female,22,Blouse,Clothing,100,Express,Yes,Summer,Australia,25-34
+1693,Male,22,Blouse,Clothing,23,Free Shipping,Yes,Summer,Australia,25-34
+1694,Female,22,Blouse,Clothing,14,Next Day Air,Yes,Summer,Australia,25-34
+1695,Female,22,Blouse,Clothing,25,Express,Yes,Summer,Australia,25-34
+1696,Female,22,Blouse,Clothing,41,Free Shipping,Yes,Summer,Australia,25-34
+1697,Female,22,Blouse,Clothing,22,Next Day Air,Yes,Summer,Australia,25-34
+1698,Male,22,Blouse,Clothing,63,Express,Yes,Summer,Australia,25-34
+1699,Male,22,Blouse,Clothing,55,Free Shipping,Yes,Summer,Australia,25-34
+1700,Male,22,Blouse,Clothing,98,Next Day Air,Yes,Summer,Australia,25-34
+1701,Female,22,Blouse,Clothing,99,Express,Yes,Summer,Australia,25-34
+1702,Male,22,Blouse,Clothing,65,Free Shipping,Yes,Summer,Australia,25-34
+1703,Female,22,Blouse,Clothing,35,Next Day Air,Yes,Summer,Australia,25-34
+1704,Female,22,Blouse,Clothing,85,Express,Yes,Summer,Australia,25-34
+1705,Female,22,Blouse,Clothing,96,Free Shipping,Yes,Summer,Australia,25-34
+1706,Female,22,Blouse,Clothing,74,Next Day Air,Yes,Summer,Australia,25-34
+1707,Female,22,Blouse,Clothing,52,Express,Yes,Summer,Australia,25-34
+1708,Male,22,Blouse,Clothing,22,Free Shipping,Yes,Summer,Australia,25-34
+1709,Female,22,Blouse,Clothing,21,Next Day Air,Yes,Summer,Australia,25-34
+1710,Female,22,Blouse,Clothing,45,Express,Yes,Summer,Australia,25-34
+1711,Female,22,Blouse,Clothing,77,Free Shipping,Yes,Summer,Australia,25-34
+1712,Female,22,Blouse,Clothing,50,Next Day Air,Yes,Summer,Australia,25-34
+1713,Male,22,Blouse,Clothing,25,Express,Yes,Summer,Australia,25-34
+1714,Male,22,Blouse,Clothing,15,Free Shipping,Yes,Summer,Australia,25-34
+1715,Male,22,Blouse,Clothing,69,Next Day Air,Yes,Summer,Australia,25-34
+1716,Female,22,Blouse,Clothing,85,Express,Yes,Summer,Australia,25-34
+1717,Male,22,Blouse,Clothing,12,Free Shipping,Yes,Summer,Australia,25-34
+1718,Female,22,Blouse,Clothing,100,Next Day Air,Yes,Summer,Australia,25-34
+1719,Female,22,Blouse,Clothing,23,Express,Yes,Summer,Australia,25-34
+1720,Female,22,Blouse,Clothing,14,Free Shipping,Yes,Summer,Australia,25-34
+1721,Female,22,Blouse,Clothing,25,Next Day Air,Yes,Summer,Australia,25-34
+1722,Female,22,Blouse,Clothing,41,Express,Yes,Summer,Australia,25-34
+1723,Male,22,Blouse,Clothing,22,Free Shipping,Yes,Summer,Australia,25-34
+1724,Female,22,Blouse,Clothing,63,Next Day Air,Yes,Summer,Australia,25-34
+1725,Female,22,Blouse,Clothing,55,Express,Yes,Summer,Australia,25-34
+1726,Female,22,Blouse,Clothing,98,Free Shipping,Yes,Summer,Australia,25-34
+1727,Female,22,Blouse,Clothing,99,Next Day Air,Yes,Summer,Australia,25-34
+1728,Male,22,Blouse,Clothing,65,Express,Yes,Summer,Australia,25-34
+1729,Male,22,Blouse,Clothing,35,Free Shipping,Yes,Summer,Australia,25-34
+1730,Male,22,Blouse,Clothing,85,Next Day Air,Yes,Summer,Australia,25-34
+1731,Female,22,Blouse,Clothing,96,Express,Yes,Summer,Australia,25-34
+1732,Male,22,Blouse,Clothing,74,Free Shipping,Yes,Summer,Australia,25-34
+1733,Female,22,Blouse,Clothing,52,Next Day Air,Yes,Summer,Australia,25-34
+1734,Female,22,Blouse,Clothing,22,Express,Yes,Summer,Australia,25-34
+1735,Female,22,Blouse,Clothing,21,Free Shipping,Yes,Summer,Australia,25-34
+1736,Female,22,Blouse,Clothing,45,Next Day Air,Yes,Summer,Australia,25-34
+1737,Male,22,Blouse,Clothing,77,Express,Yes,Summer,Australia,25-34
+1738,Male,22,Blouse,Clothing,50,Free Shipping,Yes,Summer,Australia,25-34
+1739,Male,22,Blouse,Clothing,25,Next Day Air,Yes,Summer,Australia,25-34
+1740,Female,22,Blouse,Clothing,15,Express,Yes,Summer,Australia,25-34
+1741,Male,22,Blouse,Clothing,69,Free Shipping,Yes,Summer,Australia,25-34
+1742,Female,22,Blouse,Clothing,85,Next Day Air,Yes,Summer,Australia,25-34
+1743,Female,22,Blouse,Clothing,12,Express,Yes,Summer,Australia,25-34
+1744,Female,22,Blouse,Clothing,100,Free Shipping,Yes,Summer,Australia,25-34
+1745,Female,22,Blouse,Clothing,23,Next Day Air,Yes,Summer,Australia,25-34
+1746,Female,22,Blouse,Clothing,14,Express,Yes,Summer,Australia,25-34
+1747,Male,22,Blouse,Clothing,25,Free Shipping,Yes,Summer,Australia,25-34
+1748,Female,22,Blouse,Clothing,41,Next Day Air,Yes,Summer,Australia,25-34
+1749,Female,22,Blouse,Clothing,22,Express,Yes,Summer,Australia,25-34
+1750,Female,22,Blouse,Clothing,63,Free Shipping,Yes,Summer,Australia,25-34
+1751,Male,22,Blouse,Clothing,55,Next Day Air,Yes,Summer,Australia,25-34
+1752,Female,22,Blouse,Clothing,98,Express,Yes,Summer,Australia,25-34
+1753,Female,22,Blouse,Clothing,99,Free Shipping,Yes,Summer,Australia,25-34
+1754,Female,22,Blouse,Clothing,65,Next Day Air,Yes,Summer,Australia,25-34
+1755,Female,22,Blouse,Clothing,35,Express,Yes,Summer,Australia,25-34
+1756,Male,22,Blouse,Clothing,85,Free Shipping,Yes,Summer,Australia,25-34
+1757,Male,22,Blouse,Clothing,96,Next Day Air,Yes,Summer,Australia,25-34
+1758,Male,22,Blouse,Clothing,74,Express,Yes,Summer,Australia,25-34
+1759,Female,22,Blouse,Clothing,52,Free Shipping,Yes,Summer,Australia,25-34
+1760,Male,22,Blouse,Clothing,22,Next Day Air,Yes,Summer,Australia,25-34
+1761,Female,22,Blouse,Clothing,21,Express,Yes,Summer,Australia,25-34
+1762,Female,22,Blouse,Clothing,45,Free Shipping,Yes,Summer,Australia,25-34
+1763,Female,22,Blouse,Clothing,77,Next Day Air,Yes,Summer,Australia,25-34
+1764,Female,22,Blouse,Clothing,50,Express,Yes,Summer,Australia,25-34
+1765,Female,22,Blouse,Clothing,25,Free Shipping,Yes,Summer,Australia,25-34
+1766,Male,22,Blouse,Clothing,15,Next Day Air,Yes,Summer,Australia,25-34
+1767,Female,22,Blouse,Clothing,69,Express,Yes,Summer,Australia,25-34
+1768,Female,22,Blouse,Clothing,85,Free Shipping,Yes,Summer,Australia,25-34
+1769,Female,22,Blouse,Clothing,12,Next Day Air,Yes,Summer,Australia,25-34
+1770,Female,22,Blouse,Clothing,100,Express,Yes,Summer,Australia,25-34
+1771,Male,22,Blouse,Clothing,23,Express,Yes,Summer,Australia,25-34
+1772,Female,22,Blouse,Clothing,14,Free Shipping,Yes,Summer,Australia,25-34
+1773,Female,22,Blouse,Clothing,25,Next Day Air,Yes,Summer,Australia,25-34
+1774,Female,22,Blouse,Clothing,41,Express,Yes,Summer,Australia,25-34
+1775,Female,22,Blouse,Clothing,22,Free Shipping,Yes,Summer,Australia,25-34
+1776,Male,22,Blouse,Clothing,63,Next Day Air,Yes,Summer,Australia,25-34
+1777,Male,22,Blouse,Clothing,55,Express,Yes,Summer,Australia,25-34
+1778,Male,22,Blouse,Clothing,98,Free Shipping,Yes,Summer,Australia,25-34
+1779,Female,22,Blouse,Clothing,99,Next Day Air,Yes,Summer,Australia,25-34
+1780,Male,22,Blouse,Clothing,65,Express,Yes,Summer,Australia,25-34
+1781,Female,22,Blouse,Clothing,35,Free Shipping,Yes,Summer,Australia,25-34
+1782,Female,22,Blouse,Clothing,85,Next Day Air,Yes,Summer,Australia,25-34
+1783,Female,22,Blouse,Clothing,96,Express,Yes,Summer,Australia,25-34
+1784,Female,22,Blouse,Clothing,74,Free Shipping,Yes,Summer,Australia,25-34
+1785,Female,22,Blouse,Clothing,52,Next Day Air,Yes,Summer,Australia,25-34
+1786,Male,22,Blouse,Clothing,22,Express,Yes,Summer,Australia,25-34
+1787,Female,22,Blouse,Clothing,21,Free Shipping,Yes,Summer,Australia,25-34
+1788,Female,22,Blouse,Clothing,45,Next Day Air,Yes,Summer,Australia,25-34
+1789,Female,22,Blouse,Clothing,77,Express,Yes,Summer,Australia,25-34
+1790,Female,22,Blouse,Clothing,50,Free Shipping,Yes,Summer,Australia,25-34
+1791,Male,22,Blouse,Clothing,25,Next Day Air,Yes,Summer,Australia,25-34
+1792,Female,22,Blouse,Clothing,15,Express,Yes,Summer,Australia,25-34
+1793,Male,22,Blouse,Clothing,69,Free Shipping,Yes,Summer,Australia,25-34
+1794,Female,22,Blouse,Clothing,85,Next Day Air,Yes,Summer,Australia,25-34
+1795,Female,22,Blouse,Clothing,12,Express,Yes,Summer,Australia,25-34
+1796,Female,22,Blouse,Clothing,100,Free Shipping,Yes,Summer,Australia,25-34
+1797,Female,22,Blouse,Clothing,23,Next Day Air,Yes,Summer,Australia,25-34
+1798,Male,22,Blouse,Clothing,14,Express,Yes,Summer,Australia,25-34
+1799,Male,22,Blouse,Clothing,25,Free Shipping,Yes,Summer,Australia,25-34
+1800,Male,22,Blouse,Clothing,41,Next Day Air,Yes,Summer,Australia,25-34
+1801,Male,22,Blouse,Clothing,22,Express,Yes,Summer,Australia,25-34
+1802,Male,22,Blouse,Clothing,63,Free Shipping,Yes,Summer,Australia,25-34
+1803,Female,22,Blouse,Clothing,55,Next Day Air,Yes,Summer,Australia,25-34
+1804,Female,22,Blouse,Clothing,98,Express,Yes,Summer,Australia,25-34
+1805,Female,22,Blouse,Clothing,99,Free Shipping,Yes,Summer,Australia,25-34
+1806,Female,22,Blouse,Clothing,65,Next Day Air,Yes,Summer,Australia,25-34
+1807,Female,22,Blouse,Clothing,35,Express,Yes,Summer,Australia,25-34
+1808,Female,22,Blouse,Clothing,85,Free Shipping,Yes,Summer,Australia,25-34
+1809,Male,22,Blouse,Clothing,96,Next Day Air,Yes,Summer,Australia,25-34
+1810,Female,22,Blouse,Clothing,74,Express,Yes,Summer,Australia,25-34
+1811,Male,22,Blouse,Clothing,52,Free Shipping,Yes,Summer,Australia,25-34
+1812,Female,22,Blouse,Clothing,22,Next Day Air,Yes,Summer,Australia,25-34
+1813,Female,22,Blouse,Clothing,21,Express,Yes,Summer,Australia,25-34
+1814,Female,22,Blouse,Clothing,45,Free Shipping,Yes,Summer,Australia,25-34
+1815,Male,22,Blouse,Clothing,77,Next Day Air,Yes,Summer,Australia,25-34
+1816,Male,22,Blouse,Clothing,50,Express,Yes,Summer,Australia,25-34
+1817,Female,22,Blouse,Clothing,25,Free Shipping,Yes,Summer,Australia,25-34
+1818,Male,22,Blouse,Clothing,15,Next Day Air,Yes,Summer,Australia,25-34
+1819,Male,22,Blouse,Clothing,69,Express,Yes,Summer,Australia,25-34
+1820,Female,22,Blouse,Clothing,85,Free Shipping,Yes,Summer,Australia,25-34
+1821,Male,22,Blouse,Clothing,12,Next Day Air,Yes,Summer,Australia,25-34
+1822,Male,22,Blouse,Clothing,100,Express,Yes,Summer,Australia,25-34
+1823,Female,22,Blouse,Clothing,23,Free Shipping,Yes,Summer,Australia,25-34
+1824,Male,22,Blouse,Clothing,14,Next Day Air,Yes,Summer,Australia,25-34
+1825,Female,22,Blouse,Clothing,25,Express,Yes,Summer,Australia,25-34
+1826,Male,22,Blouse,Clothing,41,Free Shipping,Yes,Summer,Australia,25-34
+1827,Female,22,Blouse,Clothing,22,Next Day Air,Yes,Summer,Australia,25-34
+1828,Male,22,Blouse,Clothing,63,Express,Yes,Summer,Australia,25-34
+1829,Female,22,Blouse,Clothing,55,Free Shipping,Yes,Summer,Australia,25-34
+1830,Female,22,Blouse,Clothing,98,Next Day Air,Yes,Summer,Australia,25-34
+1831,Male,23,Blouse,Clothing,99,Express,Yes,Summer,Australia,25-34
+1832,Female,25,Blouse,Clothing,65,Free Shipping,Yes,Summer,Australia,25-34
+1833,Male,46,Blouse,Clothing,35,Next Day Air,Yes,Summer,Australia,55-64
+1834,Male,28,Blouse,Clothing,85,Express,Yes,Summer,Australia,25-34
+1835,Female,24,Blouse,Clothing,96,Free Shipping,Yes,Summer,Australia,25-34
+1836,Female,27,Blouse,Clothing,74,Next Day Air,Yes,Summer,Australia,25-34
+1837,Female,22,Blouse,Clothing,52,Express,Yes,Summer,Australia,25-34
+1838,Female,22,Blouse,Clothing,22,Free Shipping,Yes,Summer,Australia,25-34
+1839,Female,22,Blouse,Clothing,21,Next Day Air,Yes,Summer,Australia,25-34
+1840,Female,22,Blouse,Clothing,45,Express,Yes,Summer,Australia,25-34
+1841,Female,22,Boots,Footwear,77,Free Shipping,Yes,Summer,Australia,25-34
+1842,Male,22,Boots,Footwear,50,Next Day Air,Yes,Summer,Australia,25-34
+1843,Male,22,Boots,Footwear,25,Express,Yes,Summer,Australia,25-34
+1844,Female,22,Boots,Footwear,15,Free Shipping,Yes,Summer,Australia,25-34
+1845,Female,22,Boots,Footwear,69,Next Day Air,Yes,Summer,Australia,25-34
+1846,Female,22,Boots,Footwear,85,Express,Yes,Summer,Australia,25-34
+1847,Female,22,Boots,Footwear,12,Free Shipping,Yes,Summer,Australia,25-34
+1848,Female,22,Boots,Footwear,100,Next Day Air,Yes,Summer,Australia,25-34
+1849,Female,22,Boots,Footwear,23,Express,Yes,Summer,Australia,25-34
+1850,Female,22,Boots,Footwear,14,Free Shipping,Yes,Summer,Australia,25-34
+1851,Female,22,Boots,Footwear,25,Next Day Air,Yes,Summer,Australia,25-34
+1852,Male,22,Boots,Footwear,41,Express,Yes,Summer,Australia,25-34
+1853,Female,22,Boots,Footwear,22,Free Shipping,Yes,Summer,Australia,25-34
+1854,Male,22,Boots,Footwear,63,Next Day Air,Yes,Summer,Australia,25-34
+1855,Female,22,Boots,Footwear,55,Express,Yes,Summer,Australia,25-34
+1856,Male,22,Boots,Footwear,98,Free Shipping,Yes,Summer,Australia,25-34
+1857,Female,22,Boots,Footwear,99,Next Day Air,Yes,Summer,Australia,25-34
+1858,Male,22,Boots,Footwear,65,Express,Yes,Summer,Turkey,25-34
+1859,Female,33,Boots,Footwear,35,Free Shipping,Yes,Summer,Turkey,25-34
+1860,Male,33,Boots,Footwear,85,Next Day Air,Yes,Summer,Turkey,25-34
+1861,Male,33,Boots,Footwear,96,Express,Yes,Summer,Turkey,25-34
+1862,Male,33,Boots,Footwear,74,Free Shipping,Yes,Summer,Turkey,25-34
+1863,Female,33,Boots,Footwear,52,Next Day Air,Yes,Summer,Turkey,25-34
+1864,Female,33,Boots,Footwear,22,Express,Yes,Summer,Turkey,25-34
+1865,Male,33,Boots,Footwear,21,Free Shipping,Yes,Summer,Turkey,25-34
+1866,Male,33,Boots,Footwear,45,Next Day Air,Yes,Summer,Turkey,25-34
+1867,Female,33,Boots,Footwear,77,Express,Yes,Summer,Turkey,25-34
+1868,Female,33,Boots,Footwear,50,Free Shipping,Yes,Summer,Turkey,25-34
+1869,Male,33,Boots,Footwear,25,Next Day Air,Yes,Summer,Turkey,25-34
+1870,Female,33,Boots,Footwear,15,Express,Yes,Summer,Turkey,25-34
+1871,Male,33,Boots,Footwear,69,Free Shipping,Yes,Summer,Turkey,25-34
+1872,Female,33,Boots,Footwear,85,Next Day Air,Yes,Summer,Turkey,25-34
+1873,Female,33,Boots,Footwear,12,Express,Yes,Summer,Turkey,25-34
+1874,Female,33,Boots,Footwear,100,Free Shipping,Yes,Summer,Turkey,25-34
+1875,Male,33,Boots,Footwear,23,Next Day Air,Yes,Summer,Australia,25-34
+1876,Male,33,Boots,Footwear,14,Express,Yes,Summer,Australia,25-34
+1877,Female,33,Boots,Footwear,25,Free Shipping,Yes,Summer,Australia,25-34
+1878,Male,33,Boots,Footwear,41,Next Day Air,Yes,Summer,Australia,25-34
+1879,Female,33,Boots,Footwear,22,Express,Yes,Summer,Australia,25-34
+1880,Female,60,Boots,Footwear,63,Free Shipping,Yes,Summer,Australia,55-64
+1881,Male,60,Boots,Footwear,55,Next Day Air,Yes,Summer,Australia,55-64
+1882,Male,60,Boots,Footwear,98,Express,Yes,Summer,Australia,55-64
+1883,Male,60,Boots,Footwear,99,Free Shipping,Yes,Summer,Australia,55-64
+1884,Female,60,Boots,Footwear,65,Next Day Air,Yes,Summer,Australia,55-64
+1885,Female,60,Boots,Footwear,35,Express,Yes,Summer,Australia,55-64
+1886,Male,60,Boots,Footwear,85,Free Shipping,Yes,Summer,Australia,55-64
+1887,Female,60,Boots,Footwear,96,Next Day Air,Yes,Summer,Australia,55-64
+1888,Female,60,Boots,Footwear,74,Express,Yes,Summer,Australia,55-64
+1889,Female,60,Boots,Footwear,52,Free Shipping,Yes,Summer,Australia,55-64
+1890,Female,60,Boots,Footwear,22,Next Day Air,Yes,Summer,Australia,55-64
+1891,Female,60,Boots,Footwear,21,Express,Yes,Summer,Australia,55-64
+1892,Male,60,Boots,Footwear,45,Free Shipping,Yes,Summer,Australia,55-64
+1893,Male,60,Boots,Footwear,77,Next Day Air,Yes,Summer,Australia,55-64
+1894,Female,55,Boots,Footwear,50,Express,Yes,Summer,Australia,55-64
+1895,Female,55,Boots,Footwear,25,Free Shipping,Yes,Summer,Australia,55-64
+1896,Male,55,Boots,Footwear,15,Next Day Air,Yes,Summer,Australia,55-64
+1897,Female,55,Boots,Footwear,69,Express,Yes,Summer,Australia,55-64
+1898,Female,55,Boots,Footwear,85,Free Shipping,Yes,Summer,Australia,55-64
+1899,Male,55,Boots,Footwear,12,Next Day Air,Yes,Summer,Australia,55-64
+1900,Male,55,Boots,Footwear,100,Express,Yes,Summer,Australia,55-64
+1901,Female,55,Boots,Footwear,23,Free Shipping,Yes,Summer,Australia,55-64
+1902,Female,55,Boots,Footwear,14,Next Day Air,Yes,Summer,Australia,55-64
+1903,Male,55,Boots,Footwear,25,Express,Yes,Summer,Australia,55-64
+1904,Male,55,Boots,Footwear,41,Free Shipping,Yes,Summer,Australia,55-64
+1905,Male,55,Boots,Footwear,22,Next Day Air,Yes,Summer,Australia,55-64
+1906,Female,55,Boots,Footwear,63,Express,Yes,Summer,Australia,55-64
+1907,Female,55,Boots,Footwear,55,Free Shipping,Yes,Summer,Australia,55-64
+1908,Male,55,Boots,Footwear,98,Next Day Air,Yes,Summer,Australia,55-64
+1909,Male,55,Boots,Footwear,99,Express,Yes,Summer,Australia,55-64
+1910,Male,55,Boots,Footwear,65,Free Shipping,Yes,Summer,United States,55-64
+1911,Male,55,Boots,Footwear,35,Next Day Air,Yes,Summer,Australia,55-64
+1912,Female,18,Boots,Footwear,85,Express,Yes,Summer,Australia,Under 18
+1913,Female,20,Boots,Footwear,96,Free Shipping,Yes,Summer,Australia,18-24
+1914,Male,35,Boots,Footwear,74,Next Day Air,Yes,Summer,Australia,25-34
+1915,Female,45,Boots,Footwear,52,Express,Yes,Summer,Australia,35-44
+1916,Female,60,Boots,Footwear,22,Free Shipping,Yes,Summer,Australia,55-64
+1917,Female,22,Boots,Footwear,21,Next Day Air,Yes,Summer,Australia,25-34
+1918,Female,24,Boots,Footwear,45,Express,Yes,Summer,Australia,25-34
+1919,Female,68,Boots,Footwear,77,Free Shipping,Yes,Summer,Australia,65+
+1920,Female,53,Boots,Footwear,50,Next Day Air,Yes,Summer,United States,55-64
+1921,Male,74,Boots,Footwear,25,Express,Yes,Summer,Australia,65+
+1922,Female,55,Boots,Footwear,15,Free Shipping,Yes,Summer,Australia,55-64
+1923,Female,51,Boots,Footwear,69,Next Day Air,Yes,Summer,Australia,55-64
+1924,Male,42,Boots,Footwear,85,Express,Yes,Summer,Australia,35-44
+1925,Female,43,Boots,Footwear,12,Free Shipping,Yes,Summer,Australia,35-44
+1926,Female,47,Boots,Footwear,100,Next Day Air,Yes,Summer,Australia,55-64
+1927,Male,48,Boots,Footwear,23,Express,Yes,Summer,Australia,55-64
+1928,Male,60,Boots,Footwear,14,Free Shipping,Yes,Summer,Australia,55-64
+1929,Male,22,Boots,Footwear,25,Next Day Air,Yes,Summer,Australia,25-34
+1930,Male,21,Boots,Footwear,41,Express,Yes,Summer,Australia,25-34
+1931,Male,19,Boots,Footwear,22,Free Shipping,Yes,Summer,Australia,18-24
+1932,Male,23,Boots,Footwear,63,Next Day Air,Yes,Summer,Australia,25-34
+1933,Female,25,Boots,Footwear,55,Express,Yes,Summer,Australia,25-34
+1934,Female,25,Boots,Footwear,98,Free Shipping,Yes,Summer,Australia,25-34
+1935,Male,26,Boots,Footwear,99,Next Day Air,Yes,Summer,Australia,25-34
+1936,Female,28,Boots,Footwear,65,Express,Yes,Summer,Australia,25-34
+1937,Female,27,Boots,Footwear,35,Free Shipping,Yes,Summer,Australia,25-34
+1938,Male,29,Boots,Footwear,85,Next Day Air,Yes,Summer,Australia,25-34
+1939,Male,21,Boots,Footwear,96,Express,Yes,Summer,Australia,25-34
+1940,Female,24,Boots,Footwear,74,Free Shipping,Yes,Summer,Australia,25-34
+1941,Female,25,Boots,Footwear,52,Next Day Air,Yes,Summer,Australia,25-34
+1942,Male,26,Boots,Footwear,22,Express,Yes,Summer,Australia,25-34
+1943,Female,23,Boots,Footwear,21,Free Shipping,Yes,Summer,Australia,25-34
+1944,Female,25,Boots,Footwear,45,Next Day Air,Yes,Summer,Australia,25-34
+1945,Male,33,Boots,Footwear,77,Express,Yes,Summer,Australia,25-34
+1946,Male,33,Boots,Footwear,50,Free Shipping,Yes,Summer,Australia,25-34
+1947,Male,36,Boots,Footwear,25,Next Day Air,Yes,Summer,Australia,35-44
+1948,Female,25,Boots,Footwear,15,Express,Yes,Summer,Australia,25-34
+1949,Female,36,Boots,Footwear,69,Free Shipping,Yes,Summer,Australia,35-44
+1950,Male,39,Boots,Footwear,85,Next Day Air,Yes,Summer,Australia,35-44
+1951,Male,38,Boots,Footwear,12,Express,Yes,Summer,Australia,35-44
+1952,Male,22,Boots,Footwear,100,Free Shipping,Yes,Summer,Australia,25-34
+1953,Female,22,Boots,Footwear,23,Next Day Air,Yes,Summer,Australia,25-34
+1954,Female,22,Boots,Footwear,14,Express,Yes,Summer,Australia,25-34
+1955,Female,22,Boots,Footwear,25,Free Shipping,Yes,Summer,Australia,25-34
+1956,Female,22,Boots,Footwear,41,Next Day Air,Yes,Summer,Australia,25-34
+1957,Male,22,Boots,Footwear,22,Express,Yes,Summer,Australia,25-34
+1958,Female,22,Boots,Footwear,63,Free Shipping,Yes,Summer,Australia,25-34
+1959,Male,22,Boots,Footwear,55,Next Day Air,Yes,Summer,Australia,25-34
+1960,Female,22,Boots,Footwear,98,Express,Yes,Summer,Australia,25-34
+1961,Female,22,Boots,Footwear,99,Free Shipping,Yes,Summer,Australia,25-34
+1962,Female,22,Boots,Footwear,65,Next Day Air,Yes,Summer,Australia,25-34
+1963,Male,22,Boots,Footwear,35,Express,Yes,Summer,Australia,25-34
+1964,Female,22,Boots,Footwear,85,Free Shipping,Yes,Summer,Australia,25-34
+1965,Male,22,Boots,Footwear,96,Next Day Air,Yes,Summer,Australia,25-34
+1966,Female,22,Boots,Footwear,74,Express,Yes,Summer,Australia,25-34
+1967,Male,22,Boots,Footwear,52,Free Shipping,Yes,Summer,Australia,25-34
+1968,Female,22,Boots,Footwear,22,Next Day Air,Yes,Summer,Australia,25-34
+1969,Female,22,Boots,Footwear,21,Express,Yes,Summer,Australia,25-34
+1970,Male,22,Boots,Footwear,45,Free Shipping,Yes,Summer,Australia,25-34
+1971,Male,22,Boots,Footwear,77,Next Day Air,Yes,Summer,Australia,25-34
+1972,Male,22,Boots,Footwear,50,Express,Yes,Summer,Australia,25-34
+1973,Male,22,Boots,Footwear,25,Free Shipping,Yes,Summer,Australia,25-34
+1974,Male,22,Boots,Footwear,15,Next Day Air,Yes,Summer,Australia,25-34
+1975,Female,22,Boots,Footwear,69,Express,Yes,Summer,Australia,25-34
+1976,Female,22,Boots,Footwear,85,Free Shipping,Yes,Summer,Australia,25-34
+1977,Male,22,Boots,Footwear,12,Next Day Air,Yes,Summer,Australia,25-34
+1978,Male,22,Boots,Footwear,100,Express,Yes,Summer,Australia,25-34
+1979,Male,22,Boots,Footwear,23,Free Shipping,Yes,Summer,Australia,25-34
+1980,Male,22,Boots,Footwear,14,Next Day Air,Yes,Summer,Australia,25-34
+1981,Female,22,Boots,Footwear,25,Express,No,Summer,Australia,25-34
+1982,Female,22,Boots,Footwear,41,Free Shipping,Yes,Summer,Australia,25-34
+1983,Male,22,Boots,Footwear,22,Next Day Air,Yes,Summer,Australia,25-34
+1984,Female,22,Boots,Footwear,63,Express,Yes,Summer,Australia,25-34
+1985,Female,22,Boots,Footwear,55,Free Shipping,Yes,Summer,United States,25-34
+1986,Male,22,Boots,Footwear,98,Next Day Air,Yes,Summer,United States,25-34
+1987,Female,22,Boots,Footwear,99,Express,Yes,Summer,United States,25-34
+1988,Male,22,Boots,Footwear,65,Free Shipping,Yes,Summer,United States,25-34
+1989,Female,22,Boots,Footwear,35,Next Day Air,Yes,Summer,United States,25-34
+1990,Female,22,Boots,Footwear,85,Express,Yes,Summer,United States,25-34
+1991,Female,22,Boots,Footwear,96,Free Shipping,Yes,Summer,United States,25-34
+1992,Female,22,Boots,Footwear,74,Next Day Air,Yes,Summer,United States,25-34
+1993,Male,22,Boots,Footwear,52,Express,Yes,Summer,United States,25-34
+1994,Female,22,Boots,Footwear,22,Free Shipping,Yes,Summer,United States,25-34
+1995,Female,22,Boots,Footwear,21,Next Day Air,Yes,Summer,United States,25-34
+1996,Female,22,Boots,Footwear,45,Express,Yes,Summer,United States,25-34
+1997,Female,22,Boots,Footwear,77,Free Shipping,Yes,Summer,Brazil,25-34
+1998,Male,22,Boots,Footwear,50,Next Day Air,Yes,Summer,United States,25-34
+1999,Male,22,Boots,Footwear,25,Express,Yes,Summer,Brazil,25-34
+2000,Male,22,Boots,Footwear,15,Free Shipping,Yes,Summer,United States,25-34
